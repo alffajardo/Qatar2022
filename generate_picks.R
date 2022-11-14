@@ -1,5 +1,6 @@
 library(googledrive)
 library(googlesheets4)
+library(tidyverse)
 
 picks_id <- drive_find(type = "spreadsheet",pattern = "GroupStage1_respuestas",
 n_max = 1)$id
@@ -12,12 +13,11 @@ picks <- read_sheet(picks_id)
 
 bets <- picks[,c(5,4,6:ncol(picks))] %>%
 data.frame()
-bets <- bets[,-1]
+
 
 write.table(bets,"picks_table_test.txt",sep=" ",quote = F,
-row.names =F ,)
+row.names =F )
 
-rownames(bets) <- picks$Nombre
 
 
 

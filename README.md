@@ -23,4 +23,10 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui publicaran las picks y lo
 |-----------------|----------|------------------|-----------------|------------------------|--------------|---------------------------|--------------------|------------------|---------------------|--------------------|------------------|---------------------|-------------------|-------------------------|------------------|-------------------|------------------|
 | 002             | Alfonso  | Draw             | England         | Netherlands            | Wales        | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Draw                | Draw              | Draw                    | Draw             | Draw              | Draw             |
 | 001             | Jonathan | Draw             | Iran            | Senegal                | Wales        | Argentina                 | Draw               | Draw             | France              | Morocco            | Germany          | Draw                | Draw              | Switzerland             | Korea            | Portugal          | Brazil           |
+
+**Resumen:**
+
+
+
+
 ---
