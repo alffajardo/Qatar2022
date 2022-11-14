@@ -6,9 +6,11 @@
 ---
     
 
-## Bienvenidos 
+## Bienvenidos
+
 
 Este es el repositorio de la quiniela Qatar 2022. Aqui publicaran las picks y los resultados de la quiniela.
+
 ---
 
 # **Fase de Grupos**
