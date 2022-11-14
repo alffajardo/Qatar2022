@@ -1,7 +1,27 @@
 library(googledrive)
 library(googlesheets4)
 
-picks_id <- drive_find(type = "spreadsheet",pattern = "Group_Stage1"
+picks_id <- drive_find(type = "spreadsheet",pattern = "GroupStage1_respuestas",
+n_max = 1)$id
+
+matches_id <- drive_find(type = "spreadsheet",pattern = "matches"
  ,n_max = 1)$id
 
-picks <- googlesheets4::read_sheet(picks_id)
+matches <- read_sheet(matches_id)
+picks <- read_sheet(picks_id)
+
+bets <- picks[,c(5,4,6:ncol(picks))] %>%
+data.frame()
+bets <- bets[,-1]
+
+write.table(bets,"picks_table_test.txt",sep=" ",quote = F,
+row.names =F ,)
+
+rownames(bets) <- picks$Nombre
+
+
+
+apply(bets,2,function(x){
+    ifelse(x==matches$Local,1,0)
+})
+
