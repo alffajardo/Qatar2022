@@ -60,7 +60,7 @@ par(mfrow = c(4,4),
 
 
 
-colors <- c("skyblue4","tomato3","darkolivegreen")
+colors <- c("black","tomato3","darkolivegreen")
 
 lapply(1:16, function(x){
 
