@@ -19,16 +19,4 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui publicaran las picks y lo
   
 
 
-##  **Picks de la Ronda 1 (simulación)**
-
-| ID_participante | Nombre   | Qatar.vs.Ecuador | England.vs.Iran | Senegal.vs.Netherlands | USA.vs.Wales | Argentina.vs.Saudi.Arabia | Denmark.vs.Tunisia | Mexico.vs.Poland | France.vs.Australia | Morocco.vs.Croatia | Germany.vs.Japan | Spain.vs.Costa.Rica | Belgium.vs.Canada | Switzerland.vs.Cameroon | Uruguay.vs.Korea | Portugal.vs.Ghana | Brazil.vs.Serbia |
-|-----------------|----------|------------------|-----------------|------------------------|--------------|---------------------------|--------------------|------------------|---------------------|--------------------|------------------|---------------------|-------------------|-------------------------|------------------|-------------------|------------------|
-| 002             | Alfonso  | Draw             | England         | Netherlands            | Wales        | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Draw                | Draw              | Draw                    | Draw             | Draw              | Draw             |
-| 001             | Jonathan | Draw             | Iran            | Senegal                | Wales        | Argentina                 | Draw               | Draw             | France              | Morocco            | Germany          | Draw                | Draw              | Switzerland             | Korea            | Portugal          | Brazil           |
-
-**Resumen:**
-
-
-
-
 ---
