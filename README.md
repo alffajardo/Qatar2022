@@ -30,7 +30,7 @@ Apuestas hechas por partido por cada jugador
 | 009             | Luis Temo Marquez            | Ecuador          | England         | Netherlands            | USA          | Argentina                 | Draw               | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           |
 
 
-### Graficos
+### Gráficos
 
 ![](media/01.picks_stage1.png )
 

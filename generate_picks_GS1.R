@@ -16,7 +16,7 @@ picks <- read_sheet(picks_id) %>%
 filter(complete.cases(.)) %>%
 select(-c(22,23))
 
-picks$ID_participante <- as.character( as.character(picks$ID_participante)) %>%
+picks$ID_participante <- as.character( as.character(picks$numero_participante)) %>%
                         str_pad(pad = "0", side = "left", width = 3)
 
 bets <- picks[,c(5,4,6:ncol(picks))] %>%
@@ -71,14 +71,14 @@ lapply(1:16, function(x){
 match_image <- readPNG(Match)
 pie(result_pics[[x]],col = colors,
     main = names(result_pics)[x],
-    border = "NA",
-
- 
-)
+   border = "NA",
+   edges = 8)
 
 }
 )
 dev.off()
+
+
 
 
 
