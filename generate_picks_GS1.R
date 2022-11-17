@@ -1,8 +1,11 @@
+#!/usr/bin/Rscript
+
 library(googledrive)
 library(googlesheets4)
 library(tidyverse)
 library(png)
 
+drive_auth(email = TRUE)
 
 picks_id <- drive_find(type = "spreadsheet",pattern = "Group_Stage1_respuestas",
 n_max = 1)$id
@@ -16,12 +19,12 @@ picks <- read_sheet(picks_id) %>%
 filter(complete.cases(.)) %>%
 select(-c(22,23))
 
-picks$ID_participante <- as.character( as.character(picks$numero_participante)) %>%
+picks$numero_participante <- as.character( as.character(picks$numero_participante)) %>%
                         str_pad(pad = "0", side = "left", width = 3)
 
 bets <- picks[,c(5,4,6:ncol(picks))] %>%
 tibble() %>%
-arrange(ID_participante)
+arrange(numero_participante)
 
 
 write.table(bets,"GS1_picks.csv",sep=",",
@@ -71,8 +74,7 @@ lapply(1:16, function(x){
 match_image <- readPNG(Match)
 pie(result_pics[[x]],col = colors,
     main = names(result_pics)[x],
-   border = "NA",
-   edges = 8)
+   border = "NA")
 
 }
 )
