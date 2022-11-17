@@ -1,8 +1,7 @@
 library(googledrive)
 library(googlesheets4)
 library(tidyverse)
-library(imager)
-library(viridis)
+library(png)
 
 
 picks_id <- drive_find(type = "spreadsheet",pattern = "Group_Stage1_respuestas",
@@ -58,11 +57,28 @@ png("media/01.picks_stage1.png",width = 20,height = 20,units = "cm",
 par(mfrow = c(4,4),
     mar = c( 3,3,3,3))
 
+
+
+
+colors <- c("skyblue4","tomato3","darkolivegreen")
+
 lapply(1:16, function(x){
-pie(result_pics[[x]],col = plasma(3),
+
+    Match <- as.character(x) %>%
+        str_pad(side = "left",pad = "0",width = 2) %>%
+        paste("flags/matches/Match",.,".png",sep = '')
+
+match_image <- readPNG(Match)
+pie(result_pics[[x]],col = colors,
     main = names(result_pics)[x],
+    border = "NA",
+
+ 
 )
+
 }
 )
 dev.off()
+
+
 
