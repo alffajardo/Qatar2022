@@ -27,4 +27,8 @@ Apuestas hechas por partido por cada jugador
 | 002             | Poncho                       | Ecuador          | England         | Netherlands            | USA          | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           |
 | 006             | Juan Carlos Avendaño Aguilar | Qatar            | England         | Netherlands            | USA          | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Switzerland             | Uruguay          | Portugal          | Brazil           |
 
+### Graficos
+
+![](media/01.picks_stage1.png )
+
 ---

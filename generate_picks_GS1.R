@@ -65,3 +65,4 @@ pie(result_pics[[x]],col = plasma(3),
 }
 )
 dev.off()
+
