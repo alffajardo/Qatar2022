@@ -58,7 +58,8 @@ setNames(bets2$Match)
 png("media/01.picks_stage1.png",width = 20,height = 20,units = "cm",
 ,  res = 196)
 par(mfrow = c(4,4),
-    mar = c( 3,3,3,3))
+    mar = c( 3,3,3,3),
+    bg = "gray85")
 
 
 
