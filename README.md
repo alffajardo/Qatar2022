@@ -33,6 +33,8 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 008                 | Héctor Zepeda               | Ecuador          | Draw            | Netherlands            | USA          | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           |
 | 009                 | Luis Temo Marquez            | Ecuador          | England         | Netherlands            | USA          | Argentina                 | Draw               | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           |
 | 012                 | Ibrahim T                    | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Poland           | France              | Croatia            | Japan            | Spain               | Belgium           | Switzerland             | Korea            | Portugal          | Brazil           |
+| 016                 | Ernie                        | Draw             | England         | Netherlands            | USA          | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           |
+| 019                 | Diego Angeles                | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           |
 ### Gráficos
 
 ![](media/01.picks_stage1.png )
@@ -49,7 +51,7 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 | numero_participante | Nombre            |
 | ------------------- | ----------------- |
 | 012                 | Ibrahim T         |
-| 001                 | Jonathan          |
 | 009                 | Luis Temo Marquez |
+| 001                 | Jonathan          |
 | 008                 | Héctor Zepeda    |
 | 003                 | Habib             |
