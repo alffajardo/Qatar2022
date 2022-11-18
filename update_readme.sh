@@ -47,7 +47,7 @@ echo "### Gráficos
 ![](media/01.picks_stage1.png )
 
 ### Similitud de las picks
-<img src="media/fifa.jpg" alt="Fifa2022" width="500"/>
+<img src="media/similarities" alt="similaties" width="500"/>
 
 ---
 ### **Jugadores notables en esta ronda**
@@ -71,9 +71,9 @@ rm *tmp*md
 
 # push to remote
 
-#git add "*.md"
-#git add "update_readme.sh"
-#git commit -m "automatic README update"
-#git push
+git add "*.md"
+git add "update_readme.sh"
+git commit -m "automatic README update"
+git push
 
 exit
