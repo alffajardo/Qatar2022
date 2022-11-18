@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# hacer git pull
+git pull
 # Script para generar mas rapido el Readme.md
 
 # Titulo
@@ -57,7 +59,7 @@ cat 00.tmp_header.md 01.tmp_Grupos.md > README.md
 rm *tmp*md
 
 # push to remote
-git pull
+
 git add "*.md"
 git add "update_readme.sh"
 git commit -m "automatic README update"
