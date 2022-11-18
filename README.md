@@ -52,4 +52,3 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 | 003                 | Habib                        |
 | 008                 | Héctor Zepeda               |
 | 006                 | Juan Carlos Avendaño Aguilar |
-| 002                 | Poncho                       |
