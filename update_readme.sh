@@ -60,7 +60,7 @@ rm *tmp*md
 git pull
 git add "*.md"
 git add "update_readme.sh"
-git commit -m "automatical header update"
+git commit -m "automatic README update"
 git push
 
 exit
