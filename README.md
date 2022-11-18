@@ -17,6 +17,8 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui publicaran las picks y lo
 
 ![](flags/matches/matches.gif)
 
+---
+
 
 
  ## <u>**Picks de la Jornada 1**</u>

@@ -25,6 +25,8 @@ echo "# **Fase de Grupos**
 
 ![](flags/matches/matches.gif)
 
+---
+
 " > 01.tmp_Grupos.md
 
 # Jornada 1
