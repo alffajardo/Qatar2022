@@ -107,6 +107,7 @@ diag(similarities) <- NA
 
 png(filename = "media/similarities_S1.png",
     width = 10,height = 10,units = "cm",res = 196)
+par = c(bg = "gray85")
 corrplot(similarities,
 method = "color",
 col = plasma(50), diag = F,
@@ -126,7 +127,7 @@ bets$delta <- delta_participants
 top <- bets %>%
 arrange(delta) %>%
 select(1:2) %>%
-head()
+head(n = 5)
 
 write.table(top,"top_GS1.csv", 
     sep = ',', 
