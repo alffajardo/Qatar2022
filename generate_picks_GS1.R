@@ -5,6 +5,7 @@ library(googlesheets4)
 library(tidyverse)
 library(png)
 
+options(gargle_oauth_email = TRUE)
 drive_auth(email = TRUE)
 
 picks_id <- drive_find(type = "spreadsheet",pattern = "Group_Stage1_respuestas",
@@ -31,8 +32,7 @@ write.table(bets,"GS1_picks.csv",sep=",",
 quote = F,
 row.names =F )
 
-# transform the table to markdown
-system("./gen_markdown_table.sh --csv < GS1_picks.csv > GS1_Picks.md ")
+
 
 
 # Lets make some stats with the bets
