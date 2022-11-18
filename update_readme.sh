@@ -50,12 +50,14 @@ echo "### Gráficos
 # Gather all the files into the read me
 
 cat 00.tmp_header.md 01.tmp_Grupos.md > README.md
+echo "Prueba" >> README.md
 
 rm *tmp*md
 
 # push to remote
 
-git add "*md"
+git add "*.md"
+git add "update_readme.sh"
 git commit -m "automatical header update"
 git push
 
