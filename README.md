@@ -41,7 +41,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 ---
 ### **Jugadores notables en esta ronda**
 
-Este es el top 5 de jugadores que cambiaran su posición en la tabla tras concluir la ronda: 
+Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
 
 
 | numero_participante | Nombre                       |

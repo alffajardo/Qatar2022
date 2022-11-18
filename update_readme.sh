@@ -52,7 +52,7 @@ echo "### Gráficos
 ---
 ### **Jugadores notables en esta ronda**
 
-Este es el top 5 de jugadores que cambiaran su posición en la tabla tras concluir la ronda: 
+Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
 
 " >> 01.tmp_Grupos.md
 ./gen_markdown_table.sh --csv < top_GS1.csv >> 01.tmp_Grupos.md
