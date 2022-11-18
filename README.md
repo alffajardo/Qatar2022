@@ -38,7 +38,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 ![](media/01.picks_stage1.png )
 
 ### Similitud de las picks
-<img src=media/similarities_S1.png alt=similarities width=300/>
+<img src=similarities_S1.png alt=similarities width=600/>
 
 ---
 ### **Jugadores notables en esta ronda**

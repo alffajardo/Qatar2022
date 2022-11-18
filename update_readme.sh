@@ -47,7 +47,7 @@ echo "### Gráficos
 ![](media/01.picks_stage1.png )
 
 ### Similitud de las picks
-<img src="media/similarities_S1.png" alt="similarities" width="300"/>
+<img src="similarities_S1.png" alt="similarities" width="600"/>
 
 ---
 ### **Jugadores notables en esta ronda**
