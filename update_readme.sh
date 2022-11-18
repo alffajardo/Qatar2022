@@ -6,7 +6,7 @@ git pull
 
 # Titulo
 
-echo "# Quiniela Qatar 2022
+echo "# **Quiniela Qatar 2022**
 <p align="center">
 
 <img src="media/fifa.jpg" alt="Fifa2022" width="1000"/>
