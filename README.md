@@ -32,6 +32,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 006                 | Juan Carlos Avendaño Aguilar | Qatar            | England         | Netherlands            | USA          | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Switzerland             | Uruguay          | Portugal          | Brazil           |
 | 008                 | Héctor Zepeda               | Ecuador          | Draw            | Netherlands            | USA          | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           |
 | 009                 | Luis Temo Marquez            | Ecuador          | England         | Netherlands            | USA          | Argentina                 | Draw               | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           |
+| 012                 | Ibrahim T                    | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Poland           | France              | Croatia            | Japan            | Spain               | Belgium           | Switzerland             | Korea            | Portugal          | Brazil           |
 ### Gráficos
 
 ![](media/01.picks_stage1.png )
@@ -45,10 +46,10 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
 
 
-| numero_participante | Nombre                       |
-| ------------------- | ---------------------------- |
-| 001                 | Jonathan                     |
-| 009                 | Luis Temo Marquez            |
-| 003                 | Habib                        |
-| 008                 | Héctor Zepeda               |
-| 006                 | Juan Carlos Avendaño Aguilar |
+| numero_participante | Nombre            |
+| ------------------- | ----------------- |
+| 012                 | Ibrahim T         |
+| 001                 | Jonathan          |
+| 009                 | Luis Temo Marquez |
+| 008                 | Héctor Zepeda    |
+| 003                 | Habib             |
