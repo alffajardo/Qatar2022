@@ -15,7 +15,7 @@ echo "# Quiniela Qatar 2022
 ## Bienvenidos
 
 
-Este es el repositorio de la quiniela Qatar 2022. Aqui se publicaran las picks y los resultados de la quiniela.
+Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks y los resultados de la quiniela.
 
 ---
 
