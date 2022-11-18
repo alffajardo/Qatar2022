@@ -46,9 +46,20 @@ echo "### Gráficos
 
 ![](media/01.picks_stage1.png )
 
+### Similitud de las picks
+<img src="media/fifa.jpg" alt="Fifa2022" width="500"/>
+
 ---
+### **Jugadores notables en esta ronda**
+
+Este es el top 5 de jugadores que cambiaran su posición en la tabla tras concluir la ronda: 
 
 " >> 01.tmp_Grupos.md
+./gen_markdown_table.sh --csv < top_GS1.csv >> 01.tmp_Grupos.md
+
+echo " --- " >> 1.tmp_Grupos.md
+
+# jugadores con mayor positibilidad de cambios
 
 
 # Gather all the files into the read me
@@ -60,9 +71,9 @@ rm *tmp*md
 
 # push to remote
 
-git add "*.md"
-git add "update_readme.sh"
-git commit -m "automatic README update"
-git push
+#git add "*.md"
+#git add "update_readme.sh"
+#git commit -m "automatic README update"
+#git push
 
 exit

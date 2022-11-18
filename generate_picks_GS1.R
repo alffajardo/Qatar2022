@@ -4,6 +4,8 @@ library(googledrive)
 library(googlesheets4)
 library(tidyverse)
 library(png)
+library(corrplot)
+library(viridis)
 
 options(gargle_oauth_email = TRUE)
 drive_auth(email = TRUE)
@@ -26,6 +28,8 @@ picks$numero_participante <- as.character( as.character(picks$numero_participant
 bets <- picks[,c(5,4,6:ncol(picks))] %>%
 tibble() %>%
 arrange(numero_participante)
+
+
 
 
 write.table(bets,"GS1_picks.csv",sep=",",
@@ -81,7 +85,50 @@ pie(result_pics[[x]],col = colors,
 )
 dev.off()
 
+#  veamos quien puede subir of bajar más en la tabla
+
+bets2 <- bets[,3:ncol(bets)]
+dims <- dim(bets2)
+
+similarities <- matrix(NA, dims[1],dims[1],
+dimnames = list(bets$numero_participante,bets$numero_participante))
+
+for (i in 1:nrow(bets2) ){
+x <- bets2[i,]
+y <- apply(bets2,1,"==",x) %>%
+    colSums
+similarities[i,] <- y
+
+}
 
 
+similarities <- similarities / 16 * 100
+diag(similarities) <- NA
 
+png(filename = "media/similarities_S1.png",
+    width = 10,height = 10,units = "cm",res = 196)
+corrplot(similarities,
+method = "color",
+col = plasma(50), diag = F,
+addgrid.col = T,tl.col = "Black",
+order = "hclust",   main = "Similitud entre jugadores",
+mar = c(1,1,1,1),cex.main = 1,
+is.corr = F,
+type = "lower",
+hclust.method = "ward.D",tl.cex = 1,tl.srt = 45)
 
+dev.off()
+
+delta_participants <- colMeans(similarities,na.rm = T)
+
+bets$delta <- delta_participants
+
+top <- bets %>%
+arrange(delta) %>%
+select(1:2) %>%
+head()
+
+write.table(top,"top_GS1.csv", 
+    sep = ',', 
+    quote = F, 
+    row.names = F)

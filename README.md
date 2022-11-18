@@ -35,6 +35,19 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 ![](media/01.picks_stage1.png )
 
+### Similitud de las picks
+<img src=media/fifa.jpg alt=Fifa2022 width=500/>
+
 ---
+### **Jugadores notables en esta ronda**
+
+Este es el top 5 de jugadores que cambiaran su posición en la tabla tras concluir la ronda: 
 
 
+| numero_participante | Nombre                       |
+| ------------------- | ---------------------------- |
+| 001                 | Jonathan                     |
+| 008                 | Héctor Zepeda               |
+| 009                 | Luis Temo Marquez            |
+| 006                 | Juan Carlos Avendaño Aguilar |
+| 002                 | Poncho                       |
