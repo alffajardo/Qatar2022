@@ -12,10 +12,7 @@ drive_auth(email = TRUE)
 picks_id <- drive_find(type = "spreadsheet",pattern = "Group_Stage1_respuestas",
 n_max = 1)$id
 
-matches_id <- drive_find(type = "spreadsheet",pattern = "matches"
- ,n_max = 1)$id
 
-matches <- read_sheet(matches_id)
 
 picks <- read_sheet(picks_id) %>%
 select(-c(22,23))
@@ -114,7 +111,8 @@ order = "hclust",   main = "Similitud entre jugadores",
 mar = c(1,1,1,1),cex.main = 1,
 is.corr = F,
 type = "lower",
-hclust.method = "ward.D",tl.cex = 1,tl.srt = 45)
+hclust.method = "ward.D",tl.cex = 1,tl.srt = 45,
+number.digits = 0,cl.pos = "")
 
 dev.off()
 
@@ -131,4 +129,3 @@ write.table(top,"top_GS1.csv",
     sep = ',', 
     quote = F, 
     row.names = F)
-
