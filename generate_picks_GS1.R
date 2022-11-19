@@ -2,11 +2,10 @@
 
 library(googledrive)
 library(googlesheets4)
-library(tidyverse)
 library(png)
 library(corrplot)
 library(viridis)
-
+library(tidyverse)
 options(gargle_oauth_email = TRUE)
 drive_auth(email = TRUE)
 
@@ -19,7 +18,6 @@ matches_id <- drive_find(type = "spreadsheet",pattern = "matches"
 matches <- read_sheet(matches_id)
 
 picks <- read_sheet(picks_id) %>%
-filter(complete.cases(.)) %>%
 select(-c(22,23))
 
 picks$numero_participante <- as.character( as.character(picks$numero_participante)) %>%
@@ -133,3 +131,4 @@ write.table(top,"top_GS1.csv",
     sep = ',', 
     quote = F, 
     row.names = F)
+
