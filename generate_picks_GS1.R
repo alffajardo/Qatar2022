@@ -112,7 +112,7 @@ mar = c(1,1,1,1),cex.main = 1,
 is.corr = F,
 type = "lower",
 hclust.method = "ward.D",tl.cex = 1,tl.srt = 45,
-number.digits = 0,cl.pos = "")
+number.digits = 0,cl.pos = "r")
 
 dev.off()
 
