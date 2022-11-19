@@ -29,6 +29,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 001                 | Jonathan                      | Draw             | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Draw                    | Draw             | Portugal          | Brazil           |
 | 002                 | Poncho                        | Ecuador          | England         | Netherlands            | USA          | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           |
 | 003                 | Habib                         | Ecuador          | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Draw             | France              | Draw               | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           |
+| 005                 | Israel torres                 | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Poland           | France              | Croatia            | Germany          | Spain               | Draw              | Cameroon                | Uruguay          | Portugal          | Brazil           |
 | 006                 | Juan Carlos Avendaño Aguilar | Qatar            | England         | Netherlands            | USA          | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Switzerland             | Uruguay          | Portugal          | Brazil           |
 | 008                 | Héctor Zepeda                | Ecuador          | Draw            | Netherlands            | USA          | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           |
 | 009                 | Luis Temo Marquez             | Ecuador          | England         | Netherlands            | USA          | Argentina                 | Draw               | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           |
@@ -50,10 +51,10 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
 
 
-| numero_participante | Nombre            |
-| ------------------- | ----------------- |
-| 012                 | Ibrahim T         |
-| 001                 | Jonathan          |
-| 003                 | Habib             |
-| 008                 | Héctor Zepeda    |
-| 009                 | Luis Temo Marquez |
+| numero_participante | Nombre        |
+| ------------------- | ------------- |
+| 012                 | Ibrahim T     |
+| 005                 | Israel torres |
+| 001                 | Jonathan      |
+| 003                 | Habib         |
+| 008                 | Héctor Zepeda |
