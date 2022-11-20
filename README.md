@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: dom 20 nov 2022 00:29:38 EST.
+Última actualización: dom 20 nov 2022 00:54:12 EST.
 
 
 # **Puntuaciones**
@@ -46,6 +46,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 014                 | Valentin                      | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Switzerland             | Uruguay          | Portugal          | Brazil           | M1    |
 | 015                 | Daniel Jimenez                | Draw             | England         | Netherlands            | USA          | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Draw             | Portugal          | Brazil           | M1    |
 | 016                 | Ernie                         | Draw             | England         | Netherlands            | USA          | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           | M1    |
+| 017                 | Bobacao                       | Ecuador          | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Mexico           | France              | Draw               | Germany          | Spain               | Draw              | Switzerland             | Uruguay          | Portugal          | Brazil           | M1    |
 | 018                 | Eduardo Rafael Palacios Rejón | Ecuador          | England         | Netherlands            | USA          | Argentina                 | Tunisia            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           | M1    |
 | 019                 | Diego Angeles                 | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           | M1    |
 | 020                 | Luis Angel Llamas Alonso      | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Draw               | Mexico           | France              | Draw               | Germany          | Spain               | Draw              | Switzerland             | Uruguay          | Portugal          | Brazil           | M1    |
