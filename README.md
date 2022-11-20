@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: dom 20 nov 2022 09:51:16 EST.
+Última actualización: dom 20 nov 2022 10:12:00 EST.
 
 
 # **Puntuaciones**
@@ -42,6 +42,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 008                 | Héctor Zepeda                | Ecuador          | Draw            | Netherlands            | USA          | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           |
 | 009                 | Luis Temo Marquez             | Ecuador          | England         | Netherlands            | USA          | Argentina                 | Draw               | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           |
 | 010                 | Fosi                          | Qatar            | England         | Netherlands            | USA          | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Draw                    | Draw             | Portugal          | Brazil           |
+| 011                 | Jacob                         | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Tunisia            | Mexico           | France              | Croatia            | Germany          | Draw                | Belgium           | Cameroon                | Uruguay          | Ghana             | Brazil           |
 | 012                 | Ibrahim T                     | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Poland           | France              | Croatia            | Japan            | Spain               | Belgium           | Switzerland             | Korea            | Portugal          | Brazil           |
 | 013                 | Rubén Aguilar Grande         | Ecuador          | England         | Netherlands            | Wales        | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Switzerland             | Uruguay          | Portugal          | Brazil           |
 | 014                 | Valentin                      | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Switzerland             | Uruguay          | Portugal          | Brazil           |
@@ -70,9 +71,9 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 
 | numero_participante | Nombre                   |
 | ------------------- | ------------------------ |
+| 011                 | Jacob                    |
 | 024                 | Ahmed Felfel             |
 | 012                 | Ibrahim T                |
 | 020                 | Luis Angel Llamas Alonso |
 | 017                 | Bobacao                  |
-| 022                 | Colin                    |
  --- 
