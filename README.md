@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: dom 20 nov 2022 01:11:17 EST.
+Última actualización: dom 20 nov 2022 01:14:34 EST.
 
 
 # **Puntuaciones**
@@ -70,8 +70,8 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 | numero_participante | Nombre                   |
 | ------------------- | ------------------------ |
 | 024                 | Ahmed Felfel             |
-| 020                 | Luis Angel Llamas Alonso |
 | 012                 | Ibrahim T                |
-| 023                 | adamziri                 |
-| 005                 | Israel torres            |
+| 020                 | Luis Angel Llamas Alonso |
+| 017                 | Bobacao                  |
+| 022                 | 438-880-4016             |
  --- 

@@ -4,6 +4,7 @@ library(googledrive)
 library(googlesheets4)
 library(corrplot)
 library(viridis)
+library(png)
 library(dplyr)
 library(readr)
 library(stringr)
@@ -39,7 +40,7 @@ row.names =F )
 
 # Lets make some stats with the bets
 
-bets2 <- pivot_longer(bets,3:ncol(bets),
+bets2 <- pivot_longer(bets,3:ncol(bets) -1,
                         names_to = "Match",
                         values_to = "Bet") %>%
                         nest(-`Match`)
