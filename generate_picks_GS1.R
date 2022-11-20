@@ -7,6 +7,7 @@ library(viridis)
 library(dplyr)
 library(readr)
 library(stringr)
+library(tidyr)
 options(gargle_oauth_email = TRUE)
 drive_auth(email = TRUE)
 
