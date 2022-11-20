@@ -13,32 +13,12 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: sáb 19 nov 2022 21:15:40 EST.
+Última actualización: sáb 19 nov 2022 21:16:56 EST.
 
 
 # **Puntuaciones**
 
 
-| numero_participante | Nombre                        | puntos |
-| ------------------- | ----------------------------- | ------ |
-| 002                 | Poncho                        | 1      |
-| 003                 | Habib                         | 1      |
-| 008                 | Héctor Zepeda                | 1      |
-| 009                 | Luis Temo Marquez             | 1      |
-| 013                 | Rubén Aguilar Grande         | 1      |
-| 018                 | Eduardo Rafael Palacios Rejón | 1      |
-| 001                 | Jonathan                      | 0      |
-| 005                 | Israel torres                 | 0      |
-| 006                 | Juan Carlos Avendaño Aguilar | 0      |
-| 010                 | Fosi                          | 0      |
-| 012                 | Ibrahim T                     | 0      |
-| 014                 | Valentin                      | 0      |
-| 016                 | Ernie                         | 0      |
-| 019                 | Diego Angeles                 | 0      |
-| 020                 | Luis Angel Llamas Alonso      | 0      |
-| 021                 | German Jair Sanchez Soto      | 0      |
-| 023                 | adamziri                      | 0      |
-| 024                 | Ahmed Felfel                  | 0      |
 # **Fase de Grupos**
 
 ![](flags/matches/matches.gif)
