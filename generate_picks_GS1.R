@@ -23,7 +23,8 @@ picks$numero_participante <- as.character( as.character(picks$numero_participant
 
 bets <- picks[,c(5,4,6:ncol(picks))] %>%
 tibble() %>%
-arrange(numero_participante)
+arrange(numero_participante) %>%
+mutate(Round = "M1")
 
 
 
