@@ -13,8 +13,7 @@ drive_auth(email = TRUE)
 
 
 # Calificar la ronda 1
-picks <- read_csv("GS1_picks.csv") %>%
-  select(-Round)
+picks <- read_csv("GS1_picks.csv")
 attach(picks)
 
 matches <- drive_find(pattern = "matches",type = "spreadsheet",n_max=1)$id
@@ -33,11 +32,13 @@ M1 <- matches %>%
   filter (Round == "M1") %>%
   select(Result) %>%
   as.vector() %>%
-  unlist()
+  unlist() %>%
+  unname()
 
-M1_all <- map_dfc(1:length(M1),~M1[.x] == picks2[,.x]) %>%
+# temporalmente se dejará asi
+M1_all <- map_dfc(1,~if_else( M1[.x] == picks2[,.x],true = 1,0))
 
-M1 <- rowSums(M1)
+M1 <- rowSums(M1_all)
 
 
 
@@ -48,7 +49,7 @@ scores <- data.frame(numero_participante,Nombre,M1) %>%
           group_by (numero_participante) %>%
           mutate(Total = sum(M1)) %>%
           ungroup %>%
-          arrange(desc(Total))
+          arrange(desc(Total),numero_participante)
 
 write.table(scores,"scores.csv",quote = F,sep=",",row.names = F)
 
