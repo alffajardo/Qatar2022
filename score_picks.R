@@ -26,12 +26,13 @@ result_M1 <- matches$Result
 
 picks2 <- select(picks,-c(1,2))
 
-puntos <- map_dfc(1:length(result),~result[.x] == picks2[,.x]) %>%
+M1 <- map_dfc(1:length(result),~result[.x] == picks2[,.x]) %>%
   rowSums()
 
 
-scores <- data.frame(numero_participante,Nombre,puntos) %>%
-          arrange(desc(puntos))
+scores <- data.frame(numero_participante,Nombre,M1) %>%
+          mutate(Total = sum(M1)) %>%
+          arrange(desc(Total))
 
 write.table(scores,"scores.csv",quote = F,sep=",",row.names = F)
 
