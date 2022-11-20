@@ -11,6 +11,8 @@ library(purrr)
 options(gargle_oauth_email = TRUE)
 drive_auth(email = TRUE)
 
+
+# Calificar la ronda 1
 picks <- read_csv("GS1_picks.csv") %>%
   select(-Round)
 attach(picks)
@@ -26,15 +28,22 @@ matches <- read_sheet(matches) %>%
 
 picks2 <- select(picks,-c(1,2))
 
+
 M1 <- matches %>%
   filter (Round == "M1") %>%
   select(Result) %>%
-  as.vector()
+  as.vector() %>%
+  unlist()
 
-M1 <- map_dfc(1:length(M1),~M1[.x] == picks2[,.x]) %>%
-  rowSums()
+M1_all <- map_dfc(1:length(M1),~M1[.x] == picks2[,.x]) %>%
+
+M1 <- rowSums(M1)
 
 
+
+
+
+### Escribir el output
 scores <- data.frame(numero_participante,Nombre,M1) %>%
           group_by (numero_participante) %>%
           mutate(Total = sum(M1)) %>%
