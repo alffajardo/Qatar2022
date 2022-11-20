@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: dom 20 nov 2022 01:21:54 EST.
+Última actualización: dom 20 nov 2022 04:11:27 EST.
 
 
 # **Puntuaciones**
@@ -35,6 +35,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 001                 | Jonathan                      | Draw             | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Draw                    | Draw             | Portugal          | Brazil           |
 | 002                 | Poncho                        | Ecuador          | England         | Netherlands            | USA          | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           |
 | 003                 | Habib                         | Ecuador          | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Draw             | France              | Draw               | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           |
+| 004                 | Jalil Rasgado Toledo          | Ecuador          | England         | Netherlands            | Wales        | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           |
 | 005                 | Israel torres                 | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Poland           | France              | Croatia            | Germany          | Spain               | Draw              | Cameroon                | Uruguay          | Portugal          | Brazil           |
 | 006                 | Juan Carlos Avendaño Aguilar | Qatar            | England         | Netherlands            | USA          | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Switzerland             | Uruguay          | Portugal          | Brazil           |
 | 007                 | Claudio                       | Qatar            | England         | Netherlands            | USA          | Argentina                 | Denmark            | Draw             | France              | Croatia            | Germany          | Spain               | Belgium           | Switzerland             | Uruguay          | Portugal          | Brazil           |
