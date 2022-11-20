@@ -13,6 +13,12 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
+Última actualización: sáb 19 nov 2022 20:47:31 EST.
+
+
+# **Resultados**
+
+
 # **Fase de Grupos**
 
 ![](flags/matches/matches.gif)
@@ -64,3 +70,4 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 | 023                 | adamziri                 |
 | 005                 | Israel torres            |
 | 001                 | Jonathan                 |
+ --- 

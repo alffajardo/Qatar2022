@@ -22,6 +22,9 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 " > 00.tmp_header.md
 
+echo -e "Última actualización: $(date).
+
+" >> 00.tmp_header.md 
 ### FASE DE GRUPOS
 echo "# **Fase de Grupos**
 
@@ -57,14 +60,22 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 " >> 01.tmp_Grupos.md
 ./gen_markdown_table.sh --csv < top_GS1.csv >> 01.tmp_Grupos.md
 
-echo " --- " >> 1.tmp_Grupos.md
+echo " --- " >> 01.tmp_Grupos.md
 
-# jugadores con mayor positibilidad de cambios
+# Resultados
+./score_picks.R
+
+echo "# **Resultados**
+
+" > 02.tmp_Resultados.md
+./
+
+./gen_markdown_table --csv < scores.csv >> 02.tmp_Resultados.md
 
 
 # Gather all the files into the read me
 
-cat 00.tmp_header.md 01.tmp_Grupos.md > README.md
+cat 00.tmp_header.md  02.tmp_Resultados.md 01.tmp_Grupos.md > README.md
 
 
 rm *tmp*md
