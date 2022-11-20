@@ -31,7 +31,7 @@ puntos <- map_dfc(1:length(result),~result[.x] == picks2[,.x]) %>%
 
 
 scores <- data.frame(numero_participante,Nombre,puntos) %>%
-  arrange(desc(puntos))
+          arrange(desc(puntos))
 
 write.table(scores,"scores.csv",quote = F,sep=",",row.names = F)
 
