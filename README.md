@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: dom 20 nov 2022 01:14:34 EST.
+Última actualización: dom 20 nov 2022 01:18:25 EST.
 
 
 # **Puntuaciones**
@@ -51,7 +51,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 019                 | Diego Angeles                 | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Cameroon                | Uruguay          | Portugal          | Brazil           | M1    |
 | 020                 | Luis Angel Llamas Alonso      | Qatar            | England         | Netherlands            | Draw         | Argentina                 | Draw               | Mexico           | France              | Draw               | Germany          | Spain               | Draw              | Switzerland             | Uruguay          | Portugal          | Brazil           | M1    |
 | 021                 | German Jair Sanchez Soto      | Draw             | England         | Netherlands            | USA          | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           | M1    |
-| 022                 | 438-880-4016                  | Draw             | England         | Netherlands            | USA          | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Canada            | Draw                    | Korea            | Portugal          | Brazil           | M1    |
+| 022                 | Colin                         | Draw             | England         | Netherlands            | USA          | Argentina                 | Denmark            | Mexico           | France              | Croatia            | Germany          | Spain               | Canada            | Draw                    | Korea            | Portugal          | Brazil           | M1    |
 | 023                 | adamziri                      | Draw             | England         | Netherlands            | Wales        | Argentina                 | Denmark            | Poland           | France              | Draw               | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           | M1    |
 | 024                 | Ahmed Felfel                  | Qatar            | England         | Draw                   | USA          | Argentina                 | Draw               | Draw             | France              | Morocco            | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           | M1    |
 ### Gráficos
