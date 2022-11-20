@@ -22,11 +22,16 @@ matches <- read_sheet(matches) %>%
   filter(complete.cases(.)) %>% 
   mutate(GD = abs(Goals_Local - Goals_Visitor))
 
-result_M1 <- matches$Result
+
 
 picks2 <- select(picks,-c(1,2))
 
-M1 <- map_dfc(1:length(result),~result[.x] == picks2[,.x]) %>%
+M1 <- matches %>%
+  filter (Round == "M1") %>%
+  select(Result) %>%
+  as.vector()
+
+M1 <- map_dfc(1:length(M1),~M1[.x] == picks2[,.x]) %>%
   rowSums()
 
 
