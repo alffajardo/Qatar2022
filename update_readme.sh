@@ -68,7 +68,6 @@ echo " --- " >> 01.tmp_Grupos.md
 echo "# **Resultados**
 
 " > 02.tmp_Resultados.md
-./
 
 ./gen_markdown_table --csv < scores.csv >> 02.tmp_Resultados.md
 
