@@ -69,7 +69,7 @@ echo "# **Resultados**
 
 " > 02.tmp_Resultados.md
 
-./gen_markdown_table --csv < scores.csv >> 02.tmp_Resultados.md
+./gen_markdown_table.sh --csv < scores.csv >> 02.tmp_Resultados.md
 
 
 # Gather all the files into the read me
