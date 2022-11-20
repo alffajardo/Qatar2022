@@ -2,7 +2,6 @@
 
 library(googledrive)
 library(googlesheets4)
-library(png)
 library(corrplot)
 library(viridis)
 library(dplyr)
