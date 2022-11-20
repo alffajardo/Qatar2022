@@ -25,8 +25,7 @@ picks$numero_participante <- as.character( as.character(picks$numero_participant
 
 bets <- picks[,c(5,4,6:ncol(picks))] %>%
 tibble() %>%
-arrange(numero_participante) %>%
-mutate(Round = "M1")
+arrange(numero_participante)
 
 
 
@@ -40,7 +39,7 @@ row.names =F )
 
 # Lets make some stats with the bets
 
-bets2 <- pivot_longer(bets,3:ncol(bets) -1,
+bets2 <- pivot_longer(bets,3:ncol(bets),
                         names_to = "Match",
                         values_to = "Bet") %>%
                         nest(-`Match`)
