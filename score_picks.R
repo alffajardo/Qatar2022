@@ -36,7 +36,9 @@ M1 <- map_dfc(1:length(M1),~M1[.x] == picks2[,.x]) %>%
 
 
 scores <- data.frame(numero_participante,Nombre,M1) %>%
+          group_by (numero_participante) %>%
           mutate(Total = sum(M1)) %>%
+          ungroup %>%
           arrange(desc(Total))
 
 write.table(scores,"scores.csv",quote = F,sep=",",row.names = F)
