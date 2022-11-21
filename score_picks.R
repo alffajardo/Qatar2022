@@ -29,7 +29,7 @@ picks2 <- select(picks,-c(1,2))
 
 
 GS1 <- matches %>%
-  filter (Round == "GS1") %>%
+  filter (Round == "M1") %>%
   select(Result) %>%
   as.vector() %>%
   unlist() 
@@ -37,7 +37,7 @@ GS1 <- matches %>%
 match_names <- names(picks2)[1:length(GS1)]
   
   # temporalmente se dejará asi
-G1_all <- map_dfc(1:length(GS1),~if_else( GS1[.x] == picks2[,.x],true = 1,0)) %>%
+GS1_all <- map_dfc(1:length(GS1),~if_else( GS1[.x] == picks2[,.x],true = 1,0)) %>%
   set_names(match_names)
 
 GS1 <- rowSums(GS1_all)
