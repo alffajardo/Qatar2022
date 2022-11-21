@@ -69,9 +69,16 @@ echo "# **Puntuaciones**
 
 " > 02.tmp_Resultados.md
 
+echo "## **Tabla General
+--- 
+" >> 02.tmp_Resultados
+
+
 ./gen_markdown_table.sh --csv < scores.csv >> 02.tmp_Resultados.md
 
+echo "[Resultados de la Jornada 1](GS1_complete_scores.csv)
 
+--- "  >> 02.tmp_Resultados
 # Gather all the files into the read me
 
 cat 00.tmp_header.md  02.tmp_Resultados.md 01.tmp_Grupos.md > README.md
