@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: lun 21 nov 2022 12:33:32 EST.
+Última actualización: lun 21 nov 2022 12:34:09 EST.
 
 
 # **Puntuaciones**
@@ -48,8 +48,9 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 021                 | German Jair Sanchez Soto      | 1   | 1     |
 | 022                 | Colin                         | 1   | 1     |
 | 023                 | adamziri                      | 1   | 1     |
- --- 
- [Resultados de la Jornada 1](GS1_complete_scores.csv)
+ 
+
+[Resultados de la Jornada 1](GS1_complete_scores.csv)
  
 --- 
 # **Fase de Grupos**
