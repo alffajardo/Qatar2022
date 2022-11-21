@@ -32,13 +32,16 @@ M1 <- matches %>%
   filter (Round == "M1") %>%
   select(Result) %>%
   as.vector() %>%
-  unlist() %>%
-  unname()
+  unlist() 
 
-# temporalmente se dejará asi
-M1_all <- map_dfc(1,~if_else( M1[.x] == picks2[,.x],true = 1,0))
+match_names <- names(picks2)[1:length(M1)]
+  
+  # temporalmente se dejará asi
+M1_all <- map_dfc(1:length(M1),~if_else( M1[.x] == picks2[,.x],true = 1,0)) %>%
+  set_names(match_names)
 
 M1 <- rowSums(M1_all)
+
 
 
 
@@ -50,7 +53,9 @@ scores <- data.frame(numero_participante,Nombre,M1) %>%
           mutate(Total = sum(M1)) %>%
           ungroup %>%
           arrange(desc(Total),numero_participante)
+scores_GS1 <- data_frame(numero_participante,Nombre,M1_all)
 
-write.table(scores,"scores.csv",quote = F,sep=",",row.names = F)
+write.table(scores,"Overall_scores.csv",quote = F,sep=",",row.names = F)
 
+write_table(scores_GS1, "GS1_complete_scores.csv")
 

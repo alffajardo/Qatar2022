@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: dom 20 nov 2022 15:02:32 EST.
+Última actualización: lun 21 nov 2022 12:06:40 EST.
 
 
 # **Puntuaciones**
@@ -21,30 +21,30 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 | numero_participante | Nombre                        | M1  | Total |
 | ------------------- | ----------------------------- | --- | ----- |
-| 002                 | Poncho                        | 1   | 1     |
-| 003                 | Habib                         | 1   | 1     |
-| 004                 | Jalil Rasgado Toledo          | 1   | 1     |
+| 002                 | Poncho                        | 2   | 2     |
+| 003                 | Habib                         | 2   | 2     |
+| 004                 | Jalil Rasgado Toledo          | 2   | 2     |
+| 009                 | Luis Temo Marquez             | 2   | 2     |
+| 013                 | Rubén Aguilar Grande         | 2   | 2     |
+| 017                 | Bobacao                       | 2   | 2     |
+| 018                 | Eduardo Rafael Palacios Rejón | 2   | 2     |
+| 024                 | Ahmed Felfel                  | 2   | 2     |
+| 001                 | Jonathan                      | 1   | 1     |
+| 005                 | Israel torres                 | 1   | 1     |
+| 006                 | Juan Carlos Avendaño Aguilar | 1   | 1     |
+| 007                 | Claudio                       | 1   | 1     |
 | 008                 | Héctor Zepeda                | 1   | 1     |
-| 009                 | Luis Temo Marquez             | 1   | 1     |
-| 013                 | Rubén Aguilar Grande         | 1   | 1     |
-| 017                 | Bobacao                       | 1   | 1     |
-| 018                 | Eduardo Rafael Palacios Rejón | 1   | 1     |
-| 001                 | Jonathan                      | 0   | 0     |
-| 005                 | Israel torres                 | 0   | 0     |
-| 006                 | Juan Carlos Avendaño Aguilar | 0   | 0     |
-| 007                 | Claudio                       | 0   | 0     |
-| 010                 | Fosi                          | 0   | 0     |
-| 011                 | Jacob                         | 0   | 0     |
-| 012                 | Ibrahim T                     | 0   | 0     |
-| 014                 | Valentin                      | 0   | 0     |
-| 015                 | Daniel Jimenez                | 0   | 0     |
-| 016                 | Ernie                         | 0   | 0     |
-| 019                 | Diego Angeles                 | 0   | 0     |
-| 020                 | Luis Angel Llamas Alonso      | 0   | 0     |
-| 021                 | German Jair Sanchez Soto      | 0   | 0     |
-| 022                 | Colin                         | 0   | 0     |
-| 023                 | adamziri                      | 0   | 0     |
-| 024                 | Ahmed Felfel                  | 0   | 0     |
+| 010                 | Fosi                          | 1   | 1     |
+| 011                 | Jacob                         | 1   | 1     |
+| 012                 | Ibrahim T                     | 1   | 1     |
+| 014                 | Valentin                      | 1   | 1     |
+| 015                 | Daniel Jimenez                | 1   | 1     |
+| 016                 | Ernie                         | 1   | 1     |
+| 019                 | Diego Angeles                 | 1   | 1     |
+| 020                 | Luis Angel Llamas Alonso      | 1   | 1     |
+| 021                 | German Jair Sanchez Soto      | 1   | 1     |
+| 022                 | Colin                         | 1   | 1     |
+| 023                 | adamziri                      | 1   | 1     |
 # **Fase de Grupos**
 
 ![](flags/matches/matches.gif)
