@@ -4,7 +4,9 @@
 git pull
 # Script para generar mas rapido el Readme.md
 
-# Titulo
+# -------------------------Header -----------------------------------------------------------------|
+# -------------------------------------------------------------------------------------------------|
+
 
 echo "# **Quiniela Qatar 2022**
 <p align="center">
@@ -34,7 +36,8 @@ echo "# **Fase de Grupos**
 
 " > 01.tmp_Grupos.md
 
-# Jornada 1
+# | ------------------------------------------------------------------------------------------- | 
+# PICKS DE LA JORNADA 1
 
  echo "
  ## <u>**Picks de la Jornada 1**</u>
@@ -62,7 +65,11 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 
 echo " --- " >> 01.tmp_Grupos.md
 
-# Resultados
+# ----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
+#  ------------------------- RESULTADOS --------------------------------------------------------------------------------
+
+
 ./score_picks.R
 
 echo "# **Puntuaciones**
@@ -71,14 +78,20 @@ echo "# **Puntuaciones**
 
 echo "## **Tabla General
 --- 
-" >> 02.tmp_Resultados
+" >> 02.tmp_Resultados.md
 
 
-./gen_markdown_table.sh --csv < scores.csv >> 02.tmp_Resultados.md
+./gen_markdown_table.sh --csv < Overall_scores.csv >> 02.tmp_Resultados.md
 
 echo "[Resultados de la Jornada 1](GS1_complete_scores.csv)
 
 --- "  >> 02.tmp_Resultados
+
+
+
+
+# ----------------------------------------------------------------------------------------------------- |
+# .-----------------------------------------------------------------------------------------------------|
 # Gather all the files into the read me
 
 cat 00.tmp_header.md  02.tmp_Resultados.md 01.tmp_Grupos.md > README.md
