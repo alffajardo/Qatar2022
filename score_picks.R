@@ -57,5 +57,6 @@ scores_GS1 <- data_frame(numero_participante,Nombre,M1_all)
 
 write.table(scores,"Overall_scores.csv",quote = F,sep=",",row.names = F)
 
-write_table(scores_GS1, "GS1_complete_scores.csv")
+write.table(scores_GS1, "GS1_complete_scores.csv",sep = ",",
+            quote = F ,row.names = F )
 
