@@ -76,13 +76,12 @@ echo "# **Puntuaciones**
 
 " > 02.tmp_Resultados.md
 
-echo "## **Tabla General
---- 
+echo "### **Tabla General**
+
 " >> 02.tmp_Resultados.md
 
 
 ./gen_markdown_table.sh --csv < Overall_scores.csv >> 02.tmp_Resultados.md
-
 echo "[Resultados de la Jornada 1](GS1_complete_scores.csv)
 
 --- "  >> 02.tmp_Resultados
@@ -97,7 +96,7 @@ echo "[Resultados de la Jornada 1](GS1_complete_scores.csv)
 cat 00.tmp_header.md  02.tmp_Resultados.md 01.tmp_Grupos.md > README.md
 
 
- #rm *tmp*md
+ rm *tmp*md
 
 # push to remote
 
