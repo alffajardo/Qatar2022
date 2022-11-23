@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: mié 23 nov 2022 15:41:52 EST.
+Última actualización: Wed 23 Nov 2022 15:49:36 EST.
 
 
 # **Puntuaciones**
@@ -24,29 +24,29 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 | numero_participante | Nombre                        | GS1 | Total |
 | ------------------- | ----------------------------- | --- | ----- |
-| 003                 | Habib                         | 8   | 8     |
+| 003                 | Habib                         | 9   | 9     |
+| 001                 | Jonathan                      | 7   | 7     |
+| 002                 | Poncho                        | 7   | 7     |
+| 004                 | Jalil Rasgado Toledo          | 7   | 7     |
+| 009                 | Luis Temo Marquez             | 7   | 7     |
+| 012                 | Ibrahim T                     | 7   | 7     |
 | 017                 | Bobacao                       | 7   | 7     |
 | 020                 | Luis Angel Llamas Alonso      | 7   | 7     |
-| 001                 | Jonathan                      | 6   | 6     |
-| 002                 | Poncho                        | 6   | 6     |
-| 004                 | Jalil Rasgado Toledo          | 6   | 6     |
-| 009                 | Luis Temo Marquez             | 6   | 6     |
-| 012                 | Ibrahim T                     | 6   | 6     |
+| 006                 | Juan Carlos Avendaño Aguilar | 6   | 6     |
+| 007                 | Claudio                       | 6   | 6     |
+| 013                 | Rubén Aguilar Grande         | 6   | 6     |
+| 014                 | Valentin                      | 6   | 6     |
+| 016                 | Ernie                         | 6   | 6     |
+| 018                 | Eduardo Rafael Palacios Rejón | 6   | 6     |
+| 019                 | Diego Angeles                 | 6   | 6     |
+| 023                 | adamziri                      | 6   | 6     |
+| 024                 | Ahmed Felfel                  | 6   | 6     |
 | 005                 | Israel torres                 | 5   | 5     |
-| 006                 | Juan Carlos Avendaño Aguilar | 5   | 5     |
-| 007                 | Claudio                       | 5   | 5     |
-| 013                 | Rubén Aguilar Grande         | 5   | 5     |
-| 014                 | Valentin                      | 5   | 5     |
-| 016                 | Ernie                         | 5   | 5     |
-| 018                 | Eduardo Rafael Palacios Rejón | 5   | 5     |
-| 019                 | Diego Angeles                 | 5   | 5     |
-| 023                 | adamziri                      | 5   | 5     |
-| 024                 | Ahmed Felfel                  | 5   | 5     |
-| 008                 | Héctor Zepeda                | 4   | 4     |
-| 010                 | Fosi                          | 4   | 4     |
-| 011                 | Jacob                         | 4   | 4     |
-| 015                 | Daniel Jimenez                | 4   | 4     |
-| 021                 | German Jair Sanchez Soto      | 4   | 4     |
+| 008                 | Héctor Zepeda                | 5   | 5     |
+| 010                 | Fosi                          | 5   | 5     |
+| 011                 | Jacob                         | 5   | 5     |
+| 015                 | Daniel Jimenez                | 5   | 5     |
+| 021                 | German Jair Sanchez Soto      | 5   | 5     |
 | 022                 | Colin                         | 4   | 4     |
  
 
