@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Thu 24 Nov 2022 15:19:05 EST.
+Última actualización: Thu 24 Nov 2022 16:09:18 EST.
 
 
 # **Puntuaciones**
@@ -24,30 +24,30 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 | numero_participante | Nombre                        | GS1 | Total |
 | ------------------- | ----------------------------- | --- | ----- |
-| 003                 | Habib                         | 10  | 10    |
-| 001                 | Jonathan                      | 9   | 9     |
-| 012                 | Ibrahim T                     | 9   | 9     |
-| 017                 | Bobacao                       | 9   | 9     |
-| 020                 | Luis Angel Llamas Alonso      | 9   | 9     |
-| 002                 | Poncho                        | 8   | 8     |
-| 004                 | Jalil Rasgado Toledo          | 8   | 8     |
-| 006                 | Juan Carlos Avendaño Aguilar | 8   | 8     |
-| 007                 | Claudio                       | 8   | 8     |
-| 009                 | Luis Temo Marquez             | 8   | 8     |
-| 013                 | Rubén Aguilar Grande         | 8   | 8     |
-| 014                 | Valentin                      | 8   | 8     |
-| 010                 | Fosi                          | 7   | 7     |
-| 015                 | Daniel Jimenez                | 7   | 7     |
-| 016                 | Ernie                         | 7   | 7     |
-| 018                 | Eduardo Rafael Palacios Rejón | 7   | 7     |
-| 019                 | Diego Angeles                 | 7   | 7     |
-| 023                 | adamziri                      | 7   | 7     |
-| 024                 | Ahmed Felfel                  | 7   | 7     |
-| 005                 | Israel torres                 | 6   | 6     |
-| 008                 | Héctor Zepeda                | 6   | 6     |
-| 021                 | German Jair Sanchez Soto      | 6   | 6     |
-| 011                 | Jacob                         | 5   | 5     |
-| 022                 | Colin                         | 5   | 5     |
+| 003                 | Habib                         | 11  | 11    |
+| 001                 | Jonathan                      | 10  | 10    |
+| 012                 | Ibrahim T                     | 10  | 10    |
+| 017                 | Bobacao                       | 10  | 10    |
+| 020                 | Luis Angel Llamas Alonso      | 10  | 10    |
+| 002                 | Poncho                        | 9   | 9     |
+| 004                 | Jalil Rasgado Toledo          | 9   | 9     |
+| 006                 | Juan Carlos Avendaño Aguilar | 9   | 9     |
+| 007                 | Claudio                       | 9   | 9     |
+| 009                 | Luis Temo Marquez             | 9   | 9     |
+| 013                 | Rubén Aguilar Grande         | 9   | 9     |
+| 014                 | Valentin                      | 9   | 9     |
+| 010                 | Fosi                          | 8   | 8     |
+| 015                 | Daniel Jimenez                | 8   | 8     |
+| 016                 | Ernie                         | 8   | 8     |
+| 018                 | Eduardo Rafael Palacios Rejón | 8   | 8     |
+| 019                 | Diego Angeles                 | 8   | 8     |
+| 023                 | adamziri                      | 8   | 8     |
+| 024                 | Ahmed Felfel                  | 8   | 8     |
+| 005                 | Israel torres                 | 7   | 7     |
+| 008                 | Héctor Zepeda                | 7   | 7     |
+| 021                 | German Jair Sanchez Soto      | 7   | 7     |
+| 011                 | Jacob                         | 6   | 6     |
+| 022                 | Colin                         | 6   | 6     |
  
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
