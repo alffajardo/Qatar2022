@@ -119,6 +119,11 @@ echo "
  
 --- "  >> 02.tmp_Resultados.md
 
+echo " 
+
+[Resultados de la Jornada 2](GS2_complete_scores.csv)
+ 
+--- "  >> 02.tmp_Resultados.md
 
 
 
