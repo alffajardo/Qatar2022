@@ -52,7 +52,7 @@ echo "
 
 echo "### Gráficos
 
-![](media/.picks_GS2.png )
+![](media/picks_GS2.png )
 
 ### Similitud de las picks
 <img src="media/similarities_GS2.png" alt="similarities" width="600"/>

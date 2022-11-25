@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: vie 25 nov 2022 10:53:27 EST.
+Última actualización: vie 25 nov 2022 10:54:35 EST.
 
 
 # **Puntuaciones**
@@ -92,7 +92,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 024                 | Ahmed Felfel                  | Iran          | Senegal          | Draw                   | England        | Draw                 | Saudi Arabia           | France            | Argentina           | Japan               | Belgium            | Spain            | Draw              | Serbia             | Korea          | Brazil                | Portugal            |
 ### Gráficos
 
-![](media/.picks_GS2.png )
+![](media/picks_GS2.png )
 
 ### Similitud de las picks
 <img src=media/similarities_GS2.png alt=similarities width=600/>
