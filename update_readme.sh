@@ -36,13 +36,44 @@ echo "# **Fase de Grupos**
 
 " > 01.tmp_Grupos.md
 
+
+## ---------------------------------------------------------------------------------------------|
+# PICKS DE LA JORNADA 2
+# -----------------------------------------------------------------------------------------------|
+
+echo "
+ ## <u>**Picks de la Jornada 2**</u>
+ 
+ " > 01.tmp_Grupos.md
+
+./generate_picks_GS1.R
+
+./gen_markdown_table.sh --csv < GS2_picks.csv >> 01.tmp_Grupos.md
+
+echo "### Gráficos
+
+![](media/.picks_GS2.png )
+
+### Similitud de las picks
+<img src="media/similarities_GS2.png" alt="similarities" width="600"/>
+
+---
+### **Jugadores notables en esta ronda**
+
+Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
+
+" >> 01.tmp_Grupos.md
+./gen_markdown_table.sh --csv < top_GS1.csv >> 01.tmp_Grupos.md
+
+echo " --- " >> 01.tmp_Grupos.md
+
 # | ------------------------------------------------------------------------------------------- | 
 # PICKS DE LA JORNADA 1
 
  echo "
  ## <u>**Picks de la Jornada 1**</u>
  
- " >> 01.tmp_Grupos.md
+ " > 01.tmp_Grupos.md
 
 ./generate_picks_GS1.R
 
@@ -50,10 +81,10 @@ echo "# **Fase de Grupos**
 
 echo "### Gráficos
 
-![](media/01.picks_stage1.png )
+![](media/.picks_GS1.png )
 
 ### Similitud de las picks
-<img src="media/similarities_S1.png" alt="similarities" width="600"/>
+<img src="media/similarities_GS1.png" alt="similarities" width="600"/>
 
 ---
 ### **Jugadores notables en esta ronda**

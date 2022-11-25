@@ -4,7 +4,6 @@ library(googledrive)
 library(googlesheets4)
 library(corrplot)
 library(viridis)
-library(png)
 library(dplyr)
 library(readr)
 library(stringr)
@@ -12,13 +11,12 @@ library(tidyr)
 options(gargle_oauth_email = TRUE)
 drive_auth(email = TRUE)
 
-picks_id <- drive_find(type = "spreadsheet",pattern = "Group_Stage1_respuestas",
+picks_id <- drive_find(type = "spreadsheet",pattern = "Group_Stage2_respuestas",
 n_max = 1)$id
 
 
 
-picks <- read_sheet(picks_id) %>%
-select(-c(22,23))
+picks <- read_sheet(picks_id)
 
 picks$numero_participante <- as.character( as.character(picks$numero_participante)) %>%
                         str_pad(pad = "0", side = "left", width = 3)
@@ -30,7 +28,7 @@ arrange(numero_participante)
 
 
 
-write.table(bets,"GS1_picks.csv",sep=",",
+write.table(bets,"GS2_picks.csv",sep=",",
 quote = F,
 row.names =F )
 
@@ -57,7 +55,7 @@ setNames(bets2$Match)
 
 
 
-png("media/picks_GS1.png",width = 20,height = 20,units = "cm",
+png("media/picks_GS2.png",width = 20,height = 20,units = "cm",
     res = 196)
 par(mfrow = c(4,4),
     mar = c( 3,3,3,3),
@@ -74,7 +72,6 @@ lapply(1:16, function(x){
         str_pad(side = "left",pad = "0",width = 2) %>%
         paste("flags/matches/Match",.,".png",sep = '')
 
-match_image <- readPNG(Match)
 pie(result_pics[[x]],col = colors,
     main = names(result_pics)[x],
    border = "NA")
@@ -103,7 +100,7 @@ similarities[i,] <- y
 similarities <- similarities / 16 * 100
 diag(similarities) <- NA
 
-png(filename = "media/similarities_GS1.png",
+png(filename = "media/similarities_GS2.png",
     width = 10,height = 10,units = "cm",res = 196)
 par = c(bg = "gray85")
 corrplot(similarities,
@@ -128,7 +125,7 @@ arrange(delta) %>%
 select(1:2) %>%
 head(n = 5)
 
-write.table(top,"top_GS1.csv", 
+write.table(top,"top_GS2.csv", 
     sep = ',', 
     quote = F, 
     row.names = F)

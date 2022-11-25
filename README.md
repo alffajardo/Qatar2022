@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Fri 25 Nov 2022 10:34:30 EST.
+Última actualización: vie 25 nov 2022 10:51:19 EST.
 
 
 # **Puntuaciones**
@@ -53,13 +53,6 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
  
 --- 
-# **Fase de Grupos**
-
-![](flags/matches/matches.gif)
-
----
-
-
 
  ## <u>**Picks de la Jornada 1**</u>
  
@@ -92,10 +85,10 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 024                 | Ahmed Felfel                  | Qatar            | England         | Draw                   | USA          | Argentina                 | Draw               | Draw             | France              | Morocco            | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           |
 ### Gráficos
 
-![](media/01.picks_stage1.png )
+![](media/.picks_GS1.png )
 
 ### Similitud de las picks
-<img src=media/similarities_S1.png alt=similarities width=600/>
+<img src=media/similarities_GS1.png alt=similarities width=600/>
 
 ---
 ### **Jugadores notables en esta ronda**
