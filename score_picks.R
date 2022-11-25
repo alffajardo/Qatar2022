@@ -91,7 +91,7 @@ scores_GS2 <- data.frame(numero_participante,Nombre,GS2_all)
 
 scores_GS1 <- data.frame(numero_participante,Nombre,GS1_all)
 
-write.table(scores,"Overall_scores.csv",quote = F,sep=",",row.names = T)
+write.table(scores,"Overall_scores.csv",quote = F,sep=",",row.names = F)
 
 write.table(scores_GS1, "GS1_complete_scores.csv",sep = ",",
             quote = F ,row.names = F )
