@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: vie 25 nov 2022 11:01:34 EST.
+Última actualización: vie 25 nov 2022 11:03:06 EST.
 
 
 # **Puntuaciones**
@@ -87,7 +87,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 019                 | Diego  Angeles                | Wales         | Senegal          | Draw                   | England        | Tunisia              | Poland                 | France            | Draw                | Japan               | Belgium            | Spain            | Croatia           | Serbia             | Ghana          | Brazil                | Portugal            |
 | 020                 | Luis Llamas                   | Wales         | Senegal          | Draw                   | England        | Draw                 | Poland                 | France            | Argentina           | Japan               | Belgium            | Germany          | Canada            | Serbia             | Korea          | Brazil                | Portugal            |
 | 021                 | German Jair                   | Wales         | Senegal          | Netherlands            | England        | Australia            | Draw                   | France            | Mexico              | Japan               | Belgium            | Spain            | Draw              | Serbia             | Korea          | Brazil                | Portugal            |
-| 022                 | 438-880-4016                  | Wales         | Senegal          | Netherlands            | Draw           | Tunisia              | Saudi Arabia           | Denmark           | Mexico              | Japan               | Draw               | Germany          | Canada            | Serbia             | Korea          | Brazil                | Portugal            |
+| 022                 | Colin                         | Wales         | Senegal          | Netherlands            | Draw           | Tunisia              | Saudi Arabia           | Denmark           | Mexico              | Japan               | Draw               | Germany          | Canada            | Serbia             | Korea          | Brazil                | Portugal            |
 | 023                 | Adam                          | Wales         | Senegal          | Netherlands            | England        | Tunisia              | Draw                   | France            | Argentina           | Japan               | Draw               | Spain            | Canada            | Serbia             | Draw           | Brazil                | Portugal            |
 | 024                 | Ahmed Felfel                  | Iran          | Senegal          | Draw                   | England        | Draw                 | Saudi Arabia           | France            | Argentina           | Japan               | Belgium            | Spain            | Draw              | Serbia             | Korea          | Brazil                | Portugal            |
 ### Gráficos
