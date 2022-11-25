@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: vie 25 nov 2022 11:03:06 EST.
+Última actualización: Fri 25 Nov 2022 11:24:44 EST.
 
 
 # **Puntuaciones**
@@ -61,57 +61,6 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
- ## <u>**Picks de la Jornada 2**</u>
- 
- 
-| numero_participante | Nombre                        | Wales vs Iran | Qatar vs Senegal | Netherlands vs Ecuador | England vs USA | Tunisia vs Australia | Poland vs Saudi Arabia | France vs Denmark | Argentina vs Mexico | Japan vs Costa Rica | Belgium vs Morocco | Spain vs Germany | Croatia vs Canada | Cameroon vs Serbia | Korea vs Ghana | Brazil vs Switzerland | Portugal vs Uruguay |
-| ------------------- | ----------------------------- | ------------- | ---------------- | ---------------------- | -------------- | -------------------- | ---------------------- | ----------------- | ------------------- | ------------------- | ------------------ | ---------------- | ----------------- | ------------------ | -------------- | --------------------- | ------------------- |
-| 001                 | Jonathan                      | Wales         | Senegal          | Netherlands            | England        | Tunisia              | Poland                 | France            | Argentina           | Japan               | Belgium            | Draw             | Croatia           | Serbia             | Korea          | Brazil                | Draw                |
-| 002                 | Poncho                        | Wales         | Senegal          | Netherlands            | Draw           | Tunisia              | Poland                 | France            | Argentina           | Japan               | Draw               | Spain            | Croatia           | Draw               | Korea          | Brazil                | Portugal            |
-| 003                 | Habib                         | Wales         | Senegal          | Netherlands            | Draw           | Draw                 | Poland                 | France            | Draw                | Japan               | Belgium            | Spain            | Croatia           | Serbia             | Korea          | Brazil                | Draw                |
-| 004                 | Jalil Rasgado Toledo          | Wales         | Senegal          | Netherlands            | England        | Draw                 | Draw                   | France            | Argentina           | Japan               | Belgium            | Spain            | Draw              | Cameroon           | Korea          | Brazil                | Portugal            |
-| 005                 | Isra                          | Wales         | Senegal          | Netherlands            | England        | Tunisia              | Draw                   | France            | Draw                | Japan               | Draw               | Spain            | Canada            | Draw               | Ghana          | Brazil                | Draw                |
-| 006                 | Juan Carlos Avendaño Aguilar | Wales         | Senegal          | Netherlands            | England        | Tunisia              | Poland                 | France            | Argentina           | Draw                | Belgium            | Germany          | Draw              | Cameroon           | Korea          | Brazil                | Draw                |
-| 007                 | Claudio                       | Wales         | Senegal          | Netherlands            | England        | Australia            | Poland                 | France            | Argentina           | Japan               | Belgium            | Spain            | Canada            | Serbia             | Draw           | Brazil                | Draw                |
-| 008                 | Héctor Eduardo Zepeda Reyes  | Wales         | Senegal          | Netherlands            | England        | Draw                 | Draw                   | France            | Mexico              | Japan               | Belgium            | Spain            | Draw              | Serbia             | Ghana          | Brazil                | Draw                |
-| 009                 | Luis Temo Marquez             | Wales         | Senegal          | Netherlands            | England        | Tunisia              | Saudi Arabia           | France            | Argentina           | Japan               | Belgium            | Spain            | Croatia           | Serbia             | Korea          | Brazil                | Draw                |
-| 010                 | Fosi                          | Wales         | Senegal          | Draw                   | England        | Draw                 | Draw                   | France            | Draw                | Draw                | Belgium            | Spain            | Canada            | Draw               | Draw           | Brazil                | Draw                |
-| 011                 | Jacob                         | Wales         | Senegal          | Netherlands            | England        | Draw                 | Saudi Arabia           | France            | Mexico              | Japan               | Morocco            | Spain            | Croatia           | Serbia             | Ghana          | Brazil                | Uruguay             |
-| 012                 | Ibrahim T                     | Draw          | Senegal          | Netherlands            | England        | Australia            | Draw                   | France            | Draw                | Japan               | Belgium            | Spain            | Croatia           | Serbia             | Korea          | Brazil                | Portugal            |
-| 013                 | Ruben Aguilar                 | Wales         | Senegal          | Netherlands            | England        | Tunisia              | Draw                   | France            | Argentina           | Japan               | Belgium            | Draw             | Croatia           | Serbia             | Korea          | Brazil                | Draw                |
-| 014                 | Valentin                      | Wales         | Senegal          | Netherlands            | England        | Draw                 | Poland                 | France            | Argentina           | Japan               | Belgium            | Spain            | Croatia           | Draw               | Draw           | Brazil                | Portugal            |
-| 015                 | Daniel Jimenez                | Wales         | Senegal          | Netherlands            | England        | Tunisia              | Poland                 | France            | Argentina           | Japan               | Belgium            | Spain            | Canada            | Serbia             | Korea          | Brazil                | Portugal            |
-| 016                 | Ernie                         | Wales         | Senegal          | Netherlands            | England        | Tunisia              | Draw                   | France            | Argentina           | Draw                | Belgium            | Draw             | Croatia           | Draw               | Draw           | Brazil                | Draw                |
-| 017                 | Bobacao                       | Wales         | Senegal          | Netherlands            | England        | Tunisia              | Draw                   | France            | Draw                | Japan               | Belgium            | Spain            | Draw              | Serbia             | Draw           | Brazil                | Draw                |
-| 018                 | Eduardo Rafael Palacios Rejón | Wales         | Senegal          | Ecuador                | England        | Draw                 | Saudi Arabia           | France            | Argentina           | Japan               | Belgium            | Spain            | Draw              | Cameroon           | Korea          | Brazil                | Portugal            |
-| 019                 | Diego  Angeles                | Wales         | Senegal          | Draw                   | England        | Tunisia              | Poland                 | France            | Draw                | Japan               | Belgium            | Spain            | Croatia           | Serbia             | Ghana          | Brazil                | Portugal            |
-| 020                 | Luis Llamas                   | Wales         | Senegal          | Draw                   | England        | Draw                 | Poland                 | France            | Argentina           | Japan               | Belgium            | Germany          | Canada            | Serbia             | Korea          | Brazil                | Portugal            |
-| 021                 | German Jair                   | Wales         | Senegal          | Netherlands            | England        | Australia            | Draw                   | France            | Mexico              | Japan               | Belgium            | Spain            | Draw              | Serbia             | Korea          | Brazil                | Portugal            |
-| 022                 | Colin                         | Wales         | Senegal          | Netherlands            | Draw           | Tunisia              | Saudi Arabia           | Denmark           | Mexico              | Japan               | Draw               | Germany          | Canada            | Serbia             | Korea          | Brazil                | Portugal            |
-| 023                 | Adam                          | Wales         | Senegal          | Netherlands            | England        | Tunisia              | Draw                   | France            | Argentina           | Japan               | Draw               | Spain            | Canada            | Serbia             | Draw           | Brazil                | Portugal            |
-| 024                 | Ahmed Felfel                  | Iran          | Senegal          | Draw                   | England        | Draw                 | Saudi Arabia           | France            | Argentina           | Japan               | Belgium            | Spain            | Draw              | Serbia             | Korea          | Brazil                | Portugal            |
-### Gráficos
-
-![](media/picks_GS2.png )
-
-### Similitud de las picks
-<img src=media/similarities_GS2.png alt=similarities width=600/>
-
----
-### **Jugadores notables en esta ronda**
-
-Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
-
-
-| numero_participante | Nombre                       |
-| ------------------- | ---------------------------- |
-| 022                 | Colin                        |
-| 010                 | Fosi                         |
-| 011                 | Jacob                        |
-| 016                 | Ernie                        |
-| 006                 | Juan Carlos Avendaño Aguilar |
- --- 
-
  ## <u>**Picks de la Jornada 1**</u>
  
  
@@ -143,10 +92,10 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 | 024                 | Ahmed Felfel                  | Qatar            | England         | Draw                   | USA          | Argentina                 | Draw               | Draw             | France              | Morocco            | Germany          | Spain               | Belgium           | Draw                    | Uruguay          | Portugal          | Brazil           |
 ### Gráficos
 
-![](media/.picks_GS1.png )
+![](media/01.picks_stage1.png )
 
 ### Similitud de las picks
-<img src=media/similarities_GS1.png alt=similarities width=600/>
+<img src=media/similarities_S1.png alt=similarities width=600/>
 
 ---
 ### **Jugadores notables en esta ronda**
