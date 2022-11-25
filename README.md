@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: vie 25 nov 2022 10:54:35 EST.
+Última actualización: vie 25 nov 2022 10:58:23 EST.
 
 
 # **Puntuaciones**
@@ -103,13 +103,13 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
 
 
-| numero_participante | Nombre                   |
-| ------------------- | ------------------------ |
-| 011                 | Jacob                    |
-| 024                 | Ahmed Felfel             |
-| 012                 | Ibrahim T                |
-| 020                 | Luis Angel Llamas Alonso |
-| 017                 | Bobacao                  |
+| numero_participante | Nombre                       |
+| ------------------- | ---------------------------- |
+| 022                 | 438-880-4016                 |
+| 010                 | Fosi                         |
+| 011                 | Jacob                        |
+| 016                 | Ernie                        |
+| 006                 | Juan Carlos Avendaño Aguilar |
  --- 
 
  ## <u>**Picks de la Jornada 1**</u>
