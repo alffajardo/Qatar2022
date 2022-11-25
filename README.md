@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: vie 25 nov 2022 10:58:23 EST.
+Última actualización: vie 25 nov 2022 10:59:17 EST.
 
 
 # **Puntuaciones**
@@ -105,7 +105,7 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 
 | numero_participante | Nombre                       |
 | ------------------- | ---------------------------- |
-| 022                 | 438-880-4016                 |
+| 022                 | Colin                        |
 | 010                 | Fosi                         |
 | 011                 | Jacob                        |
 | 016                 | Ernie                        |
