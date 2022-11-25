@@ -44,7 +44,7 @@ echo "# **Fase de Grupos**
 echo "
  ## <u>**Picks de la Jornada 2**</u>
  
- " > 01.tmp_Grupos.md
+ " >> 01.tmp_Grupos.md
 
 ./generate_picks_GS1.R
 
@@ -73,7 +73,7 @@ echo " --- " >> 01.tmp_Grupos.md
  echo "
  ## <u>**Picks de la Jornada 1**</u>
  
- " > 01.tmp_Grupos.md
+ " >> 01.tmp_Grupos.md
 
 ./generate_picks_GS1.R
 
