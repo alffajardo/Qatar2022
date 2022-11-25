@@ -81,7 +81,7 @@ echo " --- " >> 01.tmp_Grupos.md
 
 echo "### Gráficos
 
-![](media/.picks_GS1.png )
+![](media/picks_GS1.png )
 
 ### Similitud de las picks
 <img src="media/similarities_GS1.png" alt="similarities" width="600"/>
