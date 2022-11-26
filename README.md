@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Sat 26 Nov 2022 05:51:14 EST.
+Última actualización: Sat 26 Nov 2022 06:41:32 EST.
 
 
 # **Puntuaciones**
