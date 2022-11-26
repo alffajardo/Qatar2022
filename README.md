@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Sat 26 Nov 2022 15:54:54 EST.
+Última actualización: Sat 26 Nov 2022 16:45:12 EST.
 
 
 # **Puntuaciones**
@@ -24,30 +24,30 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 | numero_participante | Nombre                        | GS1 | GS2 | Total |
 | ------------------- | ----------------------------- | --- | --- | ----- |
-| 003                 | Habib                         | 11  | 3   | 14    |
-| 020                 | Luis Angel Llamas Alonso      | 10  | 3   | 13    |
-| 001                 | Jonathan                      | 10  | 2   | 12    |
-| 002                 | Poncho                        | 9   | 3   | 12    |
-| 007                 | Claudio                       | 9   | 3   | 12    |
-| 012                 | Ibrahim T                     | 10  | 2   | 12    |
-| 006                 | Juan Carlos Avendaño Aguilar | 9   | 2   | 11    |
-| 014                 | Valentin                      | 9   | 2   | 11    |
-| 017                 | Bobacao                       | 10  | 1   | 11    |
-| 019                 | Diego Angeles                 | 8   | 3   | 11    |
-| 024                 | Ahmed Felfel                  | 8   | 3   | 11    |
-| 004                 | Jalil Rasgado Toledo          | 9   | 1   | 10    |
-| 009                 | Luis Temo Marquez             | 9   | 1   | 10    |
-| 010                 | Fosi                          | 8   | 2   | 10    |
-| 013                 | Rubén Aguilar Grande         | 9   | 1   | 10    |
-| 015                 | Daniel Jimenez                | 8   | 2   | 10    |
-| 016                 | Ernie                         | 8   | 1   | 9     |
-| 018                 | Eduardo Rafael Palacios Rejón | 8   | 1   | 9     |
-| 021                 | German Jair Sanchez Soto      | 7   | 2   | 9     |
-| 023                 | adamziri                      | 8   | 1   | 9     |
-| 005                 | Israel torres                 | 7   | 1   | 8     |
-| 008                 | Héctor Zepeda                | 7   | 1   | 8     |
+| 003                 | Habib                         | 11  | 4   | 15    |
+| 020                 | Luis Angel Llamas Alonso      | 10  | 5   | 15    |
+| 001                 | Jonathan                      | 10  | 4   | 14    |
+| 002                 | Poncho                        | 9   | 5   | 14    |
+| 007                 | Claudio                       | 9   | 5   | 14    |
+| 006                 | Juan Carlos Avendaño Aguilar | 9   | 4   | 13    |
+| 012                 | Ibrahim T                     | 10  | 3   | 13    |
+| 014                 | Valentin                      | 9   | 4   | 13    |
+| 024                 | Ahmed Felfel                  | 8   | 5   | 13    |
+| 004                 | Jalil Rasgado Toledo          | 9   | 3   | 12    |
+| 009                 | Luis Temo Marquez             | 9   | 3   | 12    |
+| 013                 | Rubén Aguilar Grande         | 9   | 3   | 12    |
+| 015                 | Daniel Jimenez                | 8   | 4   | 12    |
+| 017                 | Bobacao                       | 10  | 2   | 12    |
+| 019                 | Diego Angeles                 | 8   | 4   | 12    |
+| 010                 | Fosi                          | 8   | 3   | 11    |
+| 016                 | Ernie                         | 8   | 3   | 11    |
+| 018                 | Eduardo Rafael Palacios Rejón | 8   | 3   | 11    |
+| 023                 | adamziri                      | 8   | 3   | 11    |
+| 021                 | German Jair Sanchez Soto      | 7   | 3   | 10    |
+| 005                 | Israel torres                 | 7   | 2   | 9     |
+| 008                 | Héctor Zepeda                | 7   | 2   | 9     |
+| 011                 | Jacob                         | 6   | 2   | 8     |
 | 022                 | Colin                         | 6   | 2   | 8     |
-| 011                 | Jacob                         | 6   | 1   | 7     |
  
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
