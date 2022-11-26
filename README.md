@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Fri 25 Nov 2022 18:57:16 EST.
+Última actualización: vie 25 nov 2022 19:10:15 EST.
 
 
 # **Puntuaciones**
@@ -24,13 +24,13 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 | numero_participante | Nombre                        | GS1 | GS2 | Total |
 | ------------------- | ----------------------------- | --- | --- | ----- |
-| 003                 | Habib                         | 11  | 1   | 12    |
+| 003                 | Habib                         | 11  | 2   | 13    |
 | 020                 | Luis Angel Llamas Alonso      | 10  | 2   | 12    |
 | 001                 | Jonathan                      | 10  | 1   | 11    |
+| 002                 | Poncho                        | 9   | 2   | 11    |
 | 012                 | Ibrahim T                     | 10  | 1   | 11    |
 | 017                 | Bobacao                       | 10  | 1   | 11    |
 | 024                 | Ahmed Felfel                  | 8   | 3   | 11    |
-| 002                 | Poncho                        | 9   | 1   | 10    |
 | 004                 | Jalil Rasgado Toledo          | 9   | 1   | 10    |
 | 006                 | Juan Carlos Avendaño Aguilar | 9   | 1   | 10    |
 | 007                 | Claudio                       | 9   | 1   | 10    |
@@ -46,8 +46,8 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 005                 | Israel torres                 | 7   | 1   | 8     |
 | 008                 | Héctor Zepeda                | 7   | 1   | 8     |
 | 021                 | German Jair Sanchez Soto      | 7   | 1   | 8     |
+| 022                 | Colin                         | 6   | 2   | 8     |
 | 011                 | Jacob                         | 6   | 1   | 7     |
-| 022                 | Colin                         | 6   | 1   | 7     |
  
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
