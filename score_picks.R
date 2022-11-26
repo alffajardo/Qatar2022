@@ -7,6 +7,7 @@ library(tidyr)
 library(readr)
 library(purrr)
 
+
 # read the data
 options(gargle_oauth_email = TRUE)
 drive_auth(email = TRUE)
@@ -33,6 +34,7 @@ GS1 <- matches %>%
   as.vector() %>%
   unlist() 
 
+attach(GS1_picks)
 
 match_names <- names(GS1_picks2)[1:length(GS1)]
   

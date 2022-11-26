@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Sat 26 Nov 2022 10:02:44 EST.
+Última actualización: sáb 26 nov 2022 10:24:04 EST.
 
 
 # **Puntuaciones**
@@ -24,28 +24,28 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 | numero_participante | Nombre                        | GS1 | GS2 | Total |
 | ------------------- | ----------------------------- | --- | --- | ----- |
-| 003                 | Habib                         | 11  | 2   | 13    |
-| 020                 | Luis Angel Llamas Alonso      | 10  | 2   | 12    |
-| 001                 | Jonathan                      | 10  | 1   | 11    |
-| 002                 | Poncho                        | 9   | 2   | 11    |
-| 012                 | Ibrahim T                     | 10  | 1   | 11    |
+| 003                 | Habib                         | 11  | 3   | 14    |
+| 020                 | Luis Angel Llamas Alonso      | 10  | 3   | 13    |
+| 001                 | Jonathan                      | 10  | 2   | 12    |
+| 002                 | Poncho                        | 9   | 3   | 12    |
+| 007                 | Claudio                       | 9   | 3   | 12    |
+| 012                 | Ibrahim T                     | 10  | 2   | 12    |
+| 006                 | Juan Carlos Avendaño Aguilar | 9   | 2   | 11    |
+| 014                 | Valentin                      | 9   | 2   | 11    |
 | 017                 | Bobacao                       | 10  | 1   | 11    |
+| 019                 | Diego Angeles                 | 8   | 3   | 11    |
 | 024                 | Ahmed Felfel                  | 8   | 3   | 11    |
 | 004                 | Jalil Rasgado Toledo          | 9   | 1   | 10    |
-| 006                 | Juan Carlos Avendaño Aguilar | 9   | 1   | 10    |
-| 007                 | Claudio                       | 9   | 1   | 10    |
 | 009                 | Luis Temo Marquez             | 9   | 1   | 10    |
 | 010                 | Fosi                          | 8   | 2   | 10    |
 | 013                 | Rubén Aguilar Grande         | 9   | 1   | 10    |
-| 014                 | Valentin                      | 9   | 1   | 10    |
-| 019                 | Diego Angeles                 | 8   | 2   | 10    |
-| 015                 | Daniel Jimenez                | 8   | 1   | 9     |
+| 015                 | Daniel Jimenez                | 8   | 2   | 10    |
 | 016                 | Ernie                         | 8   | 1   | 9     |
 | 018                 | Eduardo Rafael Palacios Rejón | 8   | 1   | 9     |
+| 021                 | German Jair Sanchez Soto      | 7   | 2   | 9     |
 | 023                 | adamziri                      | 8   | 1   | 9     |
 | 005                 | Israel torres                 | 7   | 1   | 8     |
 | 008                 | Héctor Zepeda                | 7   | 1   | 8     |
-| 021                 | German Jair Sanchez Soto      | 7   | 1   | 8     |
 | 022                 | Colin                         | 6   | 2   | 8     |
 | 011                 | Jacob                         | 6   | 1   | 7     |
  
