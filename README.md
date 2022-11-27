@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Sun 27 Nov 2022 09:32:02 EST.
+Última actualización: Sun 27 Nov 2022 10:22:20 EST.
 
 
 # **Puntuaciones**
@@ -46,7 +46,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 021                 | German Jair Sanchez Soto      | 7   | 3   | 10    |
 | 005                 | Israel torres                 | 7   | 2   | 9     |
 | 008                 | Héctor Zepeda                | 7   | 2   | 9     |
-| 011                 | Jacob                         | 6   | 2   | 8     |
+| 011                 | Jacob                         | 6   | 3   | 9     |
 | 022                 | Colin                         | 6   | 2   | 8     |
  
 
