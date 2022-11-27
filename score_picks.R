@@ -77,11 +77,6 @@ GS2_all <- map_dfc(1:length(GS2),~if_else( GS2[.x] == GS2_picks2[,.x],true = 1,0
 
 GS2 <- rowSums(GS2_all)
 
-
-
-
-
-### Escribir el output
 ### Escribir el output
 scores <- data.frame(numero_participante,Nombre, GS1,GS2) %>%
   group_by (numero_participante) %>%
