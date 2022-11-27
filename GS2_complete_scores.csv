@@ -1,25 +1,25 @@
-numero_participante,Nombre,Wales.vs.Iran,Qatar.vs.Senegal,Netherlands.vs.Ecuador,England.vs.USA,Tunisia.vs.Australia,Poland.vs.Saudi.Arabia,France.vs.Denmark,Argentina.vs.Mexico,Japan.vs.Costa.Rica,Belgium.vs.Morocco,Croatia.vs.Canada
-001,Jonathan,0,1,0,0,0,1,1,1,0,0,1
-002,Poncho,0,1,0,1,0,1,1,1,0,0,1
-003,Habib,0,1,0,1,0,1,1,0,0,0,1
-004,Jalil Rasgado Toledo,0,1,0,0,0,0,1,1,0,0,0
-005,Israel torres,0,1,0,0,0,0,1,0,0,0,0
-006,Juan Carlos Avendaño Aguilar,0,1,0,0,0,1,1,1,0,0,0
-007,Claudio,0,1,0,0,1,1,1,1,0,0,0
-008,Héctor Zepeda,0,1,0,0,0,0,1,0,0,0,0
-009,Luis Temo Marquez,0,1,0,0,0,0,1,1,0,0,1
-010,Fosi,0,1,1,0,0,0,1,0,0,0,0
-011,Jacob,0,1,0,0,0,0,1,0,0,1,1
-012,Ibrahim T,0,1,0,0,1,0,1,0,0,0,1
-013,Rubén Aguilar Grande,0,1,0,0,0,0,1,1,0,0,1
-014,Valentin,0,1,0,0,0,1,1,1,0,0,1
-015,Daniel Jimenez,0,1,0,0,0,1,1,1,0,0,0
-016,Ernie,0,1,0,0,0,0,1,1,0,0,1
-017,Bobacao,0,1,0,0,0,0,1,0,0,0,0
-018,Eduardo Rafael Palacios Rejón,0,1,0,0,0,0,1,1,0,0,0
-019,Diego Angeles,0,1,1,0,0,1,1,0,0,0,1
-020,Luis Angel Llamas Alonso,0,1,1,0,0,1,1,1,0,0,0
-021,German Jair Sanchez Soto,0,1,0,0,1,0,1,0,0,0,0
-022,Colin,0,1,0,1,0,0,0,0,0,0,0
-023,adamziri,0,1,0,0,0,0,1,1,0,0,0
-024,Ahmed Felfel,1,1,1,0,0,0,1,1,0,0,0
+numero_participante,Nombre,Wales.vs.Iran,Qatar.vs.Senegal,Netherlands.vs.Ecuador,England.vs.USA,Tunisia.vs.Australia,Poland.vs.Saudi.Arabia,France.vs.Denmark,Argentina.vs.Mexico,Japan.vs.Costa.Rica,Belgium.vs.Morocco,Croatia.vs.Canada,Spain.vs.Germany
+001,Jonathan,0,1,0,0,0,1,1,1,0,0,1,0
+002,Poncho,0,1,0,1,0,1,1,1,0,0,1,1
+003,Habib,0,1,0,1,0,1,1,0,0,0,1,1
+004,Jalil Rasgado Toledo,0,1,0,0,0,0,1,1,0,0,0,1
+005,Israel torres,0,1,0,0,0,0,1,0,0,0,0,1
+006,Juan Carlos Avendaño Aguilar,0,1,0,0,0,1,1,1,0,0,0,0
+007,Claudio,0,1,0,0,1,1,1,1,0,0,0,1
+008,Héctor Zepeda,0,1,0,0,0,0,1,0,0,0,0,1
+009,Luis Temo Marquez,0,1,0,0,0,0,1,1,0,0,1,1
+010,Fosi,0,1,1,0,0,0,1,0,0,0,0,1
+011,Jacob,0,1,0,0,0,0,1,0,0,1,1,1
+012,Ibrahim T,0,1,0,0,1,0,1,0,0,0,1,1
+013,Rubén Aguilar Grande,0,1,0,0,0,0,1,1,0,0,1,0
+014,Valentin,0,1,0,0,0,1,1,1,0,0,1,1
+015,Daniel Jimenez,0,1,0,0,0,1,1,1,0,0,0,1
+016,Ernie,0,1,0,0,0,0,1,1,0,0,1,0
+017,Bobacao,0,1,0,0,0,0,1,0,0,0,0,1
+018,Eduardo Rafael Palacios Rejón,0,1,0,0,0,0,1,1,0,0,0,1
+019,Diego Angeles,0,1,1,0,0,1,1,0,0,0,1,1
+020,Luis Angel Llamas Alonso,0,1,1,0,0,1,1,1,0,0,0,0
+021,German Jair Sanchez Soto,0,1,0,0,1,0,1,0,0,0,0,1
+022,Colin,0,1,0,1,0,0,0,0,0,0,0,0
+023,adamziri,0,1,0,0,0,0,1,1,0,0,0,1
+024,Ahmed Felfel,1,1,1,0,0,0,1,1,0,0,0,1
