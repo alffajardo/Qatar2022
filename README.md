@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Mon 28 Nov 2022 15:44:03 EST.
+Última actualización: Mon 28 Nov 2022 16:34:22 EST.
 
 
 # **Puntuaciones**
@@ -24,30 +24,30 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 | numero_participante | Nombre                        | GS1 | GS2 | Total |
 | ------------------- | ----------------------------- | --- | --- | ----- |
+| 002                 | Poncho                        | 9   | 9   | 18    |
 | 001                 | Jonathan                      | 10  | 7   | 17    |
-| 002                 | Poncho                        | 9   | 8   | 17    |
 | 003                 | Habib                         | 11  | 6   | 17    |
-| 014                 | Valentin                      | 9   | 7   | 16    |
-| 020                 | Luis Angel Llamas Alonso      | 10  | 6   | 16    |
+| 014                 | Valentin                      | 9   | 8   | 17    |
+| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 17    |
+| 012                 | Ibrahim T                     | 10  | 6   | 16    |
+| 019                 | Diego Angeles                 | 8   | 8   | 16    |
 | 007                 | Claudio                       | 9   | 6   | 15    |
-| 012                 | Ibrahim T                     | 10  | 5   | 15    |
 | 013                 | Rubén Aguilar Grande         | 9   | 6   | 15    |
 | 016                 | Ernie                         | 8   | 7   | 15    |
-| 019                 | Diego Angeles                 | 8   | 7   | 15    |
+| 024                 | Ahmed Felfel                  | 8   | 7   | 15    |
+| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 14    |
 | 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 14    |
 | 009                 | Luis Temo Marquez             | 9   | 5   | 14    |
-| 024                 | Ahmed Felfel                  | 8   | 6   | 14    |
-| 004                 | Jalil Rasgado Toledo          | 9   | 4   | 13    |
+| 015                 | Daniel Jimenez                | 8   | 6   | 14    |
 | 010                 | Fosi                          | 8   | 5   | 13    |
-| 015                 | Daniel Jimenez                | 8   | 5   | 13    |
 | 017                 | Bobacao                       | 10  | 3   | 13    |
+| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 13    |
+| 023                 | adamziri                      | 8   | 5   | 13    |
 | 005                 | Israel torres                 | 7   | 5   | 12    |
 | 011                 | Jacob                         | 6   | 6   | 12    |
-| 018                 | Eduardo Rafael Palacios Rejón | 8   | 4   | 12    |
-| 023                 | adamziri                      | 8   | 4   | 12    |
+| 021                 | German Jair Sanchez Soto      | 7   | 5   | 12    |
 | 008                 | Héctor Zepeda                | 7   | 4   | 11    |
-| 021                 | German Jair Sanchez Soto      | 7   | 4   | 11    |
-| 022                 | Colin                         | 6   | 3   | 9     |
+| 022                 | Colin                         | 6   | 4   | 10    |
  
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
