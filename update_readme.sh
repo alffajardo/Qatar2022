@@ -54,7 +54,7 @@ echo "### Gráficos
 ![](media/picks_GS3.png )
 
 ### Similitud de las picks
-<img src="media/similarities_GS.png" alt="similarities" width="600"/>
+<img src="media/similarities_GS3.png" alt="similarities" width="600"/>
 
 ---
 ### **Jugadores notables en esta ronda**
