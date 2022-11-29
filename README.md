@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: lun 28 nov 2022 22:31:12 EST.
+Última actualización: Mon 28 Nov 2022 23:16:49 EST.
 
 
 # **Puntuaciones**
@@ -71,17 +71,19 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 008                 | Héctor Zepeda Reyes          | Senegal            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Ghana            | Serbia                | Brazil             |
 | 009                 | Luis Temo Marquez             | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Korea             | Uruguay          | Draw                  | Brazil             |
 | 010                 | Fosi                          | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Belgium            | Canada            | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
+| 013                 | Ruben                         | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Draw                   | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Serbia                | Brazil             |
 | 014                 | Valentin                      | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
 | 016                 | Ernie                         | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Draw              | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
 | 018                 | Eduardo Rafael Palacios Rejon | Ecuador            | Netherlands          | Iran        | England          | France            | Draw                 | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
 | 019                 | Diego Angeles-Valdez          | Ecuador            | Netherlands          | Draw        | England          | France            | Australia            | Argentina           | Saudi Arabia           | Draw               | Morocco           | Spain          | Germany               | Portugal          | Draw             | Draw                  | Brazil             |
 | 020                 | Luis Llamas                   | Draw               | Netherlands          | Draw        | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
+| 023                 | Adam                          | Senegal            | Netherlands          | USA         | Wales            | France            | Denmark              | Argentina           | Draw                   | Belgium            | Morocco           | Spain          | Germany               | Portugal          | Draw             | Serbia                | Brazil             |
 ### Gráficos
 
 ![](media/picks_GS3.png )
 
 ### Similitud de las picks
-<img src=media/similarities_GS3.png alt=similarities width=600/>
+<img src=media/similarities_GS.png alt=similarities width=600/>
 
 ---
 ### **Jugadores notables en esta ronda**
@@ -91,11 +93,11 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 
 | numero_participante | Nombre                        |
 | ------------------- | ----------------------------- |
+| 023                 | Adam                          |
 | 019                 | Diego Angeles-Valdez          |
-| 008                 | Héctor Zepeda Reyes          |
-| 010                 | Fosi                          |
 | 018                 | Eduardo Rafael Palacios Rejon |
-| 001                 | Jonathan Gallego Rudolf       |
+| 010                 | Fosi                          |
+| 006                 | Juan Carlos Avendaño Aguilar |
  --- 
 
  ## <u>**Picks de la Jornada 2**</u>
