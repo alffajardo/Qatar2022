@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Tue 29 Nov 2022 15:17:11 EST.
+Última actualización: Tue 29 Nov 2022 16:07:33 EST.
 
 
 # **Puntuaciones**
@@ -24,30 +24,30 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 | numero_participante | Nombre                        | GS1 | GS2 | GS3 | Total |
 | ------------------- | ----------------------------- | --- | --- | --- | ----- |
-| 002                 | Poncho                        | 9   | 9   | 1   | 19    |
-| 001                 | Jonathan                      | 10  | 7   | 1   | 18    |
-| 003                 | Habib                         | 11  | 6   | 1   | 18    |
-| 014                 | Valentin                      | 9   | 8   | 1   | 18    |
-| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 1   | 18    |
-| 012                 | Ibrahim T                     | 10  | 6   | 1   | 17    |
-| 019                 | Diego Angeles                 | 8   | 8   | 1   | 17    |
-| 024                 | Ahmed Felfel                  | 8   | 7   | 2   | 17    |
-| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 2   | 16    |
-| 007                 | Claudio                       | 9   | 6   | 1   | 16    |
-| 013                 | Rubén Aguilar Grande         | 9   | 6   | 1   | 16    |
-| 015                 | Daniel Jimenez                | 8   | 6   | 2   | 16    |
-| 016                 | Ernie                         | 8   | 7   | 1   | 16    |
-| 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 1   | 15    |
-| 009                 | Luis Temo Marquez             | 9   | 5   | 1   | 15    |
-| 023                 | adamziri                      | 8   | 5   | 2   | 15    |
-| 010                 | Fosi                          | 8   | 5   | 1   | 14    |
-| 011                 | Jacob                         | 6   | 6   | 2   | 14    |
-| 017                 | Bobacao                       | 10  | 3   | 1   | 14    |
-| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 1   | 14    |
-| 005                 | Israel torres                 | 7   | 5   | 1   | 13    |
-| 008                 | Héctor Zepeda                | 7   | 4   | 2   | 13    |
-| 021                 | German Jair Sanchez Soto      | 7   | 5   | 1   | 13    |
-| 022                 | Colin                         | 6   | 4   | 1   | 11    |
+| 001                 | Jonathan                      | 10  | 7   | 3   | 20    |
+| 002                 | Poncho                        | 9   | 9   | 2   | 20    |
+| 014                 | Valentin                      | 9   | 8   | 3   | 20    |
+| 003                 | Habib                         | 11  | 6   | 2   | 19    |
+| 012                 | Ibrahim T                     | 10  | 6   | 3   | 19    |
+| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 2   | 19    |
+| 007                 | Claudio                       | 9   | 6   | 3   | 18    |
+| 013                 | Rubén Aguilar Grande         | 9   | 6   | 3   | 18    |
+| 015                 | Daniel Jimenez                | 8   | 6   | 4   | 18    |
+| 016                 | Ernie                         | 8   | 7   | 3   | 18    |
+| 019                 | Diego Angeles                 | 8   | 8   | 2   | 18    |
+| 024                 | Ahmed Felfel                  | 8   | 7   | 3   | 18    |
+| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 3   | 17    |
+| 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 3   | 17    |
+| 009                 | Luis Temo Marquez             | 9   | 5   | 3   | 17    |
+| 010                 | Fosi                          | 8   | 5   | 3   | 16    |
+| 017                 | Bobacao                       | 10  | 3   | 3   | 16    |
+| 023                 | adamziri                      | 8   | 5   | 3   | 16    |
+| 005                 | Israel torres                 | 7   | 5   | 3   | 15    |
+| 008                 | Héctor Zepeda                | 7   | 4   | 4   | 15    |
+| 011                 | Jacob                         | 6   | 6   | 3   | 15    |
+| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 2   | 15    |
+| 021                 | German Jair Sanchez Soto      | 7   | 5   | 2   | 14    |
+| 022                 | Colin                         | 6   | 4   | 3   | 13    |
  
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
