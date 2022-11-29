@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: lun 28 nov 2022 23:24:47 EST.
+Última actualización: Tue 29 Nov 2022 00:07:14 EST.
 
 
 # **Puntuaciones**
@@ -58,13 +58,6 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 [Resultados de la Jornada 2](GS2_complete_scores.csv)
  
 --- 
-# **Fase de Grupos**
-
-![](flags/matches/matches.gif)
-
----
-
-
 
  ## <u>**Picks de la Jornada 3**</u>
  
@@ -74,12 +67,14 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 001                 | Jonathan Gallego Rudolf       | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Korea             | Uruguay          | Serbia                | Brazil             |
 | 002                 | Poncho                        | Ecuador            | Netherlands          | Iran        | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
 | 003                 | Habib Echanove                | Ecuador            | Netherlands          | Iran        | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Portugal          | Draw             | Draw                  | Brazil             |
+| 005                 | Isra                          | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Draw              | Ghana            | Switzerland           | Brazil             |
 | 006                 | Juan Carlos Avendaño Aguilar | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Belgium            | Canada            | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
 | 008                 | Héctor Zepeda Reyes          | Senegal            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Ghana            | Serbia                | Brazil             |
 | 009                 | Luis Temo Marquez             | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Korea             | Uruguay          | Draw                  | Brazil             |
 | 010                 | Fosi                          | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Belgium            | Canada            | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
 | 013                 | Ruben                         | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Draw                   | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Serbia                | Brazil             |
 | 014                 | Valentin                      | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
+| 015                 | Daniel Jimenez                | Senegal            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Belgium            | Draw              | Spain          | Germany               | Portugal          | Draw             | Serbia                | Brazil             |
 | 016                 | Ernie                         | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Draw              | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
 | 018                 | Eduardo Rafael Palacios Rejon | Ecuador            | Netherlands          | Iran        | England          | France            | Draw                 | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
 | 019                 | Diego Angeles-Valdez          | Ecuador            | Netherlands          | Draw        | England          | France            | Australia            | Argentina           | Saudi Arabia           | Draw               | Morocco           | Spain          | Germany               | Portugal          | Draw             | Draw                  | Brazil             |
@@ -100,11 +95,11 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 
 | numero_participante | Nombre                        |
 | ------------------- | ----------------------------- |
-| 023                 | Adam                          |
 | 019                 | Diego Angeles-Valdez          |
+| 023                 | Adam                          |
+| 015                 | Daniel Jimenez                |
 | 018                 | Eduardo Rafael Palacios Rejon |
-| 010                 | Fosi                          |
-| 006                 | Juan Carlos Avendaño Aguilar |
+| 005                 | Isra                          |
  --- 
 
  ## <u>**Picks de la Jornada 2**</u>
