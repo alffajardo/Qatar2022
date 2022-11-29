@@ -42,8 +42,6 @@ match_names <- names(GS1_picks2)[1:length(GS1)]
 GS1_all <- map_dfc(1:length(GS1),~if_else( GS1[.x] == GS1_picks2[,.x],true = 1,0)) %>%
   set_names(match_names)
 
-cumsum_gs1 <- apply(GS1_all,1,cumsum)
-
 GS1 <- rowSums(GS1_all)
 
 scores_GS1 <- data.frame(numero_participante,Nombre,GS1_all)
