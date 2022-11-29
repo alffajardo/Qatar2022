@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: lun 28 nov 2022 08:58:56 EST.
+Última actualización: lun 28 nov 2022 22:22:02 EST.
 
 
 # **Puntuaciones**
@@ -22,32 +22,32 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 ### **Tabla General**
 
 
-| numero_participante | Nombre                        | GS1 | GS2 | Total |
-| ------------------- | ----------------------------- | --- | --- | ----- |
-| 001                 | Jonathan                      | 10  | 6   | 16    |
-| 002                 | Poncho                        | 9   | 7   | 16    |
-| 003                 | Habib                         | 11  | 5   | 16    |
-| 014                 | Valentin                      | 9   | 6   | 15    |
-| 020                 | Luis Angel Llamas Alonso      | 10  | 5   | 15    |
-| 007                 | Claudio                       | 9   | 5   | 14    |
-| 012                 | Ibrahim T                     | 10  | 4   | 14    |
-| 013                 | Rubén Aguilar Grande         | 9   | 5   | 14    |
-| 016                 | Ernie                         | 8   | 6   | 14    |
-| 006                 | Juan Carlos Avendaño Aguilar | 9   | 4   | 13    |
-| 009                 | Luis Temo Marquez             | 9   | 4   | 13    |
-| 019                 | Diego Angeles                 | 8   | 5   | 13    |
-| 024                 | Ahmed Felfel                  | 8   | 5   | 13    |
-| 004                 | Jalil Rasgado Toledo          | 9   | 3   | 12    |
-| 010                 | Fosi                          | 8   | 4   | 12    |
-| 015                 | Daniel Jimenez                | 8   | 4   | 12    |
-| 017                 | Bobacao                       | 10  | 2   | 12    |
-| 018                 | Eduardo Rafael Palacios Rejón | 8   | 3   | 11    |
-| 023                 | adamziri                      | 8   | 3   | 11    |
-| 005                 | Israel torres                 | 7   | 3   | 10    |
-| 011                 | Jacob                         | 6   | 4   | 10    |
-| 021                 | German Jair Sanchez Soto      | 7   | 3   | 10    |
-| 008                 | Héctor Zepeda                | 7   | 2   | 9     |
-| 022                 | Colin                         | 6   | 2   | 8     |
+| numero_participante | Nombre                        | GS1 | GS2 | GS3 | Total |
+| ------------------- | ----------------------------- | --- | --- | --- | ----- |
+| 002                 | Poncho                        | 9   | 9   | 16  | 34    |
+| 014                 | Valentin                      | 9   | 8   | 16  | 33    |
+| 003                 | Habib                         | 11  | 6   | 14  | 31    |
+| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 14  | 31    |
+| 012                 | Ibrahim T                     | 10  | 6   | 14  | 30    |
+| 001                 | Jonathan                      | 10  | 7   | 12  | 29    |
+| 024                 | Ahmed Felfel                  | 8   | 7   | 14  | 29    |
+| 015                 | Daniel Jimenez                | 8   | 6   | 14  | 28    |
+| 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 13  | 27    |
+| 009                 | Luis Temo Marquez             | 9   | 5   | 13  | 27    |
+| 010                 | Fosi                          | 8   | 5   | 14  | 27    |
+| 013                 | Rubén Aguilar Grande         | 9   | 6   | 12  | 27    |
+| 016                 | Ernie                         | 8   | 7   | 12  | 27    |
+| 019                 | Diego Angeles                 | 8   | 8   | 11  | 27    |
+| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 12  | 26    |
+| 007                 | Claudio                       | 9   | 6   | 11  | 26    |
+| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 13  | 26    |
+| 008                 | Héctor Zepeda                | 7   | 4   | 14  | 25    |
+| 017                 | Bobacao                       | 10  | 3   | 12  | 25    |
+| 021                 | German Jair Sanchez Soto      | 7   | 5   | 13  | 25    |
+| 005                 | Israel torres                 | 7   | 5   | 12  | 24    |
+| 022                 | Colin                         | 6   | 4   | 14  | 24    |
+| 023                 | adamziri                      | 8   | 5   | 11  | 24    |
+| 011                 | Jacob                         | 6   | 6   | 11  | 23    |
  
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
@@ -58,13 +58,46 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 [Resultados de la Jornada 2](GS2_complete_scores.csv)
  
 --- 
-# **Fase de Grupos**
 
-![](flags/matches/matches.gif)
+ ## <u>**Picks de la Jornada 3**</u>
+ 
+ 
+| numero_participante | Nombre                        | Ecuador vs Senegal | Netherlands vs Qatar | Iran vs USA | Wales vs England | Tunisia vs France | Australia vs Denmark | Poland vs Argentina | Saudi Arabia vs Mexico | Croatia vs Belgium | Canada vs Morocco | Japan vs Spain | Costa Rica vs Germany | Korea vs Portugal | Ghana vs Uruguay | Serbia vs Switzerland | Cameroon vs Brazil |
+| ------------------- | ----------------------------- | ------------------ | -------------------- | ----------- | ---------------- | ----------------- | -------------------- | ------------------- | ---------------------- | ------------------ | ----------------- | -------------- | --------------------- | ----------------- | ---------------- | --------------------- | ------------------ |
+| 001                 | Jonathan Gallego Rudolf       | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Korea             | Uruguay          | Serbia                | Brazil             |
+| 002                 | Poncho                        | Ecuador            | Netherlands          | Iran        | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
+| 003                 | Habib Echanove                | Ecuador            | Netherlands          | Iran        | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Portugal          | Draw             | Draw                  | Brazil             |
+| 006                 | Juan Carlos Avendaño Aguilar | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Belgium            | Canada            | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
+| 008                 | Héctor Zepeda Reyes          | Senegal            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Ghana            | Serbia                | Brazil             |
+| 009                 | Luis Temo Marquez             | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Korea             | Uruguay          | Draw                  | Brazil             |
+| 010                 | Fosi                          | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Belgium            | Canada            | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
+| 014                 | Valentin                      | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
+| 016                 | Ernie                         | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Draw              | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
+| 018                 | Eduardo Rafael Palacios Rejon | Ecuador            | Netherlands          | Iran        | England          | France            | Draw                 | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
+| 019                 | Diego Angeles-Valdez          | Ecuador            | Netherlands          | Draw        | England          | France            | Australia            | Argentina           | Saudi Arabia           | Draw               | Morocco           | Spain          | Germany               | Portugal          | Draw             | Draw                  | Brazil             |
+| 020                 | Luis Llamas                   | Draw               | Netherlands          | Draw        | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
+### Gráficos
+
+![](media/picks_GS3.png )
+
+### Similitud de las picks
+<img src=media/similarities_GS3.png alt=similarities width=600/>
 
 ---
+### **Jugadores notables en esta ronda**
+
+Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
 
 
+| numero_participante | Nombre                       |
+| ------------------- | ---------------------------- |
+| 022                 | Colin                        |
+| 010                 | Fosi                         |
+| 011                 | Jacob                        |
+| 016                 | Ernie                        |
+| 006                 | Juan Carlos Avendaño Aguilar |
+ --- 
+ --- 
 
  ## <u>**Picks de la Jornada 2**</u>
  
@@ -95,27 +128,6 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 022                 | Colin                         | Wales         | Senegal          | Netherlands            | Draw           | Tunisia              | Saudi Arabia           | Denmark           | Mexico              | Japan               | Draw               | Canada            | Germany          | Serbia             | Korea          | Brazil                | Portugal            |
 | 023                 | Adam                          | Wales         | Senegal          | Netherlands            | England        | Tunisia              | Draw                   | France            | Argentina           | Japan               | Draw               | Canada            | Spain            | Serbia             | Draw           | Brazil                | Portugal            |
 | 024                 | Ahmed Felfel                  | Iran          | Senegal          | Draw                   | England        | Draw                 | Saudi Arabia           | France            | Argentina           | Japan               | Belgium            | Draw              | Spain            | Serbia             | Korea          | Brazil                | Portugal            |
-### Gráficos
-
-![](media/picks_GS2.png )
-
-### Similitud de las picks
-<img src=media/similarities_GS2.png alt=similarities width=600/>
-
----
-### **Jugadores notables en esta ronda**
-
-Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
-
-
-| numero_participante | Nombre                       |
-| ------------------- | ---------------------------- |
-| 022                 | Colin                        |
-| 010                 | Fosi                         |
-| 011                 | Jacob                        |
-| 016                 | Ernie                        |
-| 006                 | Juan Carlos Avendaño Aguilar |
- --- 
 
  ## <u>**Picks de la Jornada 1**</u>
  
