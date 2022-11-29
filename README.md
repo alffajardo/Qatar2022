@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Tue 29 Nov 2022 00:07:14 EST.
+Última actualización: Tue 29 Nov 2022 00:57:40 EST.
 
 
 # **Puntuaciones**
@@ -58,6 +58,13 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 [Resultados de la Jornada 2](GS2_complete_scores.csv)
  
 --- 
+# **Fase de Grupos**
+
+![](flags/matches/matches.gif)
+
+---
+
+
 
  ## <u>**Picks de la Jornada 3**</u>
  
@@ -69,6 +76,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 003                 | Habib Echanove                | Ecuador            | Netherlands          | Iran        | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Portugal          | Draw             | Draw                  | Brazil             |
 | 005                 | Isra                          | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Draw              | Ghana            | Switzerland           | Brazil             |
 | 006                 | Juan Carlos Avendaño Aguilar | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Belgium            | Canada            | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
+| 007                 | Claudio                       | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Portugal          | Ghana            | Draw                  | Brazil             |
 | 008                 | Héctor Zepeda Reyes          | Senegal            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Ghana            | Serbia                | Brazil             |
 | 009                 | Luis Temo Marquez             | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Korea             | Uruguay          | Draw                  | Brazil             |
 | 010                 | Fosi                          | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Belgium            | Canada            | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
