@@ -43,7 +43,7 @@ echo "# **Fase de Grupos**
 echo "
  ## <u>**Picks de la Jornada 3**</u>
  
- " > 01.tmp_Grupos.md
+ " >> 01.tmp_Grupos.md
 
 ./generate_picks_GS3.R
 
