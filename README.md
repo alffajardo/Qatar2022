@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: lun 28 nov 2022 22:22:02 EST.
+Última actualización: lun 28 nov 2022 22:22:49 EST.
 
 
 # **Puntuaciones**
@@ -81,7 +81,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 ![](media/picks_GS3.png )
 
 ### Similitud de las picks
-<img src=media/similarities_GS3.png alt=similarities width=600/>
+<img src=media/similarities_GS.png alt=similarities width=600/>
 
 ---
 ### **Jugadores notables en esta ronda**
@@ -89,14 +89,13 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
 
 
-| numero_participante | Nombre                       |
-| ------------------- | ---------------------------- |
-| 022                 | Colin                        |
-| 010                 | Fosi                         |
-| 011                 | Jacob                        |
-| 016                 | Ernie                        |
-| 006                 | Juan Carlos Avendaño Aguilar |
- --- 
+| numero_participante | Nombre                        |
+| ------------------- | ----------------------------- |
+| 019                 | Diego Angeles-Valdez          |
+| 008                 | Héctor Zepeda Reyes          |
+| 010                 | Fosi                          |
+| 018                 | Eduardo Rafael Palacios Rejon |
+| 001                 | Jonathan Gallego Rudolf       |
  --- 
 
  ## <u>**Picks de la Jornada 2**</u>

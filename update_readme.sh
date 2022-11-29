@@ -54,7 +54,7 @@ echo "### Gráficos
 ![](media/picks_GS3.png )
 
 ### Similitud de las picks
-<img src="media/similarities_GS3.png" alt="similarities" width="600"/>
+<img src="media/similarities_GS.png" alt="similarities" width="600"/>
 
 ---
 ### **Jugadores notables en esta ronda**
@@ -62,23 +62,7 @@ echo "### Gráficos
 Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
 
 " >> 01.tmp_Grupos.md
-./gen_markdown_table.sh --csv < top_GS3echo "### Gráficos
-
-![](media/picks_GS2.png )
-
-### Similitud de las picks
-<img src="media/similarities_GS2.png" alt="similarities" width="600"/>
-
----
-### **Jugadores notables en esta ronda**
-
-Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
-
-" >> 01.tmp_Grupos.md
-./gen_markdown_table.sh --csv < top_GS2.csv >> 01.tmp_Grupos.md
-
-echo " --- " >> 01.tmp_Grupos.md
-.csv >> 01.tmp_Grupos.md
+./gen_markdown_table.sh --csv < top_GS3.csv >> 01.tmp_Grupos.md
 
 echo " --- " >> 01.tmp_Grupos.md
 
