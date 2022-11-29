@@ -144,6 +144,11 @@ echo "
  
 --- "  >> 02.tmp_Resultados.md
 
+cho " 
+
+[Resultados de la Jornada 3](GS3_complete_scores.csv)
+ 
+--- "  >> 02.tmp_Resultados.md
 
 
 # ----------------------------------------------------------------------------------------------------- |
