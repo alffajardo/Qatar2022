@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Tue 29 Nov 2022 00:57:40 EST.
+Última actualización: Tue 29 Nov 2022 01:48:04 EST.
 
 
 # **Puntuaciones**
@@ -74,6 +74,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 001                 | Jonathan Gallego Rudolf       | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Korea             | Uruguay          | Serbia                | Brazil             |
 | 002                 | Poncho                        | Ecuador            | Netherlands          | Iran        | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
 | 003                 | Habib Echanove                | Ecuador            | Netherlands          | Iran        | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Portugal          | Draw             | Draw                  | Brazil             |
+| 004                 | Jalil                         | Senegal            | Netherlands          | Iran        | England          | France            | Draw                 | Argentina           | Saudi Arabia           | Belgium            | Draw              | Spain          | Germany               | Portugal          | Uruguay          | Serbia                | Brazil             |
 | 005                 | Isra                          | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Draw              | Ghana            | Switzerland           | Brazil             |
 | 006                 | Juan Carlos Avendaño Aguilar | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Belgium            | Canada            | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
 | 007                 | Claudio                       | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Portugal          | Ghana            | Draw                  | Brazil             |
@@ -101,13 +102,13 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras concluir la ronda: 
 
 
-| numero_participante | Nombre                        |
-| ------------------- | ----------------------------- |
-| 019                 | Diego Angeles-Valdez          |
-| 023                 | Adam                          |
-| 015                 | Daniel Jimenez                |
-| 018                 | Eduardo Rafael Palacios Rejon |
-| 005                 | Isra                          |
+| numero_participante | Nombre               |
+| ------------------- | -------------------- |
+| 004                 | Jalil                |
+| 019                 | Diego Angeles-Valdez |
+| 023                 | Adam                 |
+| 005                 | Isra                 |
+| 015                 | Daniel Jimenez       |
  --- 
 
  ## <u>**Picks de la Jornada 2**</u>
