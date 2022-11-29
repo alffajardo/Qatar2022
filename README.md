@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: lun 28 nov 2022 22:26:58 EST.
+Última actualización: lun 28 nov 2022 22:27:54 EST.
 
 
 # **Puntuaciones**
@@ -22,9 +22,8 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 ### **Tabla General**
 
 
-| <<<<<<< HEAD                                     |
-| ------------------------------------------------ | ----------------------------- | --- | --- | ----- | ----- |
 | numero_participante                              | Nombre                        | GS1 | GS2 | GS3   | Total |
+| ------------------------------------------------ | ----------------------------- | --- | --- | ----- | ----- |
 | 002                                              | Poncho                        | 9   | 9   | 16    | 34    |
 | 014                                              | Valentin                      | 9   | 8   | 16    | 33    |
 | 003                                              | Habib                         | 11  | 6   | 14    | 31    |
