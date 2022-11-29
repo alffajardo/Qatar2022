@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Tue 29 Nov 2022 04:19:15 EST.
+Última actualización: Tue 29 Nov 2022 05:09:40 EST.
 
 
 # **Puntuaciones**
@@ -82,6 +82,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 009                 | Luis Temo Marquez             | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Korea             | Uruguay          | Draw                  | Brazil             |
 | 010                 | Fosi                          | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Belgium            | Canada            | Spain          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
 | 011                 | Jacob                         | Senegal            | Netherlands          | USA         | Draw             | France            | Denmark              | Poland              | Mexico                 | Croatia            | Morocco           | Japan          | Germany               | Portugal          | Uruguay          | Switzerland           | Brazil             |
+| 012                 | Ibrahim T                     | Ecuador            | Netherlands          | USA         | England          | France            | Draw                 | Argentina           | Mexico                 | Croatia            | Draw              | Japan          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
 | 013                 | Ruben                         | Draw               | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Draw                   | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Serbia                | Brazil             |
 | 014                 | Valentin                      | Ecuador            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Draw               | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
 | 015                 | Daniel Jimenez                | Senegal            | Netherlands          | USA         | England          | France            | Denmark              | Argentina           | Mexico                 | Belgium            | Draw              | Spain          | Germany               | Portugal          | Draw             | Serbia                | Brazil             |
@@ -111,7 +112,7 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 | 011                 | Jacob                |
 | 019                 | Diego Angeles-Valdez |
 | 023                 | Adam                 |
-| 015                 | Daniel Jimenez       |
+| 012                 | Ibrahim T            |
  --- 
 
  ## <u>**Picks de la Jornada 2**</u>
