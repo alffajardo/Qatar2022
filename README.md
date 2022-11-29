@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Tue 29 Nov 2022 08:34:08 EST.
+Última actualización: Tue 29 Nov 2022 09:24:32 EST.
 
 
 # **Puntuaciones**
@@ -93,6 +93,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 020                 | Luis Llamas                   | Draw               | Netherlands          | Draw        | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
 | 021                 | German Jair                   | Ecuador            | Netherlands          | Draw        | England          | France            | Denmark              | Argentina           | Mexico                 | Croatia            | Morocco           | Spain          | Germany               | Portugal          | Uruguay          | Draw                  | Brazil             |
 | 023                 | Adam                          | Senegal            | Netherlands          | USA         | Wales            | France            | Denmark              | Argentina           | Draw                   | Belgium            | Morocco           | Spain          | Germany               | Portugal          | Draw             | Serbia                | Brazil             |
+| 024                 | Ahmed Felfel                  | Senegal            | Netherlands          | Iran        | England          | France            | Denmark              | Argentina           | Draw                   | Croatia            | Draw              | Spain          | Germany               | Portugal          | Draw             | Serbia                | Brazil             |
 ### Gráficos
 
 ![](media/picks_GS3.png )
@@ -108,11 +109,11 @@ Este es el top 5 de jugadores que más cambiarán su posición en la tabla tras 
 
 | numero_participante | Nombre               |
 | ------------------- | -------------------- |
-| 004                 | Jalil                |
 | 011                 | Jacob                |
+| 004                 | Jalil                |
 | 019                 | Diego Angeles-Valdez |
 | 023                 | Adam                 |
-| 012                 | Ibrahim T            |
+| 024                 | Ahmed Felfel         |
  --- 
 
  ## <u>**Picks de la Jornada 2**</u>
