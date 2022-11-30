@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Wed 30 Nov 2022 10:35:33 EST.
+Última actualización: Wed 30 Nov 2022 12:03:45 EST.
 
 
 # **Puntuaciones**
@@ -29,12 +29,12 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 014                 | Valentin                      | 9   | 8   | 3   | 20    |
 | 003                 | Habib                         | 11  | 6   | 2   | 19    |
 | 012                 | Ibrahim T                     | 10  | 6   | 3   | 19    |
+| 019                 | Diego Angeles                 | 8   | 8   | 3   | 19    |
 | 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 2   | 19    |
 | 007                 | Claudio                       | 9   | 6   | 3   | 18    |
 | 013                 | Rubén Aguilar Grande         | 9   | 6   | 3   | 18    |
 | 015                 | Daniel Jimenez                | 8   | 6   | 4   | 18    |
 | 016                 | Ernie                         | 8   | 7   | 3   | 18    |
-| 019                 | Diego Angeles                 | 8   | 8   | 2   | 18    |
 | 024                 | Ahmed Felfel                  | 8   | 7   | 3   | 18    |
 | 004                 | Jalil Rasgado Toledo          | 9   | 5   | 3   | 17    |
 | 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 3   | 17    |
