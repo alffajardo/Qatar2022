@@ -1,8 +1,12 @@
 
 library(imager)
+library(googledrive)
+library(googlesheets4)
 
-setwd("/home/alfonso/Documents/GoogleDrive/world_cup")
-matches <- read.csv("matches.csv")
+drive_auth(email = T)
+matches_id <- drive_find("matches",type = "spreadsheet",
+                        n_max = 1)$id
+matches <- read_sheet(matches_id)
 setwd("flags/")
 for (i in 1:nrow(matches)){
 
@@ -18,8 +22,8 @@ match <- stringr::str_pad(as.character(i),
 output<- paste("matches/",
                "Match",match,".png",sep = "")
 
-local <- matches[i,2]
-visitor <- matches[i,3]
+local <- matches[i,4]
+visitor <- matches[i,5]
 x <- imager::load.image(paste(local,".png",sep=''))
 y <- load.image(paste(visitor,".png",sep=''))
 
