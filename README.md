@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: vie 02 dic 2022 11:51:47 EST.
+Última actualización: vie 02 dic 2022 11:52:14 EST.
 
 
 # **Puntuaciones**
@@ -24,30 +24,30 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 | numero_participante | Nombre                        | GS1 | GS2 | GS3 | Total |
 | ------------------- | ----------------------------- | --- | --- | --- | ----- |
-| 001                 | Jonathan                      | 10  | 7   | 8   | 25    |
-| 014                 | Valentin                      | 9   | 8   | 8   | 25    |
-| 002                 | Poncho                        | 9   | 9   | 6   | 24    |
+| 001                 | Jonathan                      | 10  | 7   | 10  | 27    |
+| 014                 | Valentin                      | 9   | 8   | 9   | 26    |
+| 002                 | Poncho                        | 9   | 9   | 7   | 25    |
 | 003                 | Habib                         | 11  | 6   | 7   | 24    |
+| 012                 | Ibrahim T                     | 10  | 6   | 8   | 24    |
+| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 7   | 24    |
 | 007                 | Claudio                       | 9   | 6   | 8   | 23    |
-| 012                 | Ibrahim T                     | 10  | 6   | 7   | 23    |
+| 009                 | Luis Temo Marquez             | 9   | 5   | 9   | 23    |
 | 019                 | Diego Angeles                 | 8   | 8   | 7   | 23    |
-| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 6   | 23    |
-| 009                 | Luis Temo Marquez             | 9   | 5   | 7   | 21    |
-| 013                 | Rubén Aguilar Grande         | 9   | 6   | 6   | 21    |
+| 013                 | Rubén Aguilar Grande         | 9   | 6   | 7   | 22    |
+| 016                 | Ernie                         | 8   | 7   | 7   | 22    |
+| 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 7   | 21    |
 | 015                 | Daniel Jimenez                | 8   | 6   | 7   | 21    |
-| 016                 | Ernie                         | 8   | 7   | 6   | 21    |
-| 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 6   | 20    |
+| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 6   | 20    |
+| 010                 | Fosi                          | 8   | 5   | 7   | 20    |
+| 011                 | Jacob                         | 6   | 6   | 8   | 20    |
+| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 7   | 20    |
 | 024                 | Ahmed Felfel                  | 8   | 7   | 5   | 20    |
-| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 5   | 19    |
 | 005                 | Israel torres                 | 7   | 5   | 7   | 19    |
 | 008                 | Héctor Zepeda                | 7   | 4   | 8   | 19    |
-| 010                 | Fosi                          | 8   | 5   | 6   | 19    |
-| 011                 | Jacob                         | 6   | 6   | 7   | 19    |
 | 017                 | Bobacao                       | 10  | 3   | 6   | 19    |
-| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 6   | 19    |
+| 021                 | German Jair Sanchez Soto      | 7   | 5   | 7   | 19    |
+| 022                 | Colin                         | 6   | 4   | 9   | 19    |
 | 023                 | adamziri                      | 8   | 5   | 6   | 19    |
-| 021                 | German Jair Sanchez Soto      | 7   | 5   | 6   | 18    |
-| 022                 | Colin                         | 6   | 4   | 8   | 18    |
  
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
@@ -56,6 +56,11 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
  
 
 [Resultados de la Jornada 2](GS2_complete_scores.csv)
+ 
+--- 
+ 
+
+[Resultados de la Jornada 3](GS3_complete_scores.csv)
  
 --- 
 # **Fase de Grupos**
