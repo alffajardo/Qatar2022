@@ -36,8 +36,6 @@ echo -e "Última actualización: $(date).
 
 echo "# **Fase Eliminatoria**
 
----
-
 " > 02.tmp_Eliminatoria.md
 
 # ------------------------------------------------------
