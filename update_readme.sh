@@ -212,7 +212,7 @@ echo "
 # .-----------------------------------------------------------------------------------------------------|
 # Gather all the files into the read me
 
-cat 00.tmp_header.md  02.tmp_Resultados.md 02.tmp_Elimintatoria.md 01.tmp_Grupos.md > README.md
+cat 00.tmp_header.md  02.tmp_Resultados.md 02.tmp_Eliminatoria.md 01.tmp_Grupos.md > README.md
 
 
  rm *tmp*md
