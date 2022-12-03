@@ -13,10 +13,10 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: sáb 03 dic 2022 16:52:24 EST.
+Última actualización: Sat  3 Dec 2022 16:53:08 EST.
 
 
-# **Puntuaciones (Actualizadas hasta la fase de grupos)**
+# **Puntuaciones**
 
 
 ### **Tabla General**
@@ -63,77 +63,6 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 [Resultados de la Jornada 3](GS3_complete_scores.csv)
  
 --- 
-# **Fase Eliminatoria**
-
-
-
- ## <u>**Picks de la fase de octavos**</u>
-
- ![](flags/matches/octaves.gif)
- 
- 
-| numero_participante | Nombre                        | Netherlands vs USA | Argentina vs Australia | France vs Poland | England vs Senegal | Japan vs Croatia | Brazil vs Korea | Morocco vs Spain | Portugal vs Switezerland |
-| ------------------- | ----------------------------- | ------------------ | ---------------------- | ---------------- | ------------------ | ---------------- | --------------- | ---------------- | ------------------------ |
-| 001                 | Jonathan                      | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 002                 | Poncho                        | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 003                 | Habib Echanove Simon          | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 004                 | Jalil                         | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 005                 | Isra torres                   | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 006                 | Juan Carlos Avendaño Aguilar | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 007                 | Claudio                       | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Morocco          | Portugal                 |
-| 008                 | Héctor Zepeda Reyes          | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 009                 | Luis Temo Marquez             | USA                | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 010                 | Fosi                          | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 011                 | Jacob                         | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
-| 013                 | Ruben                         | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 014                 | Valentin                      | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 015                 | Daniel Jimenez                | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 016                 | Ernie                         | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 017                 | Bob                           | USA                | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
-| 018                 | Eduardo Rafael Palacios Rejòn | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
-| 019                 | Diego Angeles                 | USA                | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Switzerland              |
-| 020                 | Luis Llamas                   | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Morocco          | Portugal                 |
-| 021                 | German jair                   | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 022                 | Colin                         | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
-| 023                 | Adam                          | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 024                 | Ahmed                         | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
-
-![](media/picks_K08.png)
-
-
-
- ## <u>**Predicción de Marcadores**</u>
- 
- 
-| numero_participante | Nombre                        | Netherlands vs USA score | Argentina vs Australia score | France vs Poland score | England vs Senegal score | Japan vs Croatia score | Brazil vs Korea score | Morocco vs Spain score | Portugal vs Switzerland score |
-| ------------------- | ----------------------------- | ------------------------ | ---------------------------- | ---------------------- | ------------------------ | ---------------------- | --------------------- | ---------------------- | ----------------------------- |
-| 001                 | Jonathan                      | 2-1                      | 3-1                          | 3-0                    | 2-0                      | 1-1                    | 2-1                   | 1-3                    | 2-0                           |
-| 002                 | Poncho                        | 2-1                      | 3-0                          | 2-0                    | 0-0                      | 2-1                    | 3-1                   | 0-2                    | 3-1                           |
-| 003                 | Habib Echanove Simon          | 1-0                      | 1-0                          | 1-0                    | 1-0                      | 0-1                    | 1-0                   | 0-1                    | 1-0                           |
-| 004                 | Jalil                         | 2-1                      | 2-0                          | 2-1                    | 1-0                      | 1-0                    | 3-2                   | 0-1                    | 1-0                           |
-| 005                 | Isra torres                   | 2-1                      | 2-0                          | 3-0                    | 2-2                      | 2-2                    | 2-1                   | 0-0                    | 2-1                           |
-| 006                 | Juan Carlos Avendaño Aguilar | 2-1                      | 3-1                          | 2-0                    | 1-0                      | 3-2                    | 3-1                   | 3-1                    | 2-0                           |
-| 007                 | Claudio                       | 2-1                      | 3-0                          | 3-0                    | 3-2                      | 2-2                    | 3-1                   | 1-1                    | 2-2                           |
-| 008                 | Héctor Zepeda Reyes          | 2-0                      | 3-0                          | 4-1                    | 2-1                      | 1-0                    | 3-1                   | 5-6                    | 2-0                           |
-| 009                 | Luis Temo Marquez             | 1-2                      | 3-1                          | 2-0                    | 2-0                      | 0-1                    | 3-1                   | 2-3                    | 1-0                           |
-| 010                 | Fosi                          | 1-0                      | 2-0                          | 2-1                    | 3-0                      | 1-1                    | 2-1                   | 0-1                    | 2-1                           |
-| 011                 | Jacob                         | 2-1                      | 3-1                          | 2-0                    | 3-2                      | 1-0                    | 2-0                   | 1-0                    | 2-0                           |
-| 013                 | Ruben                         | 2-1                      | 3-1                          | 2-0                    | 1-0                      | 2-1                    | 2-0                   | 2-0                    | 2-1                           |
-| 014                 | Valentin                      | 1-0                      | 3-0                          | 2-0                    | 3-1                      | 2-1                    | 4-1                   | 2-1                    | 2-1                           |
-| 015                 | Daniel Jimenez                | 1-1                      | 3-1                          | 3-0                    | 4-2                      | 2-0                    | 4-1                   | 2-2                    | 3-2                           |
-| 016                 | Ernie                         | 2-2                      | 4-1                          | 3-1                    | 2-1                      | 0-1                    | 3-1                   | 1-2                    | 2-2                           |
-| 017                 | Bob                           | 1-1                      | 2-1                          | 4-0                    | 1-1                      | 2-1                    | 3-1                   | 2-2                    | 3-2                           |
-| 018                 | Eduardo Rafael Palacios Rejòn | 1-0                      | 3-1                          | 4-0                    | 2-1                      | 2-1                    | 1-1                   | 2-1                    | 1-0                           |
-| 019                 | Diego Angeles                 | 1-2                      | 3-1                          | 2-1                    | 2-1                      | 1-0                    | 3-1                   | 2-3                    | 0-1                           |
-| 020                 | Luis Llamas                   | 2-1                      | 3-0                          | 3-0                    | 2-1                      | 1-1                    | 3-1                   | 1-1                    | 1-1                           |
-| 021                 | German jair                   | 3-1                      | 3-0                          | 3-0                    | 2-0                      | 2-1                    | 3-1                   | 1-0                    | 2-1                           |
-| 022                 | Colin                         | 2-1                      | 3-1                          | 2-0                    | 2-0                      | 1-0                    | 2-0                   | 1-0                    | 2-1                           |
-| 023                 | Adam                          | 2-1                      | 2-0                          | 1-0                    | 1-0                      | 2-1                    | 3-0                   | 3-1                    | 2-0                           |
-| 024                 | Ahmed                         | 2-0                      | 3-0                          | 4-1                    | 1-1                      | 2-1                    | 3-1                   | 1-0                    | 1-0                           |
-
-![](media/predicted_scores_K08.png)
-
-- - - 
 # **Fase de Grupos**
 
 ![](flags/matches/matches.gif)
