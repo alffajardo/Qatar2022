@@ -45,7 +45,7 @@ echo "# **Fase Eliminatoria**
 # ------------------------------------------------------
 #  ----------Fase de octavos
 #------------------------------------------------------
-./generate_picks_kO8.R
+Rscript generate_picks_kO8.R
 
 
 echo "
