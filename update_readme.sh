@@ -176,7 +176,7 @@ echo " --- " >> 01.tmp_Grupos.md
 
 Rscript score_picks.R
 
-echo "# **Puntuaciones**
+echo "# **Puntuaciones (Actualizadas hasta la fase de grupos)**
 
 " > 02.tmp_Resultados.md
 
