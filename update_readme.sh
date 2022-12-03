@@ -36,8 +36,6 @@ echo -e "Última actualización: $(date).
 
 echo "# **Fase Eliminatoria**
 
-![](flags/matches/octaves.gif)
-
 ---
 
 " > 02.tmp_Eliminatoria.md
@@ -50,6 +48,8 @@ Rscript generate_picks_kO8.R
 
 echo "
  ## <u>**Picks de la fase de octavos**</u>
+
+ ![](flags/matches/octaves.gif)
  
  " >> 02.tmp_Eliminatoria.md
 ./gen_markdown_table.sh --csv < KO8_picks.csv >> 02.tmp_Eliminatoria.md

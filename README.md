@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: sáb 03 dic 2022 16:40:26 EST.
+Última actualización: sáb 03 dic 2022 16:42:47 EST.
 
 
 # **Puntuaciones**
@@ -65,13 +65,13 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 --- 
 # **Fase Eliminatoria**
 
-![](flags/matches/octaves.gif)
-
 ---
 
 
 
  ## <u>**Picks de la fase de octavos**</u>
+
+ ![](flags/matches/octaves.gif)
  
  
 | numero_participante | Nombre                        | Netherlands vs USA | Argentina vs Australia | France vs Poland | England vs Senegal | Japan vs Croatia | Brazil vs Korea | Morocco vs Spain | Portugal vs Switezerland |
