@@ -52,24 +52,24 @@ echo "
  ## <u>**Picks de la fase de octavos**</u>
  
  " >> 02.tmp_Eliminatoria.md
-./gen_markdown_table.sh --csv < K08_picks.csv >> 01.tmp_Eliminatoria.md
+./gen_markdown_table.sh --csv < K08_picks.csv >> 02.tmp_Eliminatoria.md
 
 echo "
 ![](media/picks_KO8.png)
 
-" >> 01.tmp_Eliminatoria.md
+" >> 02.tmp_Eliminatoria.md
 
 echo "
  ## <u>**Predicción de Marcadores**</u>
  
  " >> 02.tmp_Eliminatoria.md
 
-./gen_markdown_table.sh --csv < K08_predicted_scores.csv >> 01.tmp_Eliminatoria.md
+./gen_markdown_table.sh --csv < K08_predicted_scores.csv >> 02.tmp_Eliminatoria.md
 
 echo "
 ![](media/predicted_scores_KO8.png)
 
-- - - " >> 01.tmp_Eliminatoria.md
+- - - " >> 02.tmp_Eliminatoria.md
 
 
 echo "### Gráficos
