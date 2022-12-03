@@ -27,7 +27,59 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 echo -e "Última actualización: $(date).
 
 " >> 00.tmp_header.md 
+
+
+
+
+# ---------------------------------------------------------------------------------------------!
+#   Fase eliminatoria
+
+echo "# **Fase Eliminatoria**
+
+![](flags/matches/octaves.gif)
+
+---
+
+" > 02.tmp_Eliminatoria.md
+
+# ------------------------------------------------------
+#  ----------Fase de octavos
+#------------------------------------------------------
+./generate_picks_kO8.R
+
+
+echo "
+ ## <u>**Picks de la fase de octavos**</u>
+ 
+ " >> 02.tmp_Eliminatoria.md
+./gen_markdown_table.sh --csv < K08_picks.csv >> 01.tmp_Eliminatoria.md
+
+echo "
+![](media/picks_KO8.png)
+
+" >> 01.tmp_Eliminatoria.md
+
+echo "
+ ## <u>**Predicción de Marcadores**</u>
+ 
+ " >> 02.tmp_Eliminatoria.md
+
+./gen_markdown_table.sh --csv < K08_predicted_scores.csv >> 01.tmp_Eliminatoria.md
+
+echo "
+![](media/predicted_scores_KO8.png)
+
+- - - " >> 01.tmp_Eliminatoria.md
+
+
+echo "### Gráficos
+
+![](media/picks_GS3.png )"
+
+
+##------------------------------------------------------------------------------------------------|
 ### FASE DE GRUPOS
+# -----------------------------------------------------------------------------------------------|
 echo "# **Fase de Grupos**
 
 ![](flags/matches/matches.gif)
@@ -35,6 +87,8 @@ echo "# **Fase de Grupos**
 ---
 
 " > 01.tmp_Grupos.md
+
+
 
 
 ## ---------------------------------------------------------------------------------------------|
@@ -151,11 +205,14 @@ echo "
 --- "  >> 02.tmp_Resultados.md
 
 
+#### --------------------------------------------------------------------------------------------------------
+## ELIMININATORIAS
+
 # ----------------------------------------------------------------------------------------------------- |
 # .-----------------------------------------------------------------------------------------------------|
 # Gather all the files into the read me
 
-cat 00.tmp_header.md  02.tmp_Resultados.md 01.tmp_Grupos.md > README.md
+cat 00.tmp_header.md  02.tmp_Resultados.md 02.tmp_Elimintatoria.md 01.tmp_Grupos.md > README.md
 
 
  rm *tmp*md

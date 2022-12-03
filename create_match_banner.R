@@ -38,3 +38,13 @@ plot(y,axes = F,main = visitor)
 dev.off()
 rm(i)
 }
+
+
+
+# Create match banner for the next games
+
+par(mfrow = c(2,2),bg="gray")
+
+
+
+
