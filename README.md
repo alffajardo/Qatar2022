@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: sáb 03 dic 2022 16:39:27 EST.
+Última actualización: sáb 03 dic 2022 16:40:26 EST.
 
 
 # **Puntuaciones**
@@ -133,7 +133,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 023                 | Adam                          | 2-1                      | 2-0                          | 1-0                    | 1-0                      | 2-1                    | 3-0                   | 3-1                    | 2-0                           |
 | 024                 | Ahmed                         | 2-0                      | 3-0                          | 4-1                    | 1-1                      | 2-1                    | 3-1                   | 1-0                    | 1-0                           |
 
-![](media/predicted_scores_KO8.png)
+![](media/predicted_scores_K08.png)
 
 - - - 
 # **Fase de Grupos**
