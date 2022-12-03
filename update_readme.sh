@@ -99,7 +99,7 @@ echo "
  
  " >> 01.tmp_Grupos.md
 
-./generate_picks_GS3.R
+Rscript generate_picks_GS3.R
 
 ./gen_markdown_table.sh --csv < GS3_picks.csv >> 01.tmp_Grupos.md
 
@@ -135,7 +135,7 @@ echo "
  
  " >> 01.tmp_Grupos.md
 
-./generate_picks_GS2.R
+Rscript generate_picks_GS2.R
 
 ./gen_markdown_table.sh --csv < GS2_picks.csv >> 01.tmp_Grupos.md
 
@@ -148,7 +148,7 @@ echo "
  
  " >> 01.tmp_Grupos.md
 
-./generate_picks_GS1.R
+Rscript generate_picks_GS1.R
 
 ./gen_markdown_table.sh --csv < GS1_picks.csv >> 01.tmp_Grupos.md
 
@@ -174,7 +174,7 @@ echo " --- " >> 01.tmp_Grupos.md
 #  ------------------------- RESULTADOS --------------------------------------------------------------------------------
 
 
-./score_picks.R
+Rscript score_picks.R
 
 echo "# **Puntuaciones**
 
