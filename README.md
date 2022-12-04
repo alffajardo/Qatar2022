@@ -13,41 +13,41 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: sáb 03 dic 2022 16:52:24 EST.
+Última actualización: sáb 03 dic 2022 22:52:58 EST.
 
 
-# **Puntuaciones (Actualizadas hasta la fase de grupos)**
+# **Puntuaciones**
 
 
 ### **Tabla General**
 
 
-| numero_participante | Nombre                        | GS1 | GS2 | GS3 | Total |
-| ------------------- | ----------------------------- | --- | --- | --- | ----- |
-| 001                 | Jonathan                      | 10  | 7   | 10  | 27    |
-| 014                 | Valentin                      | 9   | 8   | 9   | 26    |
-| 002                 | Poncho                        | 9   | 9   | 7   | 25    |
-| 003                 | Habib                         | 11  | 6   | 7   | 24    |
-| 012                 | Ibrahim T                     | 10  | 6   | 8   | 24    |
-| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 7   | 24    |
-| 007                 | Claudio                       | 9   | 6   | 8   | 23    |
-| 009                 | Luis Temo Marquez             | 9   | 5   | 9   | 23    |
-| 019                 | Diego Angeles                 | 8   | 8   | 7   | 23    |
-| 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 8   | 22    |
-| 013                 | Rubén Aguilar Grande         | 9   | 6   | 7   | 22    |
-| 016                 | Ernie                         | 8   | 7   | 7   | 22    |
-| 010                 | Fosi                          | 8   | 5   | 8   | 21    |
-| 011                 | Jacob                         | 6   | 6   | 9   | 21    |
-| 015                 | Daniel Jimenez                | 8   | 6   | 7   | 21    |
-| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 8   | 21    |
-| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 6   | 20    |
-| 005                 | Israel torres                 | 7   | 5   | 8   | 20    |
-| 017                 | Bobacao                       | 10  | 3   | 7   | 20    |
-| 022                 | Colin                         | 6   | 4   | 10  | 20    |
-| 024                 | Ahmed Felfel                  | 8   | 7   | 5   | 20    |
-| 008                 | Héctor Zepeda                | 7   | 4   | 8   | 19    |
-| 021                 | German Jair Sanchez Soto      | 7   | 5   | 7   | 19    |
-| 023                 | adamziri                      | 8   | 5   | 6   | 19    |
+| numero_participante | Nombre                        | GS1 | GS2 | GS3 | KO8 | KO8_bonus | Total |
+| ------------------- | ----------------------------- | --- | --- | --- | --- | --------- | ----- |
+| 001                 | Jonathan                      | 10  | 7   | 10  | 2   | 0         | 29    |
+| 014                 | Valentin                      | 9   | 8   | 9   | 2   | 0         | 28    |
+| 002                 | Poncho                        | 9   | 9   | 7   | 2   | 0         | 27    |
+| 003                 | Habib                         | 11  | 6   | 7   | 2   | 0         | 26    |
+| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 7   | 2   | 0         | 26    |
+| 007                 | Claudio                       | 9   | 6   | 8   | 2   | 0         | 25    |
+| 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 8   | 2   | 0         | 24    |
+| 009                 | Luis Temo Marquez             | 9   | 5   | 9   | 1   | 0         | 24    |
+| 012                 | Ibrahim T                     | 10  | 6   | 8   | 0   | 0         | 24    |
+| 013                 | Rubén Aguilar Grande         | 9   | 6   | 7   | 2   | 0         | 24    |
+| 016                 | Ernie                         | 8   | 7   | 7   | 2   | 0         | 24    |
+| 019                 | Diego Angeles                 | 8   | 8   | 7   | 1   | 0         | 24    |
+| 010                 | Fosi                          | 8   | 5   | 8   | 2   | 0         | 23    |
+| 011                 | Jacob                         | 6   | 6   | 9   | 2   | 0         | 23    |
+| 015                 | Daniel Jimenez                | 8   | 6   | 7   | 2   | 0         | 23    |
+| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 8   | 2   | 0         | 23    |
+| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 6   | 2   | 0         | 22    |
+| 005                 | Israel torres                 | 7   | 5   | 8   | 2   | 0         | 22    |
+| 017                 | Bobacao                       | 10  | 3   | 7   | 1   | 1         | 22    |
+| 022                 | Colin                         | 6   | 4   | 10  | 2   | 0         | 22    |
+| 024                 | Ahmed Felfel                  | 8   | 7   | 5   | 2   | 0         | 22    |
+| 008                 | Héctor Zepeda                | 7   | 4   | 8   | 2   | 0         | 21    |
+| 023                 | adamziri                      | 8   | 5   | 6   | 2   | 0         | 21    |
+| 021                 | German Jair Sanchez Soto      | 7   | 5   | 7   | 0   | 0         | 19    |
  
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
@@ -63,6 +63,11 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 [Resultados de la Jornada 3](GS3_complete_scores.csv)
  
 --- 
+ 
+
+[Resultados de la fase de Octavos](KO8_complete_scores.csv) , [Marcadores](KO_complete_bonus.csv)
+ 
+--- 
 # **Fase Eliminatoria**
 
 
@@ -74,29 +79,30 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
  
 | numero_participante | Nombre                        | Netherlands vs USA | Argentina vs Australia | France vs Poland | England vs Senegal | Japan vs Croatia | Brazil vs Korea | Morocco vs Spain | Portugal vs Switezerland |
 | ------------------- | ----------------------------- | ------------------ | ---------------------- | ---------------- | ------------------ | ---------------- | --------------- | ---------------- | ------------------------ |
-| 001                 | Jonathan                      | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 002                 | Poncho                        | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 003                 | Habib Echanove Simon          | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 004                 | Jalil                         | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 005                 | Isra torres                   | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 006                 | Juan Carlos Avendaño Aguilar | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 007                 | Claudio                       | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Morocco          | Portugal                 |
-| 008                 | Héctor Zepeda Reyes          | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
+| 001                 | Jonathan                      | Netherlands        | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
+| 002                 | Poncho                        | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
+| 003                 | Habib Echanove Simon          | Netherlands        | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
+| 004                 | Jalil                         | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
+| 005                 | Isra torres                   | Netherlands        | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
+| 006                 | Juan Carlos Avendaño Aguilar | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
+| 007                 | Claudio                       | Netherlands        | Argentina              | France           | England            | Croatia          | Brazil          | Morocco          | Portugal                 |
+| 008                 | Héctor Zepeda Reyes          | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
 | 009                 | Luis Temo Marquez             | USA                | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 010                 | Fosi                          | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 011                 | Jacob                         | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
-| 013                 | Ruben                         | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 014                 | Valentin                      | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 015                 | Daniel Jimenez                | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 016                 | Ernie                         | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
+| 010                 | Fosi                          | Netherlands        | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
+| 011                 | Jacob                         | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
+| 012                 | Ibrahim T                     | NA                 | NA                     | NA               | NA                 | NA               | NA              | NA               | NA                       |
+| 013                 | Ruben                         | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
+| 014                 | Valentin                      | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
+| 015                 | Daniel Jimenez                | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
+| 016                 | Ernie                         | Netherlands        | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
 | 017                 | Bob                           | USA                | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
-| 018                 | Eduardo Rafael Palacios Rejòn | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
+| 018                 | Eduardo Rafael Palacios Rejòn | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
 | 019                 | Diego Angeles                 | USA                | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Switzerland              |
-| 020                 | Luis Llamas                   | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Morocco          | Portugal                 |
-| 021                 | German jair                   | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 022                 | Colin                         | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
-| 023                 | Adam                          | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
-| 024                 | Ahmed                         | Netherlads         | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
+| 020                 | Luis Llamas                   | Netherlands        | Argentina              | France           | England            | Croatia          | Brazil          | Morocco          | Portugal                 |
+| 021                 | German jair                   | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
+| 022                 | Colin                         | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
+| 023                 | Adam                          | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
+| 024                 | Ahmed                         | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
 
 ![](media/picks_K08.png)
 
@@ -118,6 +124,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 009                 | Luis Temo Marquez             | 1-2                      | 3-1                          | 2-0                    | 2-0                      | 0-1                    | 3-1                   | 2-3                    | 1-0                           |
 | 010                 | Fosi                          | 1-0                      | 2-0                          | 2-1                    | 3-0                      | 1-1                    | 2-1                   | 0-1                    | 2-1                           |
 | 011                 | Jacob                         | 2-1                      | 3-1                          | 2-0                    | 3-2                      | 1-0                    | 2-0                   | 1-0                    | 2-0                           |
+| 012                 | Ibrahim T                     | NA                       | NA                           | NA                     | NA                       | NA                     | NA                    | NA                     | NA                            |
 | 013                 | Ruben                         | 2-1                      | 3-1                          | 2-0                    | 1-0                      | 2-1                    | 2-0                   | 2-0                    | 2-1                           |
 | 014                 | Valentin                      | 1-0                      | 3-0                          | 2-0                    | 3-1                      | 2-1                    | 4-1                   | 2-1                    | 2-1                           |
 | 015                 | Daniel Jimenez                | 1-1                      | 3-1                          | 3-0                    | 4-2                      | 2-0                    | 4-1                   | 2-2                    | 3-2                           |

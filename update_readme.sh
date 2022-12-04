@@ -174,7 +174,7 @@ echo " --- " >> 01.tmp_Grupos.md
 
 Rscript score_picks.R
 
-echo "# **Puntuaciones (Actualizadas hasta la fase de grupos)**
+echo "# **Puntuaciones**
 
 " > 02.tmp_Resultados.md
 
@@ -199,6 +199,12 @@ echo "
 echo " 
 
 [Resultados de la Jornada 3](GS3_complete_scores.csv)
+ 
+--- "  >> 02.tmp_Resultados.md
+
+echo " 
+
+[Resultados de la fase de Octavos](KO8_complete_scores.csv) , [Marcadores](KO_complete_bonus.csv)
  
 --- "  >> 02.tmp_Resultados.md
 

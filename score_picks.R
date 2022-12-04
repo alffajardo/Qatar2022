@@ -87,7 +87,8 @@ matches <- drive_find(pattern = "matches",type = "spreadsheet",n_max=1)$id
 
 matches <- read_sheet(matches) %>%
   filter(complete.cases(.)) %>% 
-  mutate(GD = abs(Goals_Local - Goals_Visitor))
+  mutate(GD = abs(Goals_Local - Goals_Visitor),
+         Score = paste(Goals_Local,"-",Goals_Visitor,sep=""))
 
 
 
@@ -112,12 +113,70 @@ GS3 <- rowSums(GS3_all)
 
 scores_GS3 <- data.frame(numero_participante,Nombre,GS3_all)
 
+
+KO8_picks <- read_csv("KO8_picks.csv")
+
+KO8_picks2 <- select(KO8_picks,-c(1,2))
+
+
+KO8 <- matches %>%
+  filter (Round == "KO8") %>%
+  select(Result) %>%
+  as.vector() %>%
+  unlist() 
+
+
+match_names <- names(KO8_picks2)[1:length(KO8)]
+
+
+KO8_all <- map_dfc(1:length(KO8),~if_else( KO8[.x] == KO8_picks2[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+
+KO8 <- rowSums(KO8_all,na.rm = T)
+
+scores_KO8 <- data.frame(numero_participante,Nombre,KO8_all)
+
+# calificar el marcador
+
+KO8_goals <- matches %>%
+             filter(Round == "KO8") %>%
+             select(Score) %>%
+             as.vector() %>%
+              unlist()
+
+KO8_predicted_scores <- read_csv("KO8_predicted_scores.csv") %>%
+                        select(-c(1:2))
+
+KO8_score_bonus <- map_dfc(1:length(KO8_goals),~if_else( KO8_goals[.x] == KO8_predicted_scores[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+KO8_bonus <- rowSums(KO8_score_bonus,na.rm = T)
+
+
+
+
+
+
+
+
+
+
 ### Escribir el output
-scores <- data.frame(numero_participante,Nombre, GS1,GS2,GS3) %>%
-  group_by (numero_participante) %>%
-  mutate(Total = sum(GS1,GS2,GS3)) %>%
+scores <- data.frame(numero_participante,Nombre, GS1,GS2,GS3,KO8,KO8_bonus) %>%
+  group_by (numero_participante) 
+
+scores$KO8[which(scores$numero_participante=="021")] <- 0
+scores$KO8_bonus[which(scores$numero_participante=="021")] <- 0
+
+scores <- scores %>%
+  mutate(Total = sum(GS1,GS2,GS3,KO8,KO8_bonus,na.rm = T)) %>%
   ungroup %>%
   arrange(desc(Total),numero_participante)
+
+
+
+
 
 
 
@@ -133,4 +192,10 @@ write.table(scores_GS2, "GS2_complete_scores.csv",sep = ",",
             quote = F ,row.names = F )
 write.table(scores_GS3, "GS3_complete_scores.csv",sep = ",",
             quote = F ,row.names = F )
+write.table(scores_KO8, "KO8_complete_scores.csv",sep = ",",
+            quote = F ,row.names = F )
+write.table(scores_KO8, "Ko8_complete_bonus.csv",sep = ",",
+            quote = F ,row.names = F )
+
+
 
