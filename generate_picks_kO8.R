@@ -72,7 +72,7 @@ plot1 <- ggplot(bets2_summary,aes(x=Match,y = n,fill = Bet))+
   xlab(" ")+
   ylab("Frecuencia")
 
-ggsave("picks_K08.png",plot = plot1,units = "px",width = 1200,height = 1000,
+ggsave("picks_K08.png",plot = plot1,units = "px",width = 1200,height = 1200,
        path = "media",dpi = 200,bg =  "white")
 
 ## calculate an histogram
@@ -86,7 +86,7 @@ ggsave("picks_K08.png",plot = plot1,units = "px",width = 1200,height = 1000,
     geom_bar(stat = "identity",fill="skyblue2")+
     facet_wrap(~Match,scales = "free")+
   theme_minimal()+
-    theme(axis.text.x = element_text(angle =90, face = 2))+
+    theme(axis.text.x = element_text( face = 2))+
     xlab(" ")+
     ylab("Frecuencia")
 
