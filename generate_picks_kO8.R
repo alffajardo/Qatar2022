@@ -63,13 +63,14 @@ plot1 <- ggplot(bets2_summary,aes(x=Bet,y = n))+
   geom_bar(stat = "identity",fill = "skyblue4")+
   ylim(c(0,24))+
   ggtitle("Predicciones (ganadores)")+
-  theme_classic()+
+  theme_minimal()()+
   theme(axis.text.x = element_text(angle =90, face = 2))+
   xlab(" ")+
-  ylab("Frecuencia")
+  ylab("Frecuencia")+
+  facet_wrap(.~Match,scales = "free")
 
 ggsave("picks_K08.png",plot = plot1,units = "px",width = 1200,height = 1000,
-       path = "media",dpi = 200,bg = "black")
+       path = "media",dpi = 200,bg =  "white")
 
 ## calculate an histogram
 
