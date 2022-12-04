@@ -51,23 +51,26 @@ bets2 <- pivot_longer(bets,3:ncol(bets),
                         names_to = "Match",
                         values_to = "Bet")
 
+
+
 bets2_summary <- bets2 %>%
   group_by(Match) %>%
   count(Bet,na.rm = T) %>%
   ungroup() %>%
   arrange(desc(n)) %>%
   filter(complete.cases(.))
+  
 bets2_summary$Bet <- factor(bets2_summary$Bet,levels = bets2_summary$Bet)
+bets2_summary$Match <- factor(bets2_summary$Match)
 
-plot1 <- ggplot(bets2_summary,aes(x=Bet,y = n))+
-  geom_bar(stat = "identity",fill = "#de763e",width = 0.4)+
+plot1 <- ggplot(bets2_summary,aes(x=Match,y = n,fill = Bet))+
+  geom_bar(stat = "identity",width = 0.8)+
   ylim(c(0,24))+
   ggtitle("Predicciones (ganadores)")+
   theme_minimal()+
-  theme(axis.text.x = element_text(face = 2))+
+  theme(axis.text.x = element_text(face = 2,angle = 45))+
   xlab(" ")+
-  ylab("Frecuencia")+
-  facet_wrap(.~Match,scales = "free")
+  ylab("Frecuencia")
 
 ggsave("picks_K08.png",plot = plot1,units = "px",width = 1200,height = 1000,
        path = "media",dpi = 200,bg =  "white")
@@ -83,7 +86,7 @@ ggsave("picks_K08.png",plot = plot1,units = "px",width = 1200,height = 1000,
     geom_bar(stat = "identity",fill="skyblue2")+
     facet_wrap(~Match,scales = "free")+
   theme_minimal()+
-    theme(axis.text.x = element_text(, face = 2))+
+    theme(axis.text.x = element_text(angle =90, face = 2))+
     xlab(" ")+
     ylab("Frecuencia")
 
