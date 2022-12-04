@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Sun  4 Dec 2022 08:48:20 EST.
+Última actualización: dom 04 dic 2022 09:20:27 EST.
 
 
 # **Puntuaciones**
@@ -30,9 +30,9 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 003                 | Habib                         | 11  | 6   | 7   | 2   | 0         | 26    |
 | 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 7   | 2   | 0         | 26    |
 | 007                 | Claudio                       | 9   | 6   | 8   | 2   | 0         | 25    |
+| 012                 | Ibrahim T                     | 10  | 6   | 8   | 1   | 0         | 25    |
 | 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 8   | 2   | 0         | 24    |
 | 009                 | Luis Temo Marquez             | 9   | 5   | 9   | 1   | 0         | 24    |
-| 012                 | Ibrahim T                     | 10  | 6   | 8   | 0   | 0         | 24    |
 | 013                 | Rubén Aguilar Grande         | 9   | 6   | 7   | 2   | 0         | 24    |
 | 016                 | Ernie                         | 8   | 7   | 7   | 2   | 0         | 24    |
 | 019                 | Diego Angeles                 | 8   | 8   | 7   | 1   | 0         | 24    |
@@ -91,7 +91,6 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 010                 | Fosi                          | Netherlands        | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
 | 011                 | Jacob                         | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
 | 012                 | Ibrahim T                     | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
-| 012                 | Ibrahim T                     | NA                 | NA                     | NA               | NA                 | NA               | NA              | NA               | NA                       |
 | 013                 | Ruben                         | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
 | 014                 | Valentin                      | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
 | 015                 | Daniel Jimenez                | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
@@ -126,7 +125,6 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 010                 | Fosi                          | 1-0                      | 2-0                          | 2-1                    | 3-0                      | 1-1                    | 2-1                   | 0-1                    | 2-1                           |
 | 011                 | Jacob                         | 2-1                      | 3-1                          | 2-0                    | 3-2                      | 1-0                    | 2-0                   | 1-0                    | 2-0                           |
 | 012                 | Ibrahim T                     | 0-0                      | 0-0                          | 2-0                    | 3-0                      | 1-0                    | 2-1                   | 3-0                    | 2-2                           |
-| 012                 | Ibrahim T                     | NA                       | NA                           | NA                     | NA                       | NA                     | NA                    | NA                     | NA                            |
 | 013                 | Ruben                         | 2-1                      | 3-1                          | 2-0                    | 1-0                      | 2-1                    | 2-0                   | 2-0                    | 2-1                           |
 | 014                 | Valentin                      | 1-0                      | 3-0                          | 2-0                    | 3-1                      | 2-1                    | 4-1                   | 2-1                    | 2-1                           |
 | 015                 | Daniel Jimenez                | 1-1                      | 3-1                          | 3-0                    | 4-2                      | 2-0                    | 4-1                   | 2-2                    | 3-2                           |
