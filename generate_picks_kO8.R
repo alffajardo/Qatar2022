@@ -64,7 +64,7 @@ plot1 <- ggplot(bets2_summary,aes(x=Bet,y = n))+
   ylim(c(0,24))+
   ggtitle("Predicciones (ganadores)")+
   theme_minimal()+
-  theme(axis.text.x = element_text(angle =90, face = 2))+
+  theme(axis.text.x = element_text(face = 2))+
   xlab(" ")+
   ylab("Frecuencia")+
   facet_wrap(.~Match,scales = "free")
