@@ -204,7 +204,7 @@ echo "
 
 echo " 
 
-[Resultados de la fase de Octavos](KO8_complete_scores.csv) , [Marcadores](KO_complete_bonus.csv)
+[Resultados de la fase de Octavos](KO8_complete_scores.csv) , [Marcadores](KO8_complete_bonus.csv)
  
 --- "  >> 02.tmp_Resultados.md
 
