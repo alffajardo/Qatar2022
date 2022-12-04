@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Sun  4 Dec 2022 10:19:18 EST.
+Última actualización: Sun  4 Dec 2022 11:04:48 EST.
 
 
 # **Puntuaciones**
@@ -126,7 +126,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 011                 | Jacob                         | 2-1                      | 3-1                          | 2-0                    | 3-2                      | 1-0                    | 2-0                   | 1-0                    | 2-0                           |
 | 012                 | Ibrahim T                     | 0-0                      | 0-0                          | 2-0                    | 3-0                      | 1-0                    | 2-1                   | 3-0                    | 2-2                           |
 | 013                 | Ruben                         | 2-1                      | 3-1                          | 2-0                    | 1-0                      | 2-1                    | 2-0                   | 2-0                    | 2-1                           |
-| 014                 | Valentin                      | 1-0                      | 3-0                          | 2-0                    | 3-1                      | 2-1                    | 4-1                   | 2-1                    | 2-1                           |
+| 014                 | Valentin                      | 1-0                      | 3-0                          | 2-0                    | 3-1                      | 2-1                    | 4-1                   | 1-2                    | 2-1                           |
 | 015                 | Daniel Jimenez                | 1-1                      | 3-1                          | 3-0                    | 4-2                      | 2-0                    | 4-1                   | 2-2                    | 3-2                           |
 | 016                 | Ernie                         | 2-2                      | 4-1                          | 3-1                    | 2-1                      | 0-1                    | 3-1                   | 1-2                    | 2-2                           |
 | 017                 | Bob                           | 1-1                      | 2-1                          | 4-0                    | 1-1                      | 2-1                    | 3-1                   | 2-2                    | 3-2                           |
