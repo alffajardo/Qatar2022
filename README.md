@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Sun  4 Dec 2022 08:02:49 EST.
+Última actualización: Sun  4 Dec 2022 08:48:20 EST.
 
 
 # **Puntuaciones**
@@ -90,6 +90,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 009                 | Luis Temo Marquez             | USA                | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
 | 010                 | Fosi                          | Netherlands        | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
 | 011                 | Jacob                         | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
+| 012                 | Ibrahim T                     | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
 | 012                 | Ibrahim T                     | NA                 | NA                     | NA               | NA                 | NA               | NA              | NA               | NA                       |
 | 013                 | Ruben                         | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
 | 014                 | Valentin                      | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
@@ -124,6 +125,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 009                 | Luis Temo Marquez             | 1-2                      | 3-1                          | 2-0                    | 2-0                      | 0-1                    | 3-1                   | 2-3                    | 1-0                           |
 | 010                 | Fosi                          | 1-0                      | 2-0                          | 2-1                    | 3-0                      | 1-1                    | 2-1                   | 0-1                    | 2-1                           |
 | 011                 | Jacob                         | 2-1                      | 3-1                          | 2-0                    | 3-2                      | 1-0                    | 2-0                   | 1-0                    | 2-0                           |
+| 012                 | Ibrahim T                     | 0-0                      | 0-0                          | 2-0                    | 3-0                      | 1-0                    | 2-1                   | 3-0                    | 2-2                           |
 | 012                 | Ibrahim T                     | NA                       | NA                           | NA                     | NA                       | NA                     | NA                    | NA                     | NA                            |
 | 013                 | Ruben                         | 2-1                      | 3-1                          | 2-0                    | 1-0                      | 2-1                    | 2-0                   | 2-0                    | 2-1                           |
 | 014                 | Valentin                      | 1-0                      | 3-0                          | 2-0                    | 3-1                      | 2-1                    | 4-1                   | 2-1                    | 2-1                           |
