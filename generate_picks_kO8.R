@@ -53,17 +53,17 @@ bets2 <- pivot_longer(bets,3:ncol(bets),
 
 bets2_summary <- bets2 %>%
   group_by(Match) %>%
-  count(Bet) %>%
+  count(Bet,na.rm = T) %>%
   ungroup() %>%
-  arrange(desc(n))
+  arrange(desc(n)) %>%
+  filter(complete.cases(.))
 bets2_summary$Bet <- factor(bets2_summary$Bet,levels = bets2_summary$Bet)
 
-  
 plot1 <- ggplot(bets2_summary,aes(x=Bet,y = n))+
-  geom_bar(stat = "identity",fill = "skyblue4")+
+  geom_bar(stat = "identity",fill = "#de763e")+
   ylim(c(0,24))+
   ggtitle("Predicciones (ganadores)")+
-  theme_minimal()()+
+  theme_minimal()+
   theme(axis.text.x = element_text(angle =90, face = 2))+
   xlab(" ")+
   ylab("Frecuencia")+
@@ -89,5 +89,3 @@ ggsave("picks_K08.png",plot = plot1,units = "px",width = 1200,height = 1000,
     ylab("Frecuencia")
   ggsave("predicted_scores_K08.png",plot = plot2,units = "px",width = 1200,height = 1000,
         path = "media",dpi = 200,bg="white")
-
-
