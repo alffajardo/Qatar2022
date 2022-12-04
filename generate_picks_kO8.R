@@ -74,19 +74,18 @@ ggsave("picks_K08.png",plot = plot1,units = "px",width = 1200,height = 1000,
 
 ## calculate an histogram
 
-#scores_prediction2 <- 
-  
-  plot2 <- scores_prediction %>%
-  filter(complete.cases(.)) %>%
+ plot2 <- scores_prediction %>%
+          filter(complete.cases(.)) %>%
   pivot_longer(cols = -c(1,2),names_to = "Match",values_to = "Score") %>%
   group_by(Match) %>%
   count(Score) %>%
-  ggplot(aes(Score,n))+
+  ggplot(aes(x = Score, y = n))+
     geom_bar(stat = "identity",fill="skyblue2")+
     facet_wrap(~Match,scales = "free")+
   theme_minimal()+
     theme(axis.text.x = element_text(angle =90, face = 2))+
     xlab(" ")+
     ylab("Frecuencia")
+
   ggsave("predicted_scores_K08.png",plot = plot2,units = "px",width = 1200,height = 1000,
         path = "media",dpi = 200,bg="white")
