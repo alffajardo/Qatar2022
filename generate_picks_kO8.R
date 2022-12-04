@@ -77,6 +77,7 @@ ggsave("picks_K08.png",plot = plot1,units = "px",width = 1200,height = 1000,
 #scores_prediction2 <- 
   
   plot2 <- scores_prediction %>%
+  filter(complete.cases(.)) %>%
   pivot_longer(cols = -c(1,2),names_to = "Match",values_to = "Score") %>%
   group_by(Match) %>%
   count(Score) %>%
