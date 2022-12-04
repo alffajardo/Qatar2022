@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: dom 04 dic 2022 09:20:27 EST.
+Última actualización: dom 04 dic 2022 09:21:52 EST.
 
 
 # **Puntuaciones**
@@ -28,9 +28,9 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 014                 | Valentin                      | 9   | 8   | 9   | 2   | 0         | 28    |
 | 002                 | Poncho                        | 9   | 9   | 7   | 2   | 0         | 27    |
 | 003                 | Habib                         | 11  | 6   | 7   | 2   | 0         | 26    |
+| 012                 | Ibrahim T                     | 10  | 6   | 8   | 2   | 0         | 26    |
 | 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 7   | 2   | 0         | 26    |
 | 007                 | Claudio                       | 9   | 6   | 8   | 2   | 0         | 25    |
-| 012                 | Ibrahim T                     | 10  | 6   | 8   | 1   | 0         | 25    |
 | 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 8   | 2   | 0         | 24    |
 | 009                 | Luis Temo Marquez             | 9   | 5   | 9   | 1   | 0         | 24    |
 | 013                 | Rubén Aguilar Grande         | 9   | 6   | 7   | 2   | 0         | 24    |
@@ -90,7 +90,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 009                 | Luis Temo Marquez             | USA                | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
 | 010                 | Fosi                          | Netherlands        | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
 | 011                 | Jacob                         | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Morocco          | Portugal                 |
-| 012                 | Ibrahim T                     | Netherlads         | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
+| 012                 | Ibrahim T                     | Netherlands        | Argentina              | France           | England            | Croatia          | Brazil          | Spain            | Portugal                 |
 | 013                 | Ruben                         | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
 | 014                 | Valentin                      | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
 | 015                 | Daniel Jimenez                | Netherlands        | Argentina              | France           | England            | Japan            | Brazil          | Spain            | Portugal                 |
