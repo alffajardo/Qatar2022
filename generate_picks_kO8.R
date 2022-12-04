@@ -68,7 +68,8 @@ plot1 <- ggplot(bets2_summary,aes(x=Match,y = n,fill = Bet))+
   ylim(c(0,24))+
   ggtitle("Predicciones (ganadores)")+
   theme_minimal()+
-  theme(axis.text.x = element_text(face = 2,angle = 45))+
+  theme(axis.text.x = element_text(face = 2,angle = 60,
+  vjust = T,hjust = T))+
   xlab(" ")+
   ylab("Frecuencia")
 
