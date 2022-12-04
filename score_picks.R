@@ -153,7 +153,7 @@ KO8_score_bonus <- map_dfc(1:length(KO8_goals),~if_else( KO8_goals[.x] == KO8_pr
 
 KO8_bonus <- rowSums(KO8_score_bonus,na.rm = T)
 
-
+KO8_score_bonus <- data.frame(numero_participante,Nombre,KO8_score_bonus)
 
 
 
