@@ -115,7 +115,7 @@ scores_GS3 <- data.frame(numero_participante,Nombre,GS3_all)
 
 
 KO8_picks <- read_csv("KO8_picks.csv")
-K08_picks[21,1:2] <- ""
+KO8_picks[21,1:2] <- ""
 
 KO8_picks2 <- select(KO8_picks,-c(1,2))
 

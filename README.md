@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: lun 05 dic 2022 10:10:40 EST.
+Última actualización: lun 05 dic 2022 10:13:38 EST.
 
 
 # **Puntuaciones**
@@ -46,8 +46,8 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 022                 | Colin                         | 6   | 4   | 10  | 4   | 0         | 24    |
 | 024                 | Ahmed Felfel                  | 8   | 7   | 5   | 4   | 0         | 24    |
 | 008                 | Héctor Zepeda                | 7   | 4   | 8   | 4   | 0         | 23    |
+| 021                 | German Jair Sanchez Soto      | 7   | 5   | 7   | 4   | 0         | 23    |
 | 023                 | adamziri                      | 8   | 5   | 6   | 4   | 0         | 23    |
-| 021                 | German Jair Sanchez Soto      | 7   | 5   | 7   | 0   | 0         | 19    |
  
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
