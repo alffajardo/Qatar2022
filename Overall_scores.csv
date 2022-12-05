@@ -1,22 +1,22 @@
 numero_participante,Nombre,GS1,GS2,GS3,KO8,KO8_bonus,Total
-001,Jonathan,10,7,10,4,0,31
+001,Jonathan,10,7,10,5,1,33
+012,Ibrahim T,10,6,8,5,1,30
 014,Valentin,9,8,9,4,0,30
+020,Luis Angel Llamas Alonso,10,7,7,5,1,30
 002,Poncho,9,9,7,4,0,29
-012,Ibrahim T,10,6,8,4,1,29
-003,Habib,11,6,7,4,0,28
-020,Luis Angel Llamas Alonso,10,7,7,4,0,28
-007,Claudio,9,6,8,4,0,27
-016,Ernie,8,7,7,4,1,27
+003,Habib,11,6,7,5,0,29
+007,Claudio,9,6,8,5,0,28
+010,Fosi,8,5,8,5,2,28
+016,Ernie,8,7,7,5,1,28
+009,Luis Temo Marquez,9,5,9,4,0,27
 006,Juan Carlos Avendaño Aguilar,9,5,8,4,0,26
-009,Luis Temo Marquez,9,5,9,3,0,26
-010,Fosi,8,5,8,4,1,26
 013,Rubén Aguilar Grande,9,6,7,4,0,26
 019,Diego Angeles,8,8,7,3,0,26
+005,Israel torres,7,5,8,5,0,25
 011,Jacob,6,6,9,4,0,25
 015,Daniel Jimenez,8,6,7,4,0,25
 018,Eduardo Rafael Palacios Rejón,8,5,8,4,0,25
 004,Jalil Rasgado Toledo,9,5,6,4,0,24
-005,Israel torres,7,5,8,4,0,24
 017,Bobacao,10,3,7,3,1,24
 022,Colin,6,4,10,4,0,24
 024,Ahmed Felfel,8,7,5,4,0,24
