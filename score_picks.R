@@ -115,6 +115,7 @@ scores_GS3 <- data.frame(numero_participante,Nombre,GS3_all)
 
 
 KO8_picks <- read_csv("KO8_picks.csv")
+K08_picks[21,1:2] <- ""
 
 KO8_picks2 <- select(KO8_picks,-c(1,2))
 
@@ -137,6 +138,7 @@ KO8 <- rowSums(KO8_all,na.rm = T)
 
 scores_KO8 <- data.frame(numero_participante,Nombre,KO8_all)
 
+
 # calificar el marcador
 
 KO8_goals <- matches %>%
@@ -147,6 +149,7 @@ KO8_goals <- matches %>%
 
 KO8_predicted_scores <- read_csv("KO8_predicted_scores.csv") %>%
                         select(-c(1:2))
+KO8_predicted_scores[21,1:2] <- ""
 
 KO8_score_bonus <- map_dfc(1:length(KO8_goals),~if_else( KO8_goals[.x] == KO8_predicted_scores[,.x],true = 1,0)) %>%
   set_names(match_names)
@@ -165,9 +168,6 @@ KO8_score_bonus <- data.frame(numero_participante,Nombre,KO8_score_bonus)
 ### Escribir el output
 scores <- data.frame(numero_participante,Nombre, GS1,GS2,GS3,KO8,KO8_bonus) %>%
   group_by (numero_participante) 
-
-scores$KO8[which(scores$numero_participante=="021")] <- 0
-scores$KO8_bonus[which(scores$numero_participante=="021")] <- 0
 
 scores <- scores %>%
   mutate(Total = sum(GS1,GS2,GS3,KO8,KO8_bonus,na.rm = T)) %>%
