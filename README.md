@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Tue  6 Dec 2022 15:32:32 EST.
+Última actualización: Tue  6 Dec 2022 15:47:44 EST.
 
 
 # **Puntuaciones**
@@ -24,30 +24,30 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 | numero_participante | Nombre                        | GS1 | GS2 | GS3 | KO8 | KO8_bonus | Total |
 | ------------------- | ----------------------------- | --- | --- | --- | --- | --------- | ----- |
-| 001                 | Jonathan                      | 10  | 7   | 10  | 6   | 1         | 34    |
-| 014                 | Valentin                      | 9   | 8   | 9   | 5   | 1         | 32    |
-| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 7   | 7   | 1         | 32    |
-| 012                 | Ibrahim T                     | 10  | 6   | 8   | 6   | 1         | 31    |
-| 002                 | Poncho                        | 9   | 9   | 7   | 5   | 0         | 30    |
-| 003                 | Habib                         | 11  | 6   | 7   | 6   | 0         | 30    |
-| 007                 | Claudio                       | 9   | 6   | 8   | 7   | 0         | 30    |
-| 010                 | Fosi                          | 8   | 5   | 8   | 6   | 2         | 29    |
-| 016                 | Ernie                         | 8   | 7   | 7   | 6   | 1         | 29    |
-| 009                 | Luis Temo Marquez             | 9   | 5   | 9   | 5   | 0         | 28    |
-| 005                 | Israel torres                 | 7   | 5   | 8   | 6   | 1         | 27    |
-| 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 8   | 5   | 0         | 27    |
-| 011                 | Jacob                         | 6   | 6   | 9   | 6   | 0         | 27    |
-| 013                 | Rubén Aguilar Grande         | 9   | 6   | 7   | 5   | 0         | 27    |
-| 015                 | Daniel Jimenez                | 8   | 6   | 7   | 5   | 1         | 27    |
-| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 8   | 6   | 0         | 27    |
+| 001                 | Jonathan                      | 10  | 7   | 10  | 7   | 1         | 35    |
+| 014                 | Valentin                      | 9   | 8   | 9   | 6   | 1         | 33    |
+| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 7   | 8   | 1         | 33    |
+| 012                 | Ibrahim T                     | 10  | 6   | 8   | 7   | 1         | 32    |
+| 002                 | Poncho                        | 9   | 9   | 7   | 6   | 0         | 31    |
+| 003                 | Habib                         | 11  | 6   | 7   | 7   | 0         | 31    |
+| 007                 | Claudio                       | 9   | 6   | 8   | 8   | 0         | 31    |
+| 010                 | Fosi                          | 8   | 5   | 8   | 7   | 2         | 30    |
+| 016                 | Ernie                         | 8   | 7   | 7   | 7   | 1         | 30    |
+| 009                 | Luis Temo Marquez             | 9   | 5   | 9   | 6   | 0         | 29    |
+| 005                 | Israel torres                 | 7   | 5   | 8   | 7   | 1         | 28    |
+| 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 8   | 6   | 0         | 28    |
+| 011                 | Jacob                         | 6   | 6   | 9   | 7   | 0         | 28    |
+| 013                 | Rubén Aguilar Grande         | 9   | 6   | 7   | 6   | 0         | 28    |
+| 015                 | Daniel Jimenez                | 8   | 6   | 7   | 6   | 1         | 28    |
+| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 8   | 7   | 0         | 28    |
+| 017                 | Bobacao                       | 10  | 3   | 7   | 6   | 1         | 27    |
 | 019                 | Diego Angeles                 | 8   | 8   | 7   | 4   | 0         | 27    |
-| 017                 | Bobacao                       | 10  | 3   | 7   | 5   | 1         | 26    |
-| 022                 | Colin                         | 6   | 4   | 10  | 6   | 0         | 26    |
-| 024                 | Ahmed Felfel                  | 8   | 7   | 5   | 6   | 0         | 26    |
-| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 6   | 5   | 0         | 25    |
-| 008                 | Héctor Zepeda                | 7   | 4   | 8   | 5   | 0         | 24    |
-| 021                 | German Jair Sanchez Soto      | 7   | 5   | 7   | 5   | 0         | 24    |
-| 023                 | adamziri                      | 8   | 5   | 6   | 5   | 0         | 24    |
+| 022                 | Colin                         | 6   | 4   | 10  | 7   | 0         | 27    |
+| 024                 | Ahmed Felfel                  | 8   | 7   | 5   | 7   | 0         | 27    |
+| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 6   | 6   | 0         | 26    |
+| 008                 | Héctor Zepeda                | 7   | 4   | 8   | 6   | 0         | 25    |
+| 021                 | German Jair Sanchez Soto      | 7   | 5   | 7   | 6   | 0         | 25    |
+| 023                 | adamziri                      | 8   | 5   | 6   | 6   | 0         | 25    |
  
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
