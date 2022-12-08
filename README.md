@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Thu  8 Dec 2022 15:51:49 EST.
+Última actualización: Thu  8 Dec 2022 15:55:43 EST.
 
 
 # **Puntuaciones**
@@ -90,7 +90,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | numero_participante | Nombre | Croatia vs Brazil score | Netherlands vs Argentina score | Morocco vs Portugal score | England vs France score |
 | ------------------- | ------ | ----------------------- | ------------------------------ | ------------------------- | ----------------------- |
 
-![](media/predicted_scores_K08.png)
+![](media/predicted_scores_KO4.png)
 
 - - - 
 

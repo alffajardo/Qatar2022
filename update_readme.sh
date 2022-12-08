@@ -67,7 +67,7 @@ echo "
 ./gen_markdown_table.sh --csv < KO4_predicted_scores.csv >> 02.tmp_Eliminatoria.md
 
 echo "
-![](media/predicted_scores_K08.png)
+![](media/predicted_scores_KO4.png)
 
 - - - " >> 02.tmp_Eliminatoria.md
 
