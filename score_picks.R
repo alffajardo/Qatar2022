@@ -113,7 +113,7 @@ GS3 <- rowSums(GS3_all)
 
 scores_GS3 <- data.frame(numero_participante,Nombre,GS3_all)
 
-
+# Calificar la roinda de octavos
 KO8_picks <- read_csv("KO8_picks.csv")
 KO8_picks[21,1:2] <- ""
 
@@ -158,6 +158,48 @@ KO8_bonus <- rowSums(KO8_score_bonus,na.rm = T)
 
 KO8_score_bonus <- data.frame(numero_participante,Nombre,KO8_score_bonus)
 
+KO4_picks <- read_csv("KO4_picks.csv")
+
+KO4_picks2 <- select(KO4_picks,-c(1,2))
+
+
+KO4 <- matches %>%
+  filter (Round == "KO4") %>%
+  select(Result) %>%
+  as.vector() %>%
+  unlist() 
+
+
+match_names <- names(KO4_picks2)[1:length(KO4)]
+
+
+KO4_all <- map_dfc(1:length(KO4),~if_else( KO4[.x] == KO4_picks2[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+
+KO4 <- rowSums(KO4_all,na.rm = T)
+
+scores_KO4 <- data.frame(numero_participante,Nombre,KO4_all)
+
+
+# calificar el marcador
+
+KO4_goals <- matches %>%
+  filter(Round == "KO4") %>%
+  select(Score) %>%
+  as.vector() %>%
+  unlist()
+
+KO4_predicted_scores <- read_csv("KO4_predicted_scores.csv") %>%
+  select(-c(1:2))
+
+KO4_score_bonus <- map_dfc(1:length(KO4_goals),~if_else( KO4_goals[.x] == KO4_predicted_scores[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+KO4_bonus <- rowSums(KO4_score_bonus,na.rm = T)
+
+KO4_score_bonus <- data.frame(numero_participante,Nombre,KO4_score_bonus)
+
 
 
 
@@ -166,22 +208,15 @@ KO8_score_bonus <- data.frame(numero_participante,Nombre,KO8_score_bonus)
 
 
 ### Escribir el output
-scores <- data.frame(numero_participante,Nombre, GS1,GS2,GS3,KO8,KO8_bonus) %>%
+scores <- data.frame(numero_participante,Nombre, GS1,GS2,GS3,KO8,KO8_bonus,
+                     KO4_bonus) %>%
   group_by (numero_participante) 
 
 scores <- scores %>%
-  mutate(Total = sum(GS1,GS2,GS3,KO8,KO8_bonus,na.rm = T)) %>%
+  mutate(Total = sum(GS1,GS2,GS3,KO8,KO8_bonus,KO4,K04_bonus,
+                     na.rm = T)) %>%
   ungroup %>%
   arrange(desc(Total),numero_participante)
-
-
-
-
-
-
-
-
-
 
 
 write.table(scores,"Overall_scores.csv",quote = F,sep=",",row.names = F)
