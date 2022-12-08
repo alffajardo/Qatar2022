@@ -38,6 +38,43 @@ echo "# **Fase Eliminatoria**
 
 " > 02.tmp_Eliminatoria.md
 
+# --------------------------------------------------------
+# ------------- Fase de cuartos --------------------------
+
+# -------------------------------------------------------------------------------
+
+Rscript generate_picks_kO4.R
+
+
+echo "
+ ## <u>**Picks de la fase de cuartos **</u>
+
+ ![](flags/matches/quarters.png)
+ 
+ " >> 02.tmp_Eliminatoria.md
+./gen_markdown_table.sh --csv < KO4_picks.csv >> 02.tmp_Eliminatoria.md
+
+echo "
+![](media/picks_K8.png)
+
+" >> 02.tmp_Eliminatoria.md
+
+echo "
+ ## <u>**Predicción de Marcadores**</u>
+ 
+ " >> 02.tmp_Eliminatoria.md
+
+./gen_markdown_table.sh --csv < KO4_predicted_scores.csv >> 02.tmp_Eliminatoria.md
+
+echo "
+![](media/predicted_scores_K08.png)
+
+- - - " >> 02.tmp_Eliminatoria.md
+
+
+
+
+
 # ------------------------------------------------------
 #  ----------Fase de octavos
 #------------------------------------------------------
@@ -68,11 +105,6 @@ echo "
 ![](media/predicted_scores_K08.png)
 
 - - - " >> 02.tmp_Eliminatoria.md
-
-
-echo "### Gráficos
-
-![](media/picks_GS3.png )"
 
 
 ##------------------------------------------------------------------------------------------------|
