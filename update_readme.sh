@@ -47,7 +47,7 @@ Rscript generate_picks_kO4.R
 
 
 echo "
- ## <u>**Picks de la fase de cuartos **</u>
+ ## <u>**Picks de la fase de cuartos**</u>
 
  ![](flags/matches/quarters.png)
  
@@ -55,7 +55,7 @@ echo "
 ./gen_markdown_table.sh --csv < KO4_picks.csv >> 02.tmp_Eliminatoria.md
 
 echo "
-![](media/picks_K8.png)
+![](media/picks_KO4.png)
 
 " >> 02.tmp_Eliminatoria.md
 
