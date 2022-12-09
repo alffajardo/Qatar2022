@@ -246,7 +246,7 @@ echo "
 echo " 
 
 [Resultados de la fase de Cuartos](KO8_complete_scores.csv)
-s
+
 [Marcadores Cuartos](KO4_complete_bonus.csv)
  
 --- "  >> 02.tmp_Resultados.md
