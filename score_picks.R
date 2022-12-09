@@ -237,18 +237,4 @@ write.table(scores_KO4, "KO4_complete_scores.csv",sep = ",",
 write.table(KO4_score_bonus, "KO4_complete_bonus.csv",sep = ",",
             quote = F ,row.names = F )
 
-bind_cols(scores_GS1,scores_GS2,scores_GS3,scores_GS4)
 
-
-matches_n <- c(16,16,16,8,4)
- accuracy <- scores %>%
-  arrange(numero_participante) %>%
-  select(-c(1,2,ncol(.))) %>%
-    select(!ends_with("bonus"))
-
- names(accuracy) <- str_split_fixed(Nombre, pattern = " ", n = 4) [,1]
- par(las = 2)
- accuracy <- sort(accuracy)
- barplot(accuracy,xlim = c(0,70),col=viridis::viridis(24),
-         main = "Porcentajes de precision",xlab = 'participante',axes = T,srt = 90,horiz = T,xpd = T)
-names(accuracy)
