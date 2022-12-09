@@ -245,7 +245,7 @@ echo "
 
 echo " 
 
-[Resultados de la fase de Cuartos](KO8_complete_scores.csv)
+[Resultados de la fase de Cuartos](KO4_complete_scores.csv)
 
 [Marcadores Cuartos](KO4_complete_bonus.csv)
  
