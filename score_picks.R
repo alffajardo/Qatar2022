@@ -232,6 +232,9 @@ write.table(scores_KO8, "KO8_complete_scores.csv",sep = ",",
             quote = F ,row.names = F )
 write.table(KO8_score_bonus, "KO8_complete_bonus.csv",sep = ",",
             quote = F ,row.names = F )
-
+write.table(scores_KO4, "KO4_complete_scores.csv",sep = ",",
+            quote = F ,row.names = F )
+write.table(KO4_score_bonus, "KO4_complete_bonus.csv",sep = ",",
+            quote = F ,row.names = F )
 
 
