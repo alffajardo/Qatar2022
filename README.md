@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Fri  9 Dec 2022 11:01:10 EST.
+Última actualización: Fri  9 Dec 2022 11:08:19 EST.
 
 
 # **Puntuaciones**
@@ -89,6 +89,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 008                 | Héctor Zepeda               | Brazil            | Argentina                | Portugal            | England           |
 | 009                 | Luis Temo Marquez            | Brazil            | Netherlands              | Portugal            | France            |
 | 010                 | Fosi                         | Brazil            | Argentina                | Portugal            | England           |
+| 011                 | Jacob                        | NA                | NA                       | NA                  | NA                |
 | 012                 | Ibrahim T                    | Brazil            | Argentina                | Portugal            | England           |
 | 013                 | Ruben                        | Brazil            | Netherlands              | Portugal            | France            |
 | 014                 | Valentin                     | Brazil            | Netherlands              | Portugal            | France            |
@@ -122,6 +123,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 008                 | Héctor Zepeda               | 0-4                     | 1-2                            | 0-2                       | 1-0                     |
 | 009                 | Luis Temo Marquez            | 1-3                     | 3-2                            | 1-2                       | 2-3                     |
 | 010                 | Fosi                         | 1-3                     | 1-2                            | 1-2                       | 3-2                     |
+| 011                 | Jacob                        | NA                      | NA                             | NA                        | NA                      |
 | 012                 | Ibrahim T                    | 2-1                     | 1-0                            | 4-1                       | 2-2                     |
 | 013                 | Ruben                        | 1-2                     | 2-1                            | 0-2                       | 2-2                     |
 | 014                 | Valentin                     | 1-3                     | 1-1                            | 1-3                       | 2-4                     |
