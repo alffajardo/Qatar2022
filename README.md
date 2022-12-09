@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Thu  8 Dec 2022 15:55:43 EST.
+Última actualización: Fri  9 Dec 2022 10:33:12 EST.
 
 
 # **Puntuaciones**
@@ -77,8 +77,31 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
  ![](flags/matches/quarters.png)
  
  
-| numero_participante | Nombre | Croatia vs Brazil | Netherlands vs Argentina | Morocco vs Portugal | England vs France |
-| ------------------- | ------ | ----------------- | ------------------------ | ------------------- | ----------------- |
+| numero_participante | Nombre                       | Croatia vs Brazil | Netherlands vs Argentina | Morocco vs Portugal | England vs France |
+| ------------------- | ---------------------------- | ----------------- | ------------------------ | ------------------- | ----------------- |
+| 001                 | Jonathan                     | Brazil            | Netherlands              | Portugal            | France            |
+| 0018                | Eduardo palacios             | Brazil            | Argentina                | Portugal            | France            |
+| 002                 | Poncho                       | Brazil            | Argentina                | Portugal            | France            |
+| 003                 | Habib                        | Brazil            | Argentina                | Portugal            | England           |
+| 004                 | Jalil                        | Brazil            | Argentina                | Portugal            | France            |
+| 005                 | Isra Torres                  | Brazil            | Netherlands              | Portugal            | France            |
+| 006                 | Juan Carlos Avendaño Aguilar | Brazil            | Argentina                | Portugal            | England           |
+| 007                 | Claudio                      | Brazil            | Netherlands              | Portugal            | France            |
+| 008                 | Héctor Zepeda               | Brazil            | Argentina                | Portugal            | England           |
+| 009                 | Luis Temo Marquez            | Brazil            | Netherlands              | Portugal            | France            |
+| 010                 | Fosi                         | Brazil            | Argentina                | Portugal            | England           |
+| 012                 | Ibrahim T                    | Brazil            | Argentina                | Portugal            | England           |
+| 013                 | Ruben                        | Brazil            | Netherlands              | Portugal            | France            |
+| 014                 | Valentin                     | Brazil            | Netherlands              | Portugal            | France            |
+| 015                 | Dniel Jimenez                | Brazil            | Netherlands              | Portugal            | England           |
+| 016                 | Ernie                        | Brazil            | Argentina                | Portugal            | France            |
+| 017                 | Bobacao                      | Brazil            | Argentina                | Portugal            | France            |
+| 019                 | Diego Angeles                | Brazil            | Argentina                | Morocco             | France            |
+| 020                 | Luis Llamas                  | Brazil            | Netherlands              | Portugal            | England           |
+| 021                 | German jair                  | Brazil            | Netherlands              | Portugal            | France            |
+| 022                 | Colin                        | Brazil            | Argentina                | Portugal            | France            |
+| 023                 | Adam                         | Brazil            | Netherlands              | Portugal            | France            |
+| 024                 | Ahmed Felfel                 | Brazil            | Argentina                | Morocco             | France            |
 
 ![](media/picks_KO4.png)
 
@@ -87,8 +110,9 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
  ## <u>**Predicción de Marcadores**</u>
  
  
-| numero_participante | Nombre | Croatia vs Brazil score | Netherlands vs Argentina score | Morocco vs Portugal score | England vs France score |
-| ------------------- | ------ | ----------------------- | ------------------------------ | ------------------------- | ----------------------- |
+| numero_participante | Nombre   | Croatia vs Brazil score | Netherlands vs Argentina score | Morocco vs Portugal score | England vs France score |
+| ------------------- | -------- | ----------------------- | ------------------------------ | ------------------------- | ----------------------- |
+| 001                 | Jonathan | 1-3                     | 2-2                            |                           |
 
 ![](media/predicted_scores_KO4.png)
 
