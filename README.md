@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Fri  9 Dec 2022 10:33:12 EST.
+Última actualización: Fri  9 Dec 2022 10:44:08 EST.
 
 
 # **Puntuaciones**
@@ -80,7 +80,6 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | numero_participante | Nombre                       | Croatia vs Brazil | Netherlands vs Argentina | Morocco vs Portugal | England vs France |
 | ------------------- | ---------------------------- | ----------------- | ------------------------ | ------------------- | ----------------- |
 | 001                 | Jonathan                     | Brazil            | Netherlands              | Portugal            | France            |
-| 0018                | Eduardo palacios             | Brazil            | Argentina                | Portugal            | France            |
 | 002                 | Poncho                       | Brazil            | Argentina                | Portugal            | France            |
 | 003                 | Habib                        | Brazil            | Argentina                | Portugal            | England           |
 | 004                 | Jalil                        | Brazil            | Argentina                | Portugal            | France            |
@@ -96,6 +95,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 015                 | Dniel Jimenez                | Brazil            | Netherlands              | Portugal            | England           |
 | 016                 | Ernie                        | Brazil            | Argentina                | Portugal            | France            |
 | 017                 | Bobacao                      | Brazil            | Argentina                | Portugal            | France            |
+| 018                 | Eduardo palacios             | Brazil            | Argentina                | Portugal            | France            |
 | 019                 | Diego Angeles                | Brazil            | Argentina                | Morocco             | France            |
 | 020                 | Luis Llamas                  | Brazil            | Netherlands              | Portugal            | England           |
 | 021                 | German jair                  | Brazil            | Netherlands              | Portugal            | France            |
@@ -110,9 +110,31 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
  ## <u>**Predicción de Marcadores**</u>
  
  
-| numero_participante | Nombre   | Croatia vs Brazil score | Netherlands vs Argentina score | Morocco vs Portugal score | England vs France score |
-| ------------------- | -------- | ----------------------- | ------------------------------ | ------------------------- | ----------------------- |
-| 001                 | Jonathan | 1-3                     | 2-2                            |                           |
+| numero_participante | Nombre                       | Croatia vs Brazil score | Netherlands vs Argentina score | Morocco vs Portugal score | England vs France score |
+| ------------------- | ---------------------------- | ----------------------- | ------------------------------ | ------------------------- | ----------------------- |
+| 001                 | Jonathan                     | 1-3                     | 2-2                            | 1-3                       | 1-1                     |
+| 002                 | Poncho                       | 1-2                     | 2-2                            | 0-2                       | 1-1                     |
+| 003                 | Habib                        | 1-3                     | 1-1                            | 1-2                       | 2-2                     |
+| 004                 | Jalil                        | 1-3                     | 1-2                            | 0-1                       | 2-3                     |
+| 005                 | Isra Torres                  | 3-1                     | 1-1                            | 1-1                       | 2-1                     |
+| 006                 | Juan Carlos Avendaño Aguilar | 1-2                     | 1-2                            | 1-3                       | 2-1                     |
+| 007                 | Claudio                      | 1-3                     | 2-1                            | 0-2                       | 2-3                     |
+| 008                 | Héctor Zepeda               | 0-4                     | 1-2                            | 0-2                       | 1-0                     |
+| 009                 | Luis Temo Marquez            | 1-3                     | 3-2                            | 1-2                       | 2-3                     |
+| 010                 | Fosi                         | 1-3                     | 1-2                            | 1-2                       | 3-2                     |
+| 012                 | Ibrahim T                    | 2-1                     | 1-0                            | 4-1                       | 2-2                     |
+| 013                 | Ruben                        | 1-2                     | 2-1                            | 0-2                       | 2-2                     |
+| 014                 | Valentin                     | 1-3                     | 1-1                            | 1-3                       | 2-4                     |
+| 015                 | Dniel Jimenez                | 1-3                     | 2-1                            | 1-3                       | 3-2                     |
+| 016                 | Ernie                        | 1-3                     | 2-3                            | 2-2                       | 2-2                     |
+| 017                 | Bobacao                      | 2-4                     | 0-0                            | 0-2                       | 2-2                     |
+| 018                 | Eduardo palacios             | 1-3                     | 2-3                            | 1-3                       | 1-2                     |
+| 019                 | Diego Angeles                | 1-3                     | 1-1                            | 3-2                       | 3-0                     |
+| 020                 | Luis Llamas                  | 1-3                     | 2-2                            | 1-2                       | 3-2                     |
+| 021                 | German jair                  | 1-3                     | 2-1                            | 1-3                       | 2-3                     |
+| 022                 | Colin                        | 2-1                     | 2-1                            | 2-1                       | 2-0                     |
+| 023                 | Adam                         | 2-0                     | 2-1                            | 3-0                       | 2-0                     |
+| 024                 | Ahmed Felfel                 | 3-1                     | 0-0                            | 2-1                       | 3-1                     |
 
 ![](media/predicted_scores_KO4.png)
 

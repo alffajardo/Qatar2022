@@ -52,6 +52,7 @@ echo "
  ![](flags/matches/quarters.png)
  
  " >> 02.tmp_Eliminatoria.md
+
 ./gen_markdown_table.sh --csv < KO4_picks.csv >> 02.tmp_Eliminatoria.md
 
 echo "
