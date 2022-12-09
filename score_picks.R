@@ -208,12 +208,13 @@ KO4_score_bonus <- data.frame(numero_participante,Nombre,KO4_score_bonus)
 
 
 ### Escribir el output
-scores <- data.frame(numero_participante,Nombre, GS1,GS2,GS3,KO8,KO8_bonus,
-                     KO4_bonus) %>%
+scores <- data.frame(numero_participante,Nombre, GS1,GS2,GS3,
+                     KO8,KO8_bonus,
+                     KO4, KO4_bonus) %>%
   group_by (numero_participante) 
 
 scores <- scores %>%
-  mutate(Total = sum(GS1,GS2,GS3,KO8,KO8_bonus,KO4,K04_bonus,
+  mutate(Total = sum(GS1,GS2,GS3,KO8,KO8_bonus,KO4,KO4_bonus,
                      na.rm = T)) %>%
   ungroup %>%
   arrange(desc(Total),numero_participante)
