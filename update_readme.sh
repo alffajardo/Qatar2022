@@ -239,7 +239,7 @@ echo "
 
 [Resultados de la fase de Octavos](KO8_complete_scores.csv)
 
-[Marcadores Octavos](KO8_complete_bonus.csv)
+[Marcadores de la fase de Octavos](KO8_complete_bonus.csv)
  
 --- "  >> 02.tmp_Resultados.md
 
@@ -247,7 +247,7 @@ echo "
 
 [Resultados de la fase de Cuartos](KO4_complete_scores.csv)
 
-[Marcadores Cuartos](KO4_complete_bonus.csv)
+[Marcadores de la fase de  Cuartos](KO4_complete_bonus.csv)
  
 --- "  >> 02.tmp_Resultados.md
 
