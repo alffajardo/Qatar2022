@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Fri  9 Dec 2022 10:44:08 EST.
+Última actualización: Fri  9 Dec 2022 10:54:06 EST.
 
 
 # **Puntuaciones**
@@ -116,7 +116,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 002                 | Poncho                       | 1-2                     | 2-2                            | 0-2                       | 1-1                     |
 | 003                 | Habib                        | 1-3                     | 1-1                            | 1-2                       | 2-2                     |
 | 004                 | Jalil                        | 1-3                     | 1-2                            | 0-1                       | 2-3                     |
-| 005                 | Isra Torres                  | 3-1                     | 1-1                            | 1-1                       | 2-1                     |
+| 005                 | Isra Torres                  | 1-3                     | 1-1                            | 1-1                       | 2-1                     |
 | 006                 | Juan Carlos Avendaño Aguilar | 1-2                     | 1-2                            | 1-3                       | 2-1                     |
 | 007                 | Claudio                      | 1-3                     | 2-1                            | 0-2                       | 2-3                     |
 | 008                 | Héctor Zepeda               | 0-4                     | 1-2                            | 0-2                       | 1-0                     |
@@ -132,9 +132,9 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 019                 | Diego Angeles                | 1-3                     | 1-1                            | 3-2                       | 3-0                     |
 | 020                 | Luis Llamas                  | 1-3                     | 2-2                            | 1-2                       | 3-2                     |
 | 021                 | German jair                  | 1-3                     | 2-1                            | 1-3                       | 2-3                     |
-| 022                 | Colin                        | 2-1                     | 2-1                            | 2-1                       | 2-0                     |
+| 022                 | Colin                        | 1-2                     | 2-1                            | 2-1                       | 2-0                     |
 | 023                 | Adam                         | 2-0                     | 2-1                            | 3-0                       | 2-0                     |
-| 024                 | Ahmed Felfel                 | 3-1                     | 0-0                            | 2-1                       | 3-1                     |
+| 024                 | Ahmed Felfel                 | 1-3                     | 0-0                            | 2-1                       | 3-1                     |
 
 ![](media/predicted_scores_KO4.png)
 
