@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: sáb 10 dic 2022 11:59:21 EST.
+Última actualización: sáb 10 dic 2022 12:01:51 EST.
 
 
 # **Puntuaciones**
@@ -36,14 +36,14 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 8   | 6   | 0         | 1   | 0         | 29    |
 | 009                 | Luis Temo Marquez             | 9   | 5   | 9   | 6   | 0         | 0   | 0         | 29    |
 | 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 8   | 7   | 0         | 1   | 0         | 29    |
+| 019                 | Diego Angeles                 | 8   | 8   | 7   | 4   | 0         | 2   | 0         | 29    |
+| 024                 | Ahmed Felfel                  | 8   | 7   | 5   | 7   | 0         | 2   | 0         | 29    |
 | 005                 | Israel torres                 | 7   | 5   | 8   | 7   | 1         | 0   | 0         | 28    |
 | 011                 | Jacob                         | 6   | 6   | 9   | 7   | 0         | 0   | 0         | 28    |
 | 013                 | Rubén Aguilar Grande         | 9   | 6   | 7   | 6   | 0         | 0   | 0         | 28    |
 | 015                 | Daniel Jimenez                | 8   | 6   | 7   | 6   | 1         | 0   | 0         | 28    |
 | 017                 | Bobacao                       | 10  | 3   | 7   | 6   | 1         | 1   | 0         | 28    |
-| 019                 | Diego Angeles                 | 8   | 8   | 7   | 4   | 0         | 1   | 0         | 28    |
 | 022                 | Colin                         | 6   | 4   | 10  | 7   | 0         | 1   | 0         | 28    |
-| 024                 | Ahmed Felfel                  | 8   | 7   | 5   | 7   | 0         | 1   | 0         | 28    |
 | 004                 | Jalil Rasgado Toledo          | 9   | 5   | 6   | 6   | 0         | 1   | 0         | 27    |
 | 008                 | Héctor Zepeda                | 7   | 4   | 8   | 6   | 0         | 1   | 0         | 26    |
 | 021                 | German Jair Sanchez Soto      | 7   | 5   | 7   | 6   | 0         | 0   | 0         | 25    |
