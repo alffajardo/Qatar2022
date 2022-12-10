@@ -221,7 +221,7 @@ echo "### **Tabla General**
 
 echo "---
 
-##**Puntuaciones por Jornada**
+## **Puntuaciones por Jornada**
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
  
