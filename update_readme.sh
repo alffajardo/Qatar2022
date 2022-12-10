@@ -217,7 +217,9 @@ echo "### **Tabla General**
 
 
 ./gen_markdown_table.sh --csv < Overall_scores.csv >> 02.tmp_Resultados.md
-echo " 
+
+
+echo " ##**Puntuaciones por Jornada**
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
  
