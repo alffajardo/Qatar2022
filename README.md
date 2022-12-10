@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: sáb 10 dic 2022 12:38:00 EST.
+Última actualización: sáb 10 dic 2022 12:39:05 EST.
 
 
 # **Puntuaciones**
@@ -50,7 +50,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 023                 | adamziri                      | 8   | 5   | 6   | 6   | 0         | 0   | 0         | 25    |
 ---
 
-## **Puntuaciones por Jornada**
+# **Puntuaciones por Jornada**
 
 [Resultados de la Jornada 1](GS1_complete_scores.csv)
  
