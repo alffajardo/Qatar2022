@@ -170,7 +170,7 @@ KO4 <- matches %>%
   unlist() 
 
 
-match_names <- names(KO4_picks2)[1:length(KO4)]
+
 
 
 KO4_all <- map_dfc(1:length(KO4),~if_else( KO4[.x] == KO4_picks2[,.x],true = 1,0)) %>%
