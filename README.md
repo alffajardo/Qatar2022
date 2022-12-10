@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: Fri  9 Dec 2022 17:01:35 EST.
+Última actualización: sáb 10 dic 2022 11:57:04 EST.
 
 
 # **Puntuaciones**
@@ -65,91 +65,12 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 --- 
  
 
-[Resultados de la fase de Octavos](KO8_complete_scores.csv)
-
-[Marcadores de la fase de Octavos](KO8_complete_bonus.csv)
- 
---- 
- 
-
-[Resultados de la fase de Cuartos](KO4_complete_scores.csv)
-
-[Marcadores de la fase de  Cuartos](KO4_complete_bonus.csv)
+[Resultados de la fase de Octavos](KO8_complete_scores.csv) , [Marcadores](KO8_complete_bonus.csv)
  
 --- 
 # **Fase Eliminatoria**
 
 
-
- ## <u>**Picks de la fase de cuartos**</u>
-
- ![](flags/matches/quarters.png)
- 
- 
-| numero_participante | Nombre                       | Croatia vs Brazil | Netherlands vs Argentina | Morocco vs Portugal | England vs France |
-| ------------------- | ---------------------------- | ----------------- | ------------------------ | ------------------- | ----------------- |
-| 001                 | Jonathan                     | Brazil            | Netherlands              | Portugal            | France            |
-| 002                 | Poncho                       | Brazil            | Argentina                | Portugal            | France            |
-| 003                 | Habib                        | Brazil            | Argentina                | Portugal            | England           |
-| 004                 | Jalil                        | Brazil            | Argentina                | Portugal            | France            |
-| 005                 | Isra Torres                  | Brazil            | Netherlands              | Portugal            | France            |
-| 006                 | Juan Carlos Avendaño Aguilar | Brazil            | Argentina                | Portugal            | England           |
-| 007                 | Claudio                      | Brazil            | Netherlands              | Portugal            | France            |
-| 008                 | Héctor Zepeda               | Brazil            | Argentina                | Portugal            | England           |
-| 009                 | Luis Temo Marquez            | Brazil            | Netherlands              | Portugal            | France            |
-| 010                 | Fosi                         | Brazil            | Argentina                | Portugal            | England           |
-| 011                 | Jacob                        | NA                | NA                       | NA                  | NA                |
-| 012                 | Ibrahim T                    | Brazil            | Argentina                | Portugal            | England           |
-| 013                 | Ruben                        | Brazil            | Netherlands              | Portugal            | France            |
-| 014                 | Valentin                     | Brazil            | Netherlands              | Portugal            | France            |
-| 015                 | Dniel Jimenez                | Brazil            | Netherlands              | Portugal            | England           |
-| 016                 | Ernie                        | Brazil            | Argentina                | Portugal            | France            |
-| 017                 | Bobacao                      | Brazil            | Argentina                | Portugal            | France            |
-| 018                 | Eduardo palacios             | Brazil            | Argentina                | Portugal            | France            |
-| 019                 | Diego Angeles                | Brazil            | Argentina                | Morocco             | France            |
-| 020                 | Luis Llamas                  | Brazil            | Netherlands              | Portugal            | England           |
-| 021                 | German jair                  | Brazil            | Netherlands              | Portugal            | France            |
-| 022                 | Colin                        | Brazil            | Argentina                | Portugal            | France            |
-| 023                 | Adam                         | Brazil            | Netherlands              | Portugal            | France            |
-| 024                 | Ahmed Felfel                 | Brazil            | Argentina                | Morocco             | France            |
-
-![](media/picks_KO4.png)
-
-
-
- ## <u>**Predicción de Marcadores**</u>
- 
- 
-| numero_participante | Nombre                       | Croatia vs Brazil score | Netherlands vs Argentina score | Morocco vs Portugal score | England vs France score |
-| ------------------- | ---------------------------- | ----------------------- | ------------------------------ | ------------------------- | ----------------------- |
-| 001                 | Jonathan                     | 1-3                     | 2-2                            | 1-3                       | 1-1                     |
-| 002                 | Poncho                       | 1-2                     | 2-2                            | 0-2                       | 1-1                     |
-| 003                 | Habib                        | 1-3                     | 1-1                            | 1-2                       | 2-2                     |
-| 004                 | Jalil                        | 1-3                     | 1-2                            | 0-1                       | 2-3                     |
-| 005                 | Isra Torres                  | 1-3                     | 1-1                            | 1-1                       | 1-2                     |
-| 006                 | Juan Carlos Avendaño Aguilar | 1-2                     | 1-2                            | 1-3                       | 2-1                     |
-| 007                 | Claudio                      | 1-3                     | 2-1                            | 0-2                       | 2-3                     |
-| 008                 | Héctor Zepeda               | 0-4                     | 1-2                            | 0-2                       | 1-0                     |
-| 009                 | Luis Temo Marquez            | 1-3                     | 3-2                            | 1-2                       | 2-3                     |
-| 010                 | Fosi                         | 1-3                     | 1-2                            | 1-2                       | 3-2                     |
-| 011                 | Jacob                        | NA                      | NA                             | NA                        | NA                      |
-| 012                 | Ibrahim T                    | 2-1                     | 0-1                            | 1-4                       | 2-2                     |
-| 013                 | Ruben                        | 1-2                     | 2-1                            | 0-2                       | 2-2                     |
-| 014                 | Valentin                     | 1-3                     | 1-1                            | 1-3                       | 2-4                     |
-| 015                 | Dniel Jimenez                | 1-3                     | 2-1                            | 1-3                       | 3-2                     |
-| 016                 | Ernie                        | 1-3                     | 2-3                            | 2-2                       | 2-2                     |
-| 017                 | Bobacao                      | 2-4                     | 0-0                            | 0-2                       | 2-2                     |
-| 018                 | Eduardo palacios             | 1-3                     | 2-3                            | 1-3                       | 1-2                     |
-| 019                 | Diego Angeles                | 1-3                     | 1-1                            | 3-2                       | 0-3                     |
-| 020                 | Luis Llamas                  | 1-3                     | 2-2                            | 1-2                       | 3-2                     |
-| 021                 | German jair                  | 1-3                     | 2-1                            | 1-3                       | 2-3                     |
-| 022                 | Colin                        | 1-2                     | 1-2                            | 1-2                       | 0-2                     |
-| 023                 | Adam                         | 2-0                     | 2-1                            | 0-3                       | 2-0                     |
-| 024                 | Ahmed Felfel                 | 1-3                     | 0-0                            | 2-1                       | 1-3                     |
-
-![](media/predicted_scores_KO4.png)
-
-- - - 
 
  ## <u>**Picks de la fase de octavos**</u>
 
