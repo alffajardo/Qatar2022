@@ -158,6 +158,8 @@ KO8_bonus <- rowSums(KO8_score_bonus,na.rm = T)
 
 KO8_score_bonus <- data.frame(numero_participante,Nombre,KO8_score_bonus)
 
+## Cuartos
+
 KO4_picks <- read_csv("KO4_picks.csv")
 
 KO4_picks2 <- select(KO4_picks,-c(1,2))
@@ -199,7 +201,47 @@ KO4_bonus <- rowSums(KO4_score_bonus,na.rm = T)
 
 KO4_score_bonus <- data.frame(numero_participante,Nombre,KO4_score_bonus)
 
+# SEMIFINALES 
+KO2_picks <- read_csv("KO2_picks.csv")
 
+KO2_picks2 <- select(KO2_picks,-c(1,2))
+
+
+KO2 <- matches %>%
+  filter (Round == "KO2") %>%
+  select(Result) %>%
+  as.vector() %>%
+  unlist() 
+  match_names <- names(KO2_picks2)[1:length(KO2)]
+
+
+
+KO2_all <- map_dfc(1:length(KO2),~if_else( KO2[.x] == KO2_picks2[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+
+KO2 <- rowSums(KO2_all,na.rm = T)
+
+scores_KO2 <- data.frame(numero_participante,Nombre,KO2_all)
+
+
+# calificar el marcador
+
+KO2_goals <- matches %>%
+  filter(Round == "KO2") %>%
+  select(Score) %>%
+  as.vector() %>%
+  unlist()
+
+KO2_predicted_scores <- read_csv("KO2_predicted_scores.csv") %>%
+  select(-c(1:2))
+
+KO2_score_bonus <- map_dfc(1:length(KO2_goals),~if_else( KO2_goals[.x] == KO2_predicted_scores[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+KO2_bonus <- rowSums(KO2_score_bonus,na.rm = T)
+
+KO2_score_bonus <- data.frame(numero_participante,Nombre,KO2_score_bonus)
 
 
 
@@ -209,11 +251,14 @@ KO4_score_bonus <- data.frame(numero_participante,Nombre,KO4_score_bonus)
 ### Escribir el output
 scores <- data.frame(numero_participante,Nombre, GS1,GS2,GS3,
                      KO8,KO8_bonus,
-                     KO4, KO4_bonus) %>%
+                     KO4, KO4_bonus,
+                     KO2, KO2_bonus) %>%
   group_by (numero_participante) 
 
 scores <- scores %>%
-  mutate(Total = sum(GS1,GS2,GS3,KO8,KO8_bonus,KO4,KO4_bonus,
+  mutate(Total = sum(GS1,GS2,GS3,KO8,KO8_bonus,
+                     KO4,KO4_bonus,
+                     KO2,KO2_bonus,
                      na.rm = T)) %>%
   ungroup %>%
   arrange(desc(Total),numero_participante)
@@ -235,5 +280,8 @@ write.table(scores_KO4, "KO4_complete_scores.csv",sep = ",",
             quote = F ,row.names = F )
 write.table(KO4_score_bonus, "KO4_complete_bonus.csv",sep = ",",
             quote = F ,row.names = F )
-
+write.table(scores_KO2, "KO2_complete_scores.csv",sep = ",",
+            quote = F ,row.names = F )
+write.table(KO2_score_bonus, "KO2_complete_bonus.csv",sep = ",",
+            quote = F ,row.names = F )
 

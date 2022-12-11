@@ -279,6 +279,14 @@ echo "
  
 --- "  >> 02.tmp_Resultados.md
 
+echo " 
+
+[Resultados de la fase de Cuartos](KO2_complete_scores.csv)
+
+[Marcadores de la fase de  Cuartos](KO2_complete_bonus.csv)
+ 
+--- "  >> 02.tmp_Resultados.md
+
 #### --------------------------------------------------------------------------------------------------------
 ## ELIMININATORIAS
 
