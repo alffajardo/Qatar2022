@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: dom 11 dic 2022 13:30:41 EST.
+Última actualización: dom 11 dic 2022 13:33:01 EST.
 
 
 # **Puntuaciones**
@@ -81,9 +81,9 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 --- 
  
 
-[Resultados de la fase de Cuartos](KO2_complete_scores.csv)
+[Resultados de las Semifinales](KO2_complete_scores.csv)
 
-[Marcadores de la fase de  Cuartos](KO2_complete_bonus.csv)
+[Marcadores de las Seminales ](KO2_complete_bonus.csv)
  
 --- 
 # **Fase Eliminatoria**

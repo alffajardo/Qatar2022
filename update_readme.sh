@@ -281,9 +281,9 @@ echo "
 
 echo " 
 
-[Resultados de la fase de Cuartos](KO2_complete_scores.csv)
+[Resultados de las Semifinales](KO2_complete_scores.csv)
 
-[Marcadores de la fase de  Cuartos](KO2_complete_bonus.csv)
+[Marcadores de las Seminales ](KO2_complete_bonus.csv)
  
 --- "  >> 02.tmp_Resultados.md
 
