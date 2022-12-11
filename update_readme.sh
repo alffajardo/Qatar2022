@@ -44,7 +44,7 @@ echo "# **Fase Eliminatoria**
 echo "
  ## <u>**Picks de las Semifinales**</u>
 
- ![](flags/matches/semifinales.png)
+ ![](flags/matches/semifinals.png)
  
  " >> 02.tmp_Eliminatoria.md
 
