@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: dom 11 dic 2022 12:21:44 EST.
+Última actualización: dom 11 dic 2022 13:00:15 EST.
 
 
 # **Puntuaciones**
@@ -82,6 +82,22 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 # **Fase Eliminatoria**
 
 
+
+ ## <u>**Picks de las Semifinales**</u>
+
+ ![](flags/matches/semifinales.png)
+ 
+ 
+| numero_participante | Nombre | ...6 | France vs Morocco |
+| ------------------- | ------ | ---- | ----------------- |
+
+![](media/picks_KO2.png)
+
+
+
+ ## <u>**Predicción de Marcadores**</u>
+ 
+ 
 
  ## <u>**Picks de la fase de cuartos**</u>
 

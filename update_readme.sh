@@ -39,6 +39,30 @@ echo "# **Fase Eliminatoria**
 " > 02.tmp_Eliminatoria.md
 
 # --------------------------------------------------------
+# ------------- SEMIFINALES ------------------------------
+
+echo "
+ ## <u>**Picks de las Semifinales**</u>
+
+ ![](flags/matches/semifinales.png)
+ 
+ " >> 02.tmp_Eliminatoria.md
+
+./gen_markdown_table.sh --csv < KO2_picks.csv >> 02.tmp_Eliminatoria.md
+
+echo "
+![](media/picks_KO2.png)
+
+" >> 02.tmp_Eliminatoria.md
+
+echo "
+ ## <u>**Predicción de Marcadores**</u>
+ 
+ " >> 02.tmp_Eliminatoria.md
+
+# -------------------------------------------------------------------------------
+
+# --------------------------------------------------------
 # ------------- Fase de cuartos --------------------------
 
 # -------------------------------------------------------------------------------
