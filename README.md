@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: mar 13 dic 2022 13:32:24 EST.
+Última actualización: mar 13 dic 2022 13:35:30 EST.
 
 
 # **Puntuaciones**
@@ -95,8 +95,32 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
  ![](flags/matches/semifinals.png)
  
  
-| numero_participante | Nombre | Argentina vs Croatia | France vs Morocco |
-| ------------------- | ------ | -------------------- | ----------------- |
+| numero_participante | Nombre                       | Argentina vs Croatia | France vs Morocco |
+| ------------------- | ---------------------------- | -------------------- | ----------------- |
+| 001                 | Jonathan                     | Argentina            | France            |
+| 002                 | Poncho                       | Argentina            | France            |
+| 003                 | Habib Echanove               | Croatia              | Morocco           |
+| 004                 | Jalil Rasgado Toledo         | Croatia              | Morocco           |
+| 005                 | Isra                         | Croatia              | France            |
+| 006                 | Juan Carlos Avendaño Aguilar | Argentina            | France            |
+| 007                 | Claudio                      | Argentina            | France            |
+| 008                 | Héctor Zepeda               | Argentina            | France            |
+| 009                 | Luis Temo Marquez            | Argentina            | France            |
+| 010                 | Fosi                         | Argentina            | France            |
+| 011                 | Jacob                        | NA                   | NA                |
+| 012                 | Ibrahim T                    | Croatia              | Morocco           |
+| 013                 | Ruben                        | Croatia              | France            |
+| 014                 | Valentin                     | Argentina            | France            |
+| 015                 | Daniel Jimenez               | Croatia              | Morocco           |
+| 016                 | Ernie                        | Argentina            | France            |
+| 017                 | Bobacao                      | Argentina            | Morocco           |
+| 018                 | Eduardo                      | NA                   | NA                |
+| 019                 | Diego Angeles                | Croatia              | Morocco           |
+| 020                 | Luis Llamas                  | Argentina            | France            |
+| 021                 | German Jair                  | Argentina            | Morocco           |
+| 022                 | Colin                        | NA                   | NA                |
+| 023                 | Adam                         | Croatia              | Morocco           |
+| 024                 | Ahmed Felfel                 | Argentina            | Morocco           |
 
 ![](media/picks_KO2.png)
 
