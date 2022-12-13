@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: mar 13 dic 2022 13:38:58 EST.
+Última actualización: mar 13 dic 2022 13:41:58 EST.
 
 
 # **Puntuaciones**
@@ -127,8 +127,38 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
  ## <u>**Predicción de Marcadores**</u>
+
  
- 
+| numero_participante | Nombre                       | Argentina vs Croatia score | France vs Morocco score |
+| ------------------- | ---------------------------- | -------------------------- | ----------------------- |
+| 001                 | Jonathan                     | 1-1                        | 2-0                     |
+| 002                 | Poncho                       | 1-1                        | 2-1                     |
+| 003                 | Habib Echanove               | 1-1                        | 0-1                     |
+| 004                 | Jalil Rasgado Toledo         | 2-2                        | 1-2                     |
+| 005                 | Isra                         | 1-1                        | 2-1                     |
+| 006                 | Juan Carlos Avendaño Aguilar | 2-1                        | 3-0                     |
+| 007                 | Claudio                      | 1-1                        | 2-0                     |
+| 008                 | Héctor Zepeda               | 3-2                        | 4-1                     |
+| 009                 | Luis Temo Marquez            | 2-1                        | 4-2                     |
+| 010                 | Fosi                         | 1-0                        | 2-1                     |
+| 011                 | Jacob                        | NA                         | NA                      |
+| 012                 | Ibrahim T                    | 2-1                        | 1-2                     |
+| 013                 | Ruben                        | 0-1                        | 2-0                     |
+| 014                 | Valentin                     | 1-1                        | 3-1                     |
+| 015                 | Daniel Jimenez               | 1-3                        | 1-1                     |
+| 016                 | Ernie                        | 2-1                        | 3-1                     |
+| 017                 | Bobacao                      | 1-1                        | 0-1                     |
+| 018                 | Eduardo                      | NA                         | NA                      |
+| 019                 | Diego Angeles                | 1-2                        | 1-1                     |
+| 020                 | Luis Llamas                  | 1-1                        | 2-1                     |
+| 021                 | German Jair                  | 2-1                        | 0-1                     |
+| 022                 | Colin                        | NA                         | NA                      |
+| 023                 | Adam                         | 1-0                        | 0-1                     |
+| 024                 | Ahmed Felfel                 | 1-1                        | 2-3                     |
+
+![](media/predicted_scores_KO2.png)
+
+- - - 
 
  ## <u>**Picks de la fase de cuartos**</u>
 

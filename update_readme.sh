@@ -57,8 +57,13 @@ echo "
 
 echo "
  ## <u>**Predicción de Marcadores**</u>
- 
+
  " >> 02.tmp_Eliminatoria.md
+./gen_markdown_table.sh --csv < KO2_predicted_scores.csv >> 02.tmp_Eliminatoria.md
+echo "
+![](media/predicted_scores_KO2.png)
+
+- - - " >> 02.tmp_Eliminatoria.md
 
 # -------------------------------------------------------------------------------
 
