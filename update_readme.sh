@@ -44,7 +44,7 @@ echo "# **Fase Eliminatoria**
 echo "
  # <u>**Picks de la GRAN FINAL**</u>
 
- ![](flags/matches/final.gif)
+ ![](matches/final.gif)
  
  " >> 02.tmp_Eliminatoria.md
 
