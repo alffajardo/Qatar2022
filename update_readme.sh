@@ -44,14 +44,14 @@ echo "# **Fase Eliminatoria**
 echo "
  # <u>**Picks de la GRAN FINAL**</u>
 
- ![](media/final.gif)
+![](flags/matches/Match64.png)
  
  " >> 02.tmp_Eliminatoria.md
 
 ./gen_markdown_table.sh --csv < KOFinal_picks.csv >> 02.tmp_Eliminatoria.md
 
 echo "
-![](flags/matches/Match64.png)
+ ![](media/final.gif)
 
 " >> 02.tmp_Eliminatoria.md
 
