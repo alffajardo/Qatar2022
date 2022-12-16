@@ -39,6 +39,33 @@ echo "# **Fase Eliminatoria**
 " > 02.tmp_Eliminatoria.md
 
 # --------------------------------------------------------
+# ------------- FINAL------------------------------
+
+echo "
+ # <u>**Picks de la GRAN FINAL**</u>
+
+ ![](flags/matches/final.gif)
+ 
+ " >> 02.tmp_Eliminatoria.md
+
+./gen_markdown_table.sh --csv < KOFinal_picks.csv >> 02.tmp_Eliminatoria.md
+
+echo "
+![](flags/matches/Match64.png)
+
+" >> 02.tmp_Eliminatoria.md
+
+echo "
+ ## <u>**Predicción de Marcadores**</u>
+
+ " >> 02.tmp_Eliminatoria.md
+./gen_markdown_table.sh --csv < KOFinal_predicted_scores.csv >> 02.tmp_Eliminatoria.md
+echo "
+![](media/predicted_scores_KOFinal.png)
+
+- - - " >> 02.tmp_Eliminatoria.md
+
+# --------------------------------------------------------
 # ------------- SEMIFINALES ------------------------------
 
 echo "
