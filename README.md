@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: sáb 17 dic 2022 11:49:33 EST.
+Última actualización: sáb 17 dic 2022 11:51:56 EST.
 
 
 # **Puntuaciones**
@@ -27,9 +27,9 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 001                 | Jonathan                      | 10  | 7   | 10  | 7   | 1         | 1   | 1         | 2   | 1         | 1       | 0             | 41    |
 | 002                 | Poncho                        | 9   | 9   | 7   | 6   | 0         | 2   | 1         | 2   | 0         | 1       | 0             | 37    |
 | 014                 | Valentin                      | 9   | 8   | 9   | 6   | 1         | 1   | 0         | 2   | 0         | 1       | 0             | 37    |
-| 007                 | Claudio                       | 9   | 6   | 8   | 8   | 0         | 1   | 0         | 2   | 1         | 1       | 0             | 36    |
 | 016                 | Ernie                         | 8   | 7   | 7   | 7   | 1         | 2   | 0         | 2   | 0         | 1       | 1             | 36    |
 | 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 7   | 8   | 1         | 0   | 1         | 2   | 0         | 0       | 0             | 36    |
+| 007                 | Claudio                       | 9   | 6   | 8   | 8   | 0         | 1   | 0         | 2   | 1         | 0       | 0             | 35    |
 | 010                 | Fosi                          | 8   | 5   | 8   | 7   | 2         | 1   | 0         | 2   | 0         | 1       | 1             | 35    |
 | 009                 | Luis Temo Marquez             | 9   | 5   | 9   | 6   | 0         | 1   | 0         | 2   | 0         | 1       | 0             | 33    |
 | 012                 | Ibrahim T                     | 10  | 6   | 8   | 7   | 1         | 1   | 0         | 0   | 0         | 0       | 0             | 33    |
@@ -114,7 +114,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 004                 | Jalil                        | NA                 | NA                  |
 | 005                 | Isra                         | Croatia            | France              |
 | 006                 | Juan Carlos Avendaño Aguilar | Morocco            | France              |
-| 007                 | Claudio                      | Croatia            | France              |
+| 007                 | Claudio                      | NA                 | France              |
 | 008                 | Héctor Zepeda0              | Morocco            | Argentina           |
 | 009                 | Luis Temo Marquez            | Croatia            | Argentina           |
 | 010                 | Fosi                         | Croatia            | Argentina           |
