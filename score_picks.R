@@ -292,7 +292,8 @@ KOFinal_score_bonus <- data.frame(numero_participante,Nombre,KOFinal_score_bonus
 scores <- data.frame(numero_participante,Nombre, GS1,GS2,GS3,
                      KO8,KO8_bonus,
                      KO4, KO4_bonus,
-                     KO2, KO2_bonus) %>%
+                     KO2, KO2_bonus,
+                     KOFinal,KOFinal_bonus) %>%
   group_by (numero_participante) 
 
 scores <- scores %>%
