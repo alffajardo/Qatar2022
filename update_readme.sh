@@ -326,7 +326,7 @@ echo "
 
 echo " 
 
-[Resultados de las Final](KOFinal_complete_scores.csv)
+[Resultados de la Final](KOFinal_complete_scores.csv)
 
 [Marcadores de Final ](KOFinal_complete_bonus.csv)
  
