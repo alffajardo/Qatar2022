@@ -48,13 +48,17 @@ echo "
 ![](flags/matches/Match64.png)
  
  " >> 02.tmp_Eliminatoria.md
+ 
+ echo "
+ ![](media/final.gif)
+
+" >> 02.tmp_Eliminatoria.md
 
 ./gen_markdown_table.sh --csv < KOFinal_picks.csv >> 02.tmp_Eliminatoria.md
 
 echo "
- ![](media/final.gif)
 
-" >> 02.tmp_Eliminatoria.md
+![](media/picks_KOFinal.png)" >> 02.tmp_Eliminatoria.md
 
 echo "
  ## <u>**Predicción de Marcadores**</u>

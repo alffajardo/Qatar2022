@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: sáb 17 dic 2022 10:17:10 EST.
+Última actualización: sáb 17 dic 2022 10:21:48 EST.
 
 
 # **Puntuaciones**
@@ -95,6 +95,10 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 ![](flags/matches/Match64.png)
  
  
+
+ ![](media/final.gif)
+
+
 | numero_participante | Nombre                       | Croatia vs Morocco | Argentina vs France |
 | ------------------- | ---------------------------- | ------------------ | ------------------- |
 | 001                 | Jonathan                     | Croatia            | France              |
@@ -122,9 +126,8 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 | 023                 | Adam                         | NA                 | NA                  |
 | 024                 | Ahmed Felfel                 | Morocco            | Argentina           |
 
- ![](media/final.gif)
 
-
+![](media/picks_KOFinal.png)
 
  ## <u>**Predicción de Marcadores**</u>
 
