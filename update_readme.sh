@@ -41,6 +41,7 @@ echo "# **Fase Eliminatoria**
 # --------------------------------------------------------
 # ------------- FINAL------------------------------
 
+Rscript generate_picks_KOFinal.R
 echo "
  # <u>**Picks de la GRAN FINAL**</u>
 

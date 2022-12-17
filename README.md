@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: sáb 17 dic 2022 10:12:46 EST.
+Última actualización: sáb 17 dic 2022 10:17:10 EST.
 
 
 # **Puntuaciones**
@@ -95,6 +95,32 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 ![](flags/matches/Match64.png)
  
  
+| numero_participante | Nombre                       | Croatia vs Morocco | Argentina vs France |
+| ------------------- | ---------------------------- | ------------------ | ------------------- |
+| 001                 | Jonathan                     | Croatia            | France              |
+| 002                 | Poncho                       | Croatia            | France              |
+| 003                 | Habib                        | NA                 | NA                  |
+| 004                 | Jalil                        | NA                 | NA                  |
+| 005                 | Isra                         | Croatia            | France              |
+| 006                 | Juan Carlos Avendaño Aguilar | Morocco            | France              |
+| 007                 | Claudio                      | NA                 | NA                  |
+| 008                 | Héctor Zepeda0              | Morocco            | Argentina           |
+| 009                 | Luis Temo Marquez            | Croatia            | Argentina           |
+| 010                 | Fosi                         | Croatia            | Argentina           |
+| 011                 | Jacob                        | NA                 | NA                  |
+| 012                 | Ibrahim T                    | NA                 | NA                  |
+| 013                 | Ruben                        | Croatia            | France              |
+| 014                 | Valentin                     | Croatia            | France              |
+| 015                 | Daniel JImenez               | NA                 | NA                  |
+| 016                 | Ernie                        | Croatia            | Argentina           |
+| 017                 | Bobacao                      | Morocco            | Argentina           |
+| 018                 | Eduardo                      | NA                 | NA                  |
+| 019                 | Diego                        | Morocco            | France              |
+| 020                 | Luis Llamas                  | Morocco            | France              |
+| 021                 | German Jair                  | NA                 | NA                  |
+| 022                 | Colin                        | Morocco            | Argentina           |
+| 023                 | Adam                         | NA                 | NA                  |
+| 024                 | Ahmed Felfel                 | Morocco            | Argentina           |
 
  ![](media/final.gif)
 
@@ -103,6 +129,32 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
  ## <u>**Predicción de Marcadores**</u>
 
  
+| numero_participante | Nombre                       | Croatia vs Morocco score | Argentina vs France score |
+| ------------------- | ---------------------------- | ------------------------ | ------------------------- |
+| 001                 | Jonathan                     | 1-1                      | 0-10                      |
+| 002                 | Poncho                       | 1-1                      | 2-2                       |
+| 003                 | Habib                        | NA                       | NA                        |
+| 004                 | Jalil                        | NA                       | NA                        |
+| 005                 | Isra                         | 1-1                      | 1-2                       |
+| 006                 | Juan Carlos Avendaño Aguilar | 1-2                      | 1-2                       |
+| 007                 | Claudio                      | NA                       | NA                        |
+| 008                 | Héctor Zepeda0              | 1-2                      | 2-0                       |
+| 009                 | Luis Temo Marquez            | 3-2                      | 3-3                       |
+| 010                 | Fosi                         | 2-1                      | 1-1                       |
+| 011                 | Jacob                        | NA                       | NA                        |
+| 012                 | Ibrahim T                    | NA                       | NA                        |
+| 013                 | Ruben                        | 2-1                      | 1-2                       |
+| 014                 | Valentin                     | 2-0                      | 1-2                       |
+| 015                 | Daniel JImenez               | NA                       | NA                        |
+| 016                 | Ernie                        | 2-1                      | 2-2                       |
+| 017                 | Bobacao                      | 1-2                      | 2-2                       |
+| 018                 | Eduardo                      | NA                       | NA                        |
+| 019                 | Diego                        | 0-2                      | 4-0                       |
+| 020                 | Luis Llamas                  | 1-2                      | 1-2                       |
+| 021                 | German Jair                  | NA                       | NA                        |
+| 022                 | Colin                        | 2-0                      | 2-1                       |
+| 023                 | Adam                         | NA                       | NA                        |
+| 024                 | Ahmed Felfel                 | 2-1                      | 3-1                       |
 
 ![](media/predicted_scores_KOFinal.png)
 
