@@ -324,6 +324,13 @@ echo "
  
 --- "  >> 02.tmp_Resultados.md
 
+echo " 
+
+[Resultados de las Final](KOFinal_complete_scores.csv)
+
+[Marcadores de Final ](KOFinal_complete_bonus.csv)
+ 
+--- "  >> 02.tmp_Resultados.md
 #### --------------------------------------------------------------------------------------------------------
 ## ELIMININATORIAS
 

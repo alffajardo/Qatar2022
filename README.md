@@ -13,7 +13,7 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: sáb 17 dic 2022 10:21:48 EST.
+Última actualización: sáb 17 dic 2022 10:49:27 EST.
 
 
 # **Puntuaciones**
@@ -22,32 +22,32 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 ### **Tabla General**
 
 
-| numero_participante | Nombre                        | GS1 | GS2 | GS3 | KO8 | KO8_bonus | KO4 | KO4_bonus | KO2 | KO2_bonus | Total |
-| ------------------- | ----------------------------- | --- | --- | --- | --- | --------- | --- | --------- | --- | --------- | ----- |
-| 001                 | Jonathan                      | 10  | 7   | 10  | 7   | 1         | 1   | 1         | 2   | 1         | 40    |
-| 002                 | Poncho                        | 9   | 9   | 7   | 6   | 0         | 2   | 1         | 2   | 0         | 36    |
-| 014                 | Valentin                      | 9   | 8   | 9   | 6   | 1         | 1   | 0         | 2   | 0         | 36    |
-| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 7   | 8   | 1         | 0   | 1         | 2   | 0         | 36    |
-| 007                 | Claudio                       | 9   | 6   | 8   | 8   | 0         | 1   | 0         | 2   | 1         | 35    |
-| 016                 | Ernie                         | 8   | 7   | 7   | 7   | 1         | 2   | 0         | 2   | 0         | 34    |
-| 010                 | Fosi                          | 8   | 5   | 8   | 7   | 2         | 1   | 0         | 2   | 0         | 33    |
-| 012                 | Ibrahim T                     | 10  | 6   | 8   | 7   | 1         | 1   | 0         | 0   | 0         | 33    |
-| 003                 | Habib                         | 11  | 6   | 7   | 7   | 0         | 1   | 0         | 0   | 0         | 32    |
-| 009                 | Luis Temo Marquez             | 9   | 5   | 9   | 6   | 0         | 1   | 0         | 2   | 0         | 32    |
-| 005                 | Israel torres                 | 7   | 5   | 8   | 7   | 1         | 1   | 1         | 1   | 0         | 31    |
-| 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 8   | 6   | 0         | 1   | 0         | 2   | 0         | 31    |
-| 013                 | Rubén Aguilar Grande         | 9   | 6   | 7   | 6   | 0         | 1   | 0         | 1   | 1         | 31    |
-| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 8   | 7   | 0         | 2   | 1         | 0   | 0         | 31    |
-| 024                 | Ahmed Felfel                  | 8   | 7   | 5   | 7   | 0         | 3   | 0         | 1   | 0         | 31    |
-| 017                 | Bobacao                       | 10  | 3   | 7   | 6   | 1         | 2   | 0         | 1   | 0         | 30    |
-| 019                 | Diego Angeles                 | 8   | 8   | 7   | 4   | 0         | 3   | 0         | 0   | 0         | 30    |
-| 022                 | Colin                         | 6   | 4   | 10  | 7   | 0         | 2   | 0         | 0   | 0         | 29    |
-| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 6   | 6   | 0         | 2   | 0         | 0   | 0         | 28    |
-| 008                 | Héctor Zepeda                | 7   | 4   | 8   | 6   | 0         | 1   | 0         | 2   | 0         | 28    |
-| 011                 | Jacob                         | 6   | 6   | 9   | 7   | 0         | 0   | 0         | 0   | 0         | 28    |
-| 015                 | Daniel Jimenez                | 8   | 6   | 7   | 6   | 1         | 0   | 0         | 0   | 0         | 28    |
-| 021                 | German Jair Sanchez Soto      | 7   | 5   | 7   | 6   | 0         | 1   | 0         | 1   | 0         | 27    |
-| 023                 | adamziri                      | 8   | 5   | 6   | 6   | 0         | 1   | 0         | 0   | 0         | 26    |
+| numero_participante | Nombre                        | GS1 | GS2 | GS3 | KO8 | KO8_bonus | KO4 | KO4_bonus | KO2 | KO2_bonus | KOFinal | KOFinal_bonus | Total |
+| ------------------- | ----------------------------- | --- | --- | --- | --- | --------- | --- | --------- | --- | --------- | ------- | ------------- | ----- |
+| 001                 | Jonathan                      | 10  | 7   | 10  | 7   | 1         | 1   | 1         | 2   | 1         | 1       | 0             | 40    |
+| 002                 | Poncho                        | 9   | 9   | 7   | 6   | 0         | 2   | 1         | 2   | 0         | 1       | 0             | 36    |
+| 014                 | Valentin                      | 9   | 8   | 9   | 6   | 1         | 1   | 0         | 2   | 0         | 1       | 0             | 36    |
+| 020                 | Luis Angel Llamas Alonso      | 10  | 7   | 7   | 8   | 1         | 0   | 1         | 2   | 0         | 0       | 0             | 36    |
+| 007                 | Claudio                       | 9   | 6   | 8   | 8   | 0         | 1   | 0         | 2   | 1         | 0       | 0             | 35    |
+| 016                 | Ernie                         | 8   | 7   | 7   | 7   | 1         | 2   | 0         | 2   | 0         | 1       | 1             | 34    |
+| 010                 | Fosi                          | 8   | 5   | 8   | 7   | 2         | 1   | 0         | 2   | 0         | 1       | 1             | 33    |
+| 012                 | Ibrahim T                     | 10  | 6   | 8   | 7   | 1         | 1   | 0         | 0   | 0         | 0       | 0             | 33    |
+| 003                 | Habib                         | 11  | 6   | 7   | 7   | 0         | 1   | 0         | 0   | 0         | 0       | 0             | 32    |
+| 009                 | Luis Temo Marquez             | 9   | 5   | 9   | 6   | 0         | 1   | 0         | 2   | 0         | 1       | 0             | 32    |
+| 005                 | Israel torres                 | 7   | 5   | 8   | 7   | 1         | 1   | 1         | 1   | 0         | 1       | 0             | 31    |
+| 006                 | Juan Carlos Avendaño Aguilar | 9   | 5   | 8   | 6   | 0         | 1   | 0         | 2   | 0         | 0       | 0             | 31    |
+| 013                 | Rubén Aguilar Grande         | 9   | 6   | 7   | 6   | 0         | 1   | 0         | 1   | 1         | 1       | 1             | 31    |
+| 018                 | Eduardo Rafael Palacios Rejón | 8   | 5   | 8   | 7   | 0         | 2   | 1         | 0   | 0         | 0       | 0             | 31    |
+| 024                 | Ahmed Felfel                  | 8   | 7   | 5   | 7   | 0         | 3   | 0         | 1   | 0         | 0       | 1             | 31    |
+| 017                 | Bobacao                       | 10  | 3   | 7   | 6   | 1         | 2   | 0         | 1   | 0         | 0       | 0             | 30    |
+| 019                 | Diego Angeles                 | 8   | 8   | 7   | 4   | 0         | 3   | 0         | 0   | 0         | 0       | 0             | 30    |
+| 022                 | Colin                         | 6   | 4   | 10  | 7   | 0         | 2   | 0         | 0   | 0         | 0       | 0             | 29    |
+| 004                 | Jalil Rasgado Toledo          | 9   | 5   | 6   | 6   | 0         | 2   | 0         | 0   | 0         | 0       | 0             | 28    |
+| 008                 | Héctor Zepeda                | 7   | 4   | 8   | 6   | 0         | 1   | 0         | 2   | 0         | 0       | 0             | 28    |
+| 011                 | Jacob                         | 6   | 6   | 9   | 7   | 0         | 0   | 0         | 0   | 0         | 0       | 0             | 28    |
+| 015                 | Daniel Jimenez                | 8   | 6   | 7   | 6   | 1         | 0   | 0         | 0   | 0         | 0       | 0             | 28    |
+| 021                 | German Jair Sanchez Soto      | 7   | 5   | 7   | 6   | 0         | 1   | 0         | 1   | 0         | 0       | 0             | 27    |
+| 023                 | adamziri                      | 8   | 5   | 6   | 6   | 0         | 1   | 0         | 0   | 0         | 0       | 0             | 26    |
 ---
 
 # **Puntuaciones por Jornada**
@@ -84,6 +84,13 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 [Resultados de las Semifinales](KO2_complete_scores.csv)
 
 [Marcadores de las Seminales ](KO2_complete_bonus.csv)
+ 
+--- 
+ 
+
+[Resultados de las Final](KOFinal_complete_scores.csv)
+
+[Marcadores de Final ](KOFinal_complete_bonus.csv)
  
 --- 
 # **Fase Eliminatoria**

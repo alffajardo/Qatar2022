@@ -243,7 +243,47 @@ KO2_bonus <- rowSums(KO2_score_bonus,na.rm = T)
 
 KO2_score_bonus <- data.frame(numero_participante,Nombre,KO2_score_bonus)
 
+# FINALES 
+KOFinal_picks <- read_csv("KOFinal_picks.csv")
 
+KOFinal_picks2 <- select(KOFinal_picks,-c(1,2))
+
+
+KOFinal <- matches %>%
+  filter (Round == "Final") %>%
+  select(Result) %>%
+  as.vector() %>%
+  unlist() 
+match_names <- names(KOFinal_picks2)[1:length(KOFinal)]
+
+
+
+KOFinal_all <- map_dfc(1:length(KOFinal),~if_else( KOFinal[.x] == KOFinal_picks2[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+
+KOFinal <- rowSums(KOFinal_all,na.rm = T)
+
+scores_KOFinal <- data.frame(numero_participante,Nombre,KOFinal_all)
+
+
+# calificar el marcador
+
+KOFinal_goals <- matches %>%
+  filter(Round == "Final") %>%
+  select(Score) %>%
+  as.vector() %>%
+  unlist()
+
+KOFinal_predicted_scores <- read_csv("KOFinal_predicted_scores.csv") %>%
+  select(-c(1:2))
+
+KOFinal_score_bonus <- map_dfc(1:length(KOFinal_goals),~if_else( KOFinal_goals[.x] == KOFinal_predicted_scores[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+KOFinal_bonus <- rowSums(KOFinal_score_bonus,na.rm = T)
+
+KOFinal_score_bonus <- data.frame(numero_participante,Nombre,KOFinal_score_bonus)
 
 
 
@@ -252,7 +292,8 @@ KO2_score_bonus <- data.frame(numero_participante,Nombre,KO2_score_bonus)
 scores <- data.frame(numero_participante,Nombre, GS1,GS2,GS3,
                      KO8,KO8_bonus,
                      KO4, KO4_bonus,
-                     KO2, KO2_bonus) %>%
+                     KO2, KO2_bonus,
+                     KOFinal,KOFinal_bonus) %>%
   group_by (numero_participante) 
 
 scores <- scores %>%
@@ -262,6 +303,7 @@ scores <- scores %>%
                      na.rm = T)) %>%
   ungroup %>%
   arrange(desc(Total),numero_participante)
+
 
 
 write.table(scores,"Overall_scores.csv",quote = F,sep=",",row.names = F)
@@ -284,4 +326,9 @@ write.table(scores_KO2, "KO2_complete_scores.csv",sep = ",",
             quote = F ,row.names = F )
 write.table(KO2_score_bonus, "KO2_complete_bonus.csv",sep = ",",
             quote = F ,row.names = F )
+write.table(scores_KOFinal, "KOFinal_complete_scores.csv",sep = ",",
+            quote = F ,row.names = F )
+write.table(KOFinal_score_bonus, "KOFinal_complete_bonus.csv",sep = ",",
+            quote = F ,row.names = F )
+
 
