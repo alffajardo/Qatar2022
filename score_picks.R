@@ -300,6 +300,7 @@ scores <- scores %>%
   mutate(Total = sum(GS1,GS2,GS3,KO8,KO8_bonus,
                      KO4,KO4_bonus,
                      KO2,KO2_bonus,
+                     KOFinal,KOFinal_bonus,
                      na.rm = T)) %>%
   ungroup %>%
   arrange(desc(Total),numero_participante)
