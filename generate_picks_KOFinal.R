@@ -29,7 +29,8 @@ arrange(numero_participante) %>%
 
 scores_prediction <- picks %>%
                     arrange(numero_participante) %>%
-                    select(numero_participante,Nombre,ends_with("score"))
+                    select(numero_participante,Nombre,ends_with("score")) %>%
+                    data.frame()
   
   
 
