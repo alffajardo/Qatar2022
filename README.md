@@ -13,13 +13,13 @@ Este es el repositorio de la quiniela Qatar 2022. Aqui se publicarán las picks 
 
 
 
-Última actualización: mar 27 dic 2022 16:37:03 EST.
+Última actualización: mar 27 dic 2022 16:39:19 EST.
 
 
  # !Felicidades Argentina Campeona!
 
 
-<img src=flagsa/Argentina.png alt=Fifa2022 width=1000/>
+<img src=flags/Argentina.png alt=Argentina width=1000/>
 
 ---
  # Felicidades a los Ganadores de la Quiniela:
