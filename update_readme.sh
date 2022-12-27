@@ -28,16 +28,17 @@ echo -e "Última actualización: $(date).
 
 " >> 00.tmp_header.md 
 
-echo " # !Felicidades Argentina!
+echo " # !Felicidades Argentina Campeona!
 
 " >> 00.tmp_header.md
-echo "![](flags/Argentina.png)" >> 00.tmp_header.md
+echo "<img src="flagsa/Argentina.png" alt="Fifa2022" width="1000"/>
 
-echo "# Felicidades a los Ganadores de la Quiniela:
-        
-        - 1er lugar: **Jonathan**
-        - 2do lugar: **Ernie**
-        - 3er Lugar: **Poncho** " >> 00.tmp_header.md
+---" >> 00.tmp_header.md
+
+echo " # Felicidades a los Ganadores de la Quiniela:
+ - 1er lugar: **Jonathan**
+- 2do lugar: **Ernie**
+- 3er Lugar: **Poncho** " >> 00.tmp_header.md
 
 
 # ---------------------------------------------------------------------------------------------!
