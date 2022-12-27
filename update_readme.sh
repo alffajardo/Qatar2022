@@ -28,7 +28,7 @@ echo -e "Última actualización: $(date).
 
 " >> 00.tmp_header.md 
 
-echo " # !Felicidades Argentina Campeona!
+echo " # ¡Felicidades Argentina Campeona!
 
 " >> 00.tmp_header.md
 echo "<img src="flags/Argentina.png" alt="Argentina" width="1000"/>
